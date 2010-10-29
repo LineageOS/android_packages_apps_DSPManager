@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAABX///8k\u003d",
+        "filename": "res/values-zh-rCN/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 32
+      },
+      "writtenOn": "2010-10-29T21:54:26Z",
+      "side": 1,
+      "message": "I don\u0027t think these should be translated. Also bad formatting.",
+      "revId": "e0976669bf174d9a0d098449d82eefd7fff7810f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAABX///8g\u003d",
+        "filename": "res/values-zh-rCN/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 32
+      },
+      "writtenOn": "2010-10-29T21:54:26Z",
+      "side": 1,
+      "message": "same",
+      "revId": "e0976669bf174d9a0d098449d82eefd7fff7810f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
