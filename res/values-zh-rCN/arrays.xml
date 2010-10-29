@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="headphone_modes">
+        <item>录音室</item>
+        <item>房间</item>
+        <item>大房间</item>
+        <item>舞台</item>
+    </string-array><string-array name="headphone_modes_values"><item>dsp.headphone.deep=0;dsp.headphone.wide=0;dsp.headphone.level=-100</item>
+<item>dsp.headphone.deep=1;dsp.headphone.wide=0;dsp.headphone.level=0</item>
+<item>dsp.headphone.deep=1;dsp.headphone.wide=1;dsp.headphone.level=6</item>
+<item>dsp.headphone.deep=1;dsp.headphone.wide=1;dsp.headphone.level=8</item>
+</string-array>
+
+<string-array name="compression_modes"><item>轻微</item>
+<item>中等</item>
+<item>极强</item>
+
+</string-array>
+<string-array name="compression_modes_values"><item>dsp.compression.ratio=1.414</item>
+<item>dsp.compression.ratio=2.0</item>
+<item>dsp.compression.ratio=4.0</item>
+</string-array>
+
+</resources>

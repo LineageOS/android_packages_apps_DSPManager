@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DSP管理器</string>
+    <string name="dB">+0 分贝</string>
+    <string name="select_configuration_title">选择需要编辑的配置</string>
+    <string name="headset_title">有线耳机</string>
+    <string name="speaker_title">扬声器</string>
+    <string name="bluetooth_title">蓝牙设备</string>
+    <string name="dsp_settings">DSP 设置</string>
+    <string name="pref_dsp_title">动态范围压缩</string>
+    <string name="pref_dsp_summary_on">动态范围压缩已打开</string>
+    <string name="pref_dsp_summary_off">动态范围压缩已关闭</string>
+    <string name="pref_dsp_enable">打开</string>
+    <string name="pref_effect_title">选择效果强度</string>
+    <string name="dialog_effect">效果强度</string>
+    <string name="pref_equalizer_title">均衡器</string>
+    <string name="pref_equalizer_summary_on">均衡器已打开</string>
+    <string name="pref_equalizer_summary_off">均衡器已关闭</string>
+    <string name="pref_equalizer_enable">打开</string>
+    <string name="pref_headset_virtual_title">耳机虚拟环境效果</string>
+    <string name="pref_headset_virtual_summary_on">虚拟环境效果已打开</string>
+    <string name="pref_headset_virtual_summary_off">虚拟环境效果已关闭</string>
+    <string name="pref_headset_virtual_enable">打开</string>
+    <string name="pref_room_title">选择环境</string>
+    <string name="dialog_room">环境类型</string>
+    <string name="menu_reset">重置</string>
+</resources>
