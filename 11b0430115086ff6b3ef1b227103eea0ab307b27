@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAABX///0c\u003d",
+        "filename": "res/values-de/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 73
+      },
+      "writtenOn": "2010-11-02T02:18:03Z",
+      "side": 1,
+      "message": "typo",
+      "revId": "11b0430115086ff6b3ef1b227103eea0ab307b27",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
