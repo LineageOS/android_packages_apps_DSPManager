@@ -10,9 +10,10 @@
 <string-array name="compression_modes"><item>Lekka</item>
 <item>Umiarkowana</item>
 <item>Silna</item>
+</string-array>
 
 <string-array name="bassboost_modes"><item>Lekkie</item>
 <item>Umiarkowane</item>
 <item>Silne</item>
-
+</string-array>
 </resources>
