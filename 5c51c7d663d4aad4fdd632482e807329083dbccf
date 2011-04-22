@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAADn//+uA\u003d",
+        "filename": "res/values/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 32
+      },
+      "writtenOn": "2011-04-22T14:42:41Z",
+      "side": 1,
+      "message": "I think it would be smart to refactor these out into @strings so that translations don\u0027t bork things.",
+      "revId": "5c51c7d663d4aad4fdd632482e807329083dbccf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
