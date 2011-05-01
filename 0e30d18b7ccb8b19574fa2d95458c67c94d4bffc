@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAD3///qo\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 186
+      },
+      "writtenOn": "2011-05-01T03:47:53Z",
+      "side": 1,
+      "message": "???????? ?????? \"?????\" ????? ?????????? ?????????? \"?????? ??????\" ??? ???????????? \"??\"",
+      "revId": "0e30d18b7ccb8b19574fa2d95458c67c94d4bffc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAD3///qw\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 186
+      },
+      "writtenOn": "2011-05-01T03:47:53Z",
+      "side": 1,
+      "message": "Not correct translation. \"treble\" is \"??????? ???????\"",
+      "revId": "0e30d18b7ccb8b19574fa2d95458c67c94d4bffc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAD3///qs\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 186
+      },
+      "writtenOn": "2011-05-01T03:47:53Z",
+      "side": 1,
+      "message": "Not correct translation. \"treble\" is \"??????? ???????\"",
+      "revId": "0e30d18b7ccb8b19574fa2d95458c67c94d4bffc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
