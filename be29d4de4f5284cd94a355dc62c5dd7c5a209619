@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAHH///aA\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 186
+      },
+      "writtenOn": "2011-06-21T20:01:17Z",
+      "side": 1,
+      "message": "You used an incorrect term, the “Loudness compensation” should be translated as the “tonkompensatsiya” http://radio-hobby.org/wiki/%D0%A2%D0%BE%D0%BD%D0%BA%D0%BE%D0%BC%D0%BF%D0%B5%D0%BD%D1%81%D0%B0%D1%86%D0%B8%D1%8F",
+      "revId": "be29d4de4f5284cd94a355dc62c5dd7c5a209619",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
