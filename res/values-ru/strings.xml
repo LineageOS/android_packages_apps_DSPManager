@@ -8,9 +8,8 @@
     <string name="dsp_settings_headset">Настройки DSP - Наушники</string>
     <string name="dsp_settings_speaker">Настройки DSP - Динамик телефона</string>
     <string name="dsp_settings_bluetooth">Настройки DSP - Устройства Bluetooth</string>
-    <string name="pref_ringing_summary_on">Эффекты применяются во время звонка</string>
-    <string name="pref_ringing_summary_off">Эффекты не применяются во время звонка</string>
-    <string name="pref_ringing_enable">Применять эффекты во время звонка</string>
+    <string name="pref_ringing_summary">Применять эффекты к рингтону</string>
+    <string name="pref_ringing_enable">Включить эффекты во время звонка</string>
     <string name="pref_dsp_title">Сжатие динамического диапазона</string>
     <string name="pref_dsp_summary_on">Сжатие включенно</string>
     <string name="pref_dsp_summary_off">Сжатие выключенно</string>

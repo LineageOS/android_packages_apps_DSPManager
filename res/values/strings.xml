@@ -8,9 +8,8 @@
     <string name="dsp_settings_headset">DSP Settings - Headset</string>
     <string name="dsp_settings_speaker">DSP Settings - Phone Speaker</string>
     <string name="dsp_settings_bluetooth">DSP Settings - Bluetooth Device</string>
-    <string name="pref_ringing_summary_on">Effects are applied during the ringing</string>
-    <string name="pref_ringing_summary_off">Effects are not applied during the ringing</string>
-    <string name="pref_ringing_enable">Apply the effects during the ringing</string>
+    <string name="pref_ringing_summary">Apply dsp effects to ringtone</string>
+    <string name="pref_ringing_enable">Enable effects during ringing</string>
     <string name="pref_dsp_title">Dynamic Range Compression</string>
     <string name="pref_dsp_summary_on">Compression is enabled</string>
     <string name="pref_dsp_summary_off">Compression is disabled</string>
