@@ -2,6 +2,9 @@
 
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
 	android:title="@string/dsp_settings_speaker">
+	<CheckBoxPreference android:disableDependentsState="false"
+			android:key="dsp.ringing.enable" android:summary="@string/pref_ringing_summary"
+			android:title="@string/pref_ringing_enable"></CheckBoxPreference>
 	<PreferenceCategory android:title="@string/pref_bassboost_title">
 		<CheckBoxPreference android:disableDependentsState="false"
 			android:key="dsp.bass.enable" android:summaryOn="@string/pref_bassboost_summary_on"

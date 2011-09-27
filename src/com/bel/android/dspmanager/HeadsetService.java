@@ -57,7 +57,7 @@ public class HeadsetService extends Service {
 	
 	protected boolean useHeadphone;
 
-	protected boolean inCall;
+	protected int phoneState = TelephonyManager.CALL_STATE_IDLE;
 
 	/**
 	 * Receive new broadcast intents for adding DSP to session
@@ -116,16 +116,7 @@ public class HeadsetService extends Service {
 	private final PhoneStateListener mPhoneListener = new PhoneStateListener() {
 		@Override
 		public void onCallStateChanged(int state, String incomingNumber) {
-			switch (state) {
-			default:
-				Log.i(TAG, "During phone call: disable DSP.");
-				inCall = true;
-				break;
-			case TelephonyManager.CALL_STATE_IDLE:
-				Log.i(TAG, "Phone status idle: enable DSP.");
-				inCall = false;
-				break;
-			}
+			phoneState = state;
 			updateDsp();
 		}
 	};
@@ -178,18 +169,31 @@ public class HeadsetService extends Service {
 	 */
 	protected void updateDsp() {
 		final String mode;
-		
-		if (inCall) {
-			/* During calls, everything gets disabled; there is no configuration called 'disable' */
-			mode = "disable";
-		} else if (mAudioManager.isBluetoothA2dpOn()) {
+
+                if (mAudioManager.isBluetoothA2dpOn()) {
 			/* Bluetooth takes precedence over everything else */
 			mode = "bluetooth";
 		} else {
 			/* Wired headset or internal speaker */
 			mode = useHeadphone ? "headset" : "speaker";
 		}
+
 		SharedPreferences preferences = getSharedPreferences(DSPManager.SHARED_PREFERENCES_BASENAME + "." + mode, 0);
+
+		boolean disableDsp = false;
+		if(phoneState == TelephonyManager.CALL_STATE_IDLE) {
+			disableDsp = false;
+			Log.i(TAG, "Phone status idle: enable DSP.");
+                } else if(phoneState == TelephonyManager.CALL_STATE_RINGING) {
+			disableDsp = !preferences.getBoolean("dsp.ringing.enable", false);
+                } else {
+			disableDsp = true;
+			Log.i(TAG, "During phone call off-hook: disable DSP.");
+		}
+
+		if(disableDsp) {
+			preferences = getSharedPreferences(DSPManager.SHARED_PREFERENCES_BASENAME + ".disable", 0);
+		}
 
 		for (AudioEffect compression : compressionSessions.values()) {
 			compression.setEnabled(preferences.getBoolean("dsp.compression.enable", false));
