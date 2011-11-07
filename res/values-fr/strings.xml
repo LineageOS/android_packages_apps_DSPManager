@@ -5,6 +5,7 @@
     <string name="headset_title">Casque</string>
     <string name="speaker_title">Haut-parleur du téléphone</string>
     <string name="bluetooth_title">Périphérique Bluetooth</string>
+    <string name="audio_effects">Filtres audio</string>
     <string name="pref_dsp_title">Compresseur audio dynamique</string>
     <string name="pref_dsp_summary_on">La compression est activée</string>
     <string name="pref_dsp_summary_off">La compression est désactivée</string>
