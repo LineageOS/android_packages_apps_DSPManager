@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAANH///2M\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 1309
+      },
+      "writtenOn": "2011-12-03T22:40:26Z",
+      "side": 1,
+      "message": "Wenn man \u0027Bässe\u0027 und \u0027Höhen\u0027 schreibt, sollte man dann nicht auch \u0027Stimmen\u0027 schreiben?",
+      "revId": "56855175782041ea641a91bc7e6ccc21d6f6fa00",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
