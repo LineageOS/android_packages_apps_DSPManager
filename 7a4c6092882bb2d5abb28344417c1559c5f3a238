@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAANX///tE\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1402
+      },
+      "writtenOn": "2011-12-05T00:33:36Z",
+      "side": 1,
+      "message": "Warum \"DSP-Einstellungen\" der App-Name sollte meiner Meinung nach unabhängig sein. Wird in der Musik-App dann weiterhin DSPManager angezeigt oder DSP-Einstellungen?",
+      "revId": "7a4c6092882bb2d5abb28344417c1559c5f3a238",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
