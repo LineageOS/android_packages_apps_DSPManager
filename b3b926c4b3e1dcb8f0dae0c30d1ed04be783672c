@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAPn//+6Y\u003d",
+        "filename": "src/com/bel/android/dspmanager/activity/DSPManager.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1642
+      },
+      "writtenOn": "2012-01-27T19:09:06Z",
+      "side": 1,
+      "message": "red tab space???",
+      "revId": "b3b926c4b3e1dcb8f0dae0c30d1ed04be783672c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAPn//+6U\u003d",
+        "filename": "src/com/bel/android/dspmanager/activity/Utils.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 122,
+      "author": {
+        "id": 1642
+      },
+      "writtenOn": "2012-01-27T19:09:06Z",
+      "side": 1,
+      "message": "red tab space???",
+      "revId": "b3b926c4b3e1dcb8f0dae0c30d1ed04be783672c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAPn//+6g\u003d",
+        "filename": "src/com/bel/android/dspmanager/activity/WM8994.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 1642
+      },
+      "writtenOn": "2012-01-27T19:09:06Z",
+      "side": 1,
+      "message": "red tab space???",
+      "revId": "b3b926c4b3e1dcb8f0dae0c30d1ed04be783672c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAPn//+6k\u003d",
+        "filename": "src/com/bel/android/dspmanager/activity/WM8994.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 183,
+      "author": {
+        "id": 1642
+      },
+      "writtenOn": "2012-01-27T19:09:06Z",
+      "side": 1,
+      "message": "red tab space???",
+      "revId": "b3b926c4b3e1dcb8f0dae0c30d1ed04be783672c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAPn//+6Q\u003d",
+        "filename": "src/com/bel/android/dspmanager/receiver/BootCompletedReceiver.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1642
+      },
+      "writtenOn": "2012-01-27T19:09:06Z",
+      "side": 1,
+      "message": "red tab space???",
+      "revId": "b3b926c4b3e1dcb8f0dae0c30d1ed04be783672c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
