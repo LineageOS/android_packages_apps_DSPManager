@@ -22,7 +22,7 @@ public class BootCompletedReceiver extends BroadcastReceiver {
         context.startService(new Intent(context, HeadsetService.class));
         if (WM8994.isSupported(WM8994.WM8994_ENABLE_FILE)) {
             WM8994.restore(context);
-            HeadsetAmplifierPreference.restore(context);
+            //HeadsetAmplifierPreference.restore(context);
         }
     }
 }
