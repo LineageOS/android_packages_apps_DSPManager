@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAQX//+eY\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-02-19T04:53:51Z",
+      "side": 1,
+      "message": "Misschien beter DSP-instellingen?",
+      "revId": "2001f08c528b89692cab1615ea4e39810c4964d7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAQX//+eU\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-02-19T04:53:51Z",
+      "side": 1,
+      "message": "Equalizer zou ik toch acceptabel vinden.\n\nEn wiki ook:\nhttp://nl.wikipedia.org/wiki/Equalizer",
+      "revId": "2001f08c528b89692cab1615ea4e39810c4964d7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAQX//+eI\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-02-19T04:53:51Z",
+      "side": 1,
+      "message": "Is het bas verhogen of bas versterken?",
+      "revId": "2001f08c528b89692cab1615ea4e39810c4964d7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
