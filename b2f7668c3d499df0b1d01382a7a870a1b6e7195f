@@ -34,6 +34,24 @@
       "revId": "b2f7668c3d499df0b1d01382a7a870a1b6e7195f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAQX//918\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 2049
+      },
+      "writtenOn": "2012-02-24T02:14:29Z",
+      "side": 1,
+      "message": "Sorry, was looking at the wrong patch",
+      "parentUuid": "AAAAQX//92M\u003d",
+      "revId": "b2f7668c3d499df0b1d01382a7a870a1b6e7195f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
