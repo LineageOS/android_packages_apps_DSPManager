@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAQX//93Q\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 2049
+      },
+      "writtenOn": "2012-02-24T00:22:58Z",
+      "side": 1,
+      "message": "In CMParts was chosen for \u0027headset\u0027 in stead of \u0027koptelefoon\u0027",
+      "revId": "b2f7668c3d499df0b1d01382a7a870a1b6e7195f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
