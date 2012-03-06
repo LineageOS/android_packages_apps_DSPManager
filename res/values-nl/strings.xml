@@ -6,9 +6,11 @@
     <string name="speaker_title">Telefoonspeaker</string>
     <string name="bluetooth_title">Bluetoothapparaat</string>
     <string name="audio_effects">Audio-effecten</string>
+    <string name="pref_unavailable">Functionaliteit is niet beschikbaar voor uw apparaat</string>
     <string name="dsp_settings_headset">DSP-instellingen - Headset</string>
     <string name="dsp_settings_speaker">DSP-instellingen - Telefoonspeaker</string>
     <string name="dsp_settings_bluetooth">DSP Instellingen - Bluetoothapparaat</string>
+    <string name="dsp_settings_wm8994">DSP Settings - WM8994</string>
     <string name="pref_dsp_title">Dynamische geluidscompressie</string>
     <string name="pref_dsp_summary_on">Compressie is ingeschakeld</string>
     <string name="pref_dsp_summary_off">Compressie is uitgeschakeld</string>
@@ -46,5 +48,48 @@
     <string name="eq_preset_treble_reducer">Hoge tonen-verkleiner</string>
     <string name="eq_preset_vocal_booster">Stemversterker</string>
     <string name="eq_preset_custom">Aangepast</string>
+
+    <!--  WM8994 -->
+    <!--  Categories -->
+    <string name="category_wm8994_signal_processing">Signaalverwerking</string>
+    <string name="category_wm8994_headphone_amp">Headset</string>
+    <string name="category_wm8994_codec_optimization">Codecoptimalisatie</string>
+    <string name="category_wm8994_dac_config">Digitaal/analoog-conversie-instellingen</string>
+    <string name="category_wm8994_analog_path">Analoge paden-configuration</string>
+    <string name="category_wm8994_mic_settings">Microfooninstellingen</string>
+    <string name="category_wm8994_microphone_recording">Microfoon</string>
+    <!--  Titles/Summaries -->
+    <string name="wm8994_settings_title_head">Geluidsinstellingen</string>
+    <string name="wm8994_settings_title_subhead">Geluidsinstellingen</string>
+    <string name="wm8994_settings_summary_head">Geavanceerde beheer van de WM8994-geluidsprocessor</string>
+    <string name="pref_wm8994_microphone_recording_title">Voorgaf ingesteld voor opnemen</string>
+    <string name="pref_wm8994_headphone_amp_title">Versterkerniveau</string>
+    <string name="pref_wm8994_headphone_amp_summary">Wijzig analoogwinst</string>
+    <string name="pref_wm8994_headphone_amp_dlg_title">Headsetversterker-niveau</string>
+    <string name="pref_wm8994_headphone_amp_dlg_desc">Analoogwinst</string>
+    <string name="pref_wm8994_bass_boost_enable_title">Basversterker</string>
+    <string name="pref_wm8994_bass_boost_enable_summary">Geavanceerde beheer van basversterker</string>
+    <string name="pref_wm8994_bass_boost_title">Bereik basversterker</string>
+    <string name="pref_wm8994_bass_boost_summary">Geavanceerde beheer van dynamisch bereik</string>
+    <string name="pref_wm8994_bass_boost_preset_title">Bass boost preset</string>
+    <string name="pref_wm8994_bass_boost_dlg_title">Bass boost</string>
+    <string name="pref_wm8994_bass_boost_gain_dlg_desc">Winst</string>
+    <string name="pref_wm8994_bass_boost_range_dlg_desc">Bass boost range</string>
+    <string name="pref_wm8994_control_enable_title">Enable WM8994 Control</string>
+    <string name="pref_wm8994_control_enable_summary">Advanced controls for the WM8994 sound processor</string>
+    <string name="pref_wm8994_speaker_tuning_title">Tune for music</string>
+    <string name="pref_wm8994_speaker_tuning_summary">Reconfigures the hardware EQ for more bass and balanced sound</string>
+    <string name="pref_wm8994_mono_downmix_title">Mono downmix</string>
+    <string name="pref_wm8994_mono_downmix_summary">Downmix stereo sound to mono (for stereo outputs, such as headphones)</string>
+    <string name="pref_wm8994_stereo_expansion_title">Stereo expansion</string>
+    <string name="pref_wm8994_stereo_expansion_summary">"Expand" stereo sound via digital signal processing</string>
+    <string name="pref_wm8994_dac_direct_title">D/AC direct</string>
+    <string name="pref_wm8994_dac_direct_summary">Access digital/analog converter directly, bypassing the channel mixer. Produces cleaner audio (lower signal-to-noise ratio)</string>
+    <string name="pref_wm8994_dac_osr128_title">Hi-fi playback</string>
+    <string name="pref_wm8994_dac_osr128_summary">Digital-to-analog converter 128x oversampling -- cleaner sound when playing music</string>
+    <string name="pref_wm8994_adc_osr128_title">Hi-fi recording</string>
+    <string name="pref_wm8994_adc_osr128_summary">Analog-to-digital converter 128x oversampling -- increases quality of recordings</string>
+    <string name="pref_wm8994_fll_tuning_title">Tuned audio clock</string>
+    <string name="pref_wm8994_fll_tuning_summary">Use tuned WM8994 audio clock source -- improves quality of sound</string>
 
 </resources>
