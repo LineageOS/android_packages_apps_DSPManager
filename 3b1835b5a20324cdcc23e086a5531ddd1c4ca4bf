@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAT3//++s\u003d",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 3178
+      },
+      "writtenOn": "2012-06-03T22:57:18Z",
+      "side": 1,
+      "message": "Hagyjuk ki az AZ-t. Én is elkövettem ezt a hibát legutóbb, javítom is a köv verzióban. Szóval így: \"Analóg er?sítés beállítása\"",
+      "revId": "3b1835b5a20324cdcc23e086a5531ddd1c4ca4bf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAT3//++k\u003d",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 3178
+      },
+      "writtenOn": "2012-06-03T22:57:18Z",
+      "side": 1,
+      "message": "Inkább így (plusz elgépelés van benne) WM8994 hangfeldolgozó szabályozása",
+      "revId": "3b1835b5a20324cdcc23e086a5531ddd1c4ca4bf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
