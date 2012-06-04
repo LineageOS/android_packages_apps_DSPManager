@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAT3//+lM\u003d",
+        "filename": "res/values-hu/arrays.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 3178
+      },
+      "writtenOn": "2012-06-04T21:54:17Z",
+      "side": 1,
+      "message": "Általános?",
+      "revId": "2218d711a980781df386e00f53e158cb2bb92e9f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAT3//+lI\u003d",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 3178
+      },
+      "writtenOn": "2012-06-04T21:54:17Z",
+      "side": 1,
+      "message": "Ez a funkció nem elérhet? ezen az eszközön?",
+      "revId": "2218d711a980781df386e00f53e158cb2bb92e9f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAT3//+lE\u003d",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 3178
+      },
+      "writtenOn": "2012-06-04T21:54:17Z",
+      "side": 1,
+      "message": "szabályozás",
+      "revId": "2218d711a980781df386e00f53e158cb2bb92e9f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
