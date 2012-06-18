@@ -152,6 +152,41 @@
       "revId": "051d32bdf0d2b9012dc7680b4012b3d34de98337",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//9s4\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 2967
+      },
+      "writtenOn": "2012-06-18T16:44:59Z",
+      "side": 1,
+      "message": "No SNR is better if it is \"lower\" as in used in eng. xml...",
+      "parentUuid": "AAAAUH//93k\u003d",
+      "revId": "051d32bdf0d2b9012dc7680b4012b3d34de98337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//9sw\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 89,
+      "author": {
+        "id": 2967
+      },
+      "writtenOn": "2012-06-18T16:44:59Z",
+      "side": 1,
+      "message": "Taktquelle klinkt falsch... \"Verbesserte Taktfrequenz\" ?\n\n\"Verbesserte WM8994-Audio-Taktfrequenz verwenden......\"",
+      "revId": "051d32bdf0d2b9012dc7680b4012b3d34de98337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
