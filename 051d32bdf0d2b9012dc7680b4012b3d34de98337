@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//9pc\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-06-18T19:56:32Z",
+      "side": 1,
+      "message": "Ok mach ich!",
+      "parentUuid": "AAAAUH//9to\u003d",
+      "revId": "051d32bdf0d2b9012dc7680b4012b3d34de98337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//9tk\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 1
@@ -30,6 +48,24 @@
       "writtenOn": "2012-06-18T16:11:55Z",
       "side": 1,
       "message": "Lautstärke-Kompensation statt Denglisch?",
+      "revId": "051d32bdf0d2b9012dc7680b4012b3d34de98337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//9pY\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-06-18T19:56:32Z",
+      "side": 1,
+      "message": "Ich bin mir nicht sicher ob man loudness mit Lautstärke übersetzen kann. Loudness ist wohl eher mit Lautheit gleichzusetzen. Ich hatte auch zuerst Lautheitskompensation ausprobiert, mich dann aber dagegen entschieden, da das wohl keiner versteht.\n\nLautstärke scheint das technische Maß für den Schalldruck zu sein, wohingegen Lautheit die Besonderheiten des menschlichen Ohrs berücksichtigt.",
+      "parentUuid": "AAAAUH//9tk\u003d",
       "revId": "051d32bdf0d2b9012dc7680b4012b3d34de98337",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//9pA\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-06-18T19:56:32Z",
+      "side": 1,
+      "message": "Ich habe deinen Kommentar nicht verstanden. Geht es dir um die Großschreibung, oder willst du dass ich erhöhen/verringern schreibe?",
+      "parentUuid": "AAAAUH//9tg\u003d",
+      "revId": "051d32bdf0d2b9012dc7680b4012b3d34de98337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//9tc\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 1
@@ -64,6 +118,24 @@
       "writtenOn": "2012-06-18T16:11:55Z",
       "side": 1,
       "message": "hier sind die engl. Begriffe gebräuchlich.",
+      "revId": "051d32bdf0d2b9012dc7680b4012b3d34de98337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//9pQ\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-06-18T19:56:32Z",
+      "side": 1,
+      "message": "Habe ich so von CM7 übernommen.",
+      "parentUuid": "AAAAUH//9tc\u003d",
       "revId": "051d32bdf0d2b9012dc7680b4012b3d34de98337",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -115,6 +187,24 @@
       "writtenOn": "2012-06-18T16:11:55Z",
       "side": 1,
       "message": "Was ist Analogpfad?",
+      "revId": "051d32bdf0d2b9012dc7680b4012b3d34de98337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//9pU\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-06-18T19:56:32Z",
+      "side": 1,
+      "message": "Das Audiosignal durchläuft ja den WM8994 auf einem Signalpfad. Auf diesem Pfad sind z.B. Analogverstärker, Analogmischer usw.\n\nZugegeben Analogpfad klingt nicht sonderlich toll, aber mir ist nicht besseres eingefallen.",
+      "parentUuid": "AAAAUH//9tQ\u003d",
       "revId": "051d32bdf0d2b9012dc7680b4012b3d34de98337",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -173,6 +263,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//9pM\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-06-18T19:56:32Z",
+      "side": 1,
+      "message": "That doesn\u0027t make much sense to me as SNR \u003d signal/ noise.\nSo a low SNR is only good if you want to amplify the noise. ;)",
+      "parentUuid": "AAAAUH//9s4\u003d",
+      "revId": "051d32bdf0d2b9012dc7680b4012b3d34de98337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//9sw\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 1
@@ -184,6 +292,24 @@
       "writtenOn": "2012-06-18T16:44:59Z",
       "side": 1,
       "message": "Taktquelle klinkt falsch... \"Verbesserte Taktfrequenz\" ?\n\n\"Verbesserte WM8994-Audio-Taktfrequenz verwenden......\"",
+      "revId": "051d32bdf0d2b9012dc7680b4012b3d34de98337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//9pI\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 89,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-06-18T19:56:32Z",
+      "side": 1,
+      "message": "Ich muss mal im Datenblatt nachschauen, ob da ein Oszillator abgestimmt wird, oder ob auf einen abgestimmten Oszillator umgeschaltet wird. Im zweiten Fall finde ich Taktquelle passender.",
+      "parentUuid": "AAAAUH//9sw\u003d",
       "revId": "051d32bdf0d2b9012dc7680b4012b3d34de98337",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
