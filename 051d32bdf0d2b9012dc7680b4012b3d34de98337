@@ -194,6 +194,23 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//9os\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 3296
+      },
+      "writtenOn": "2012-06-18T20:06:59Z",
+      "side": 1,
+      "message": "Entschuldige die schlechte Formatierung! hier nochmal (Leider wieder daneben, ich hoffe du kannst es trotzdem erkennen ;-)\n\n\u003cstring name\u003d\"eq_preset_acoustic\"\u003eAcoustic\u003c/string\u003e\n\u003cstring name\u003d\"eq_preset_bass_booster\"\u003eMehr Bässe\u003c/string\u003e\n\u003cstring name\u003d\"eq_preset_bass_reducer\"\u003eWeniger Bässe\u003c/string\u003e\n\u003cstring name\u003d\"eq_preset_classical\"\u003eKlassik\u003c/string\u003e\n\u003cstring name\u003d\"eq_preset_deep\"\u003eDeep\u003c/string\n\u003cstring name\u003d\"eq_preset_flat\"\u003eAus\u003c/string\u003e\n\u003cstring name\u003d\"eq_preset_r_and_b\"\u003eR\u0026B\u003c/string\u003e\n\u003cstring name\u003d\"eq_preset_rock\"\u003eRock\u003c/string\u003e\n\u003cstring name\u003d\"eq_preset_small_speakers\"\u003eKl. Boxen\u003c/string\u003e\n\u003cstring name\u003d\"eq_preset_treble_booster\"\u003eMehr Höhen\u003c/string\u003e\n\u003cstring name\u003d\"eq_preset_treble_reducer\"\u003eWeniger Höhen\u003c/string\u003e\n\u003cstring name\u003d\"eq_preset_vocal_booster\"\u003eSprache\u003c/string\u003e\n\u003cstring name\u003d\"eq_preset_custom\"\u003eBenutzerdefiniert\u003c/string\u003e",
+      "revId": "051d32bdf0d2b9012dc7680b4012b3d34de98337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//9tU\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 1
