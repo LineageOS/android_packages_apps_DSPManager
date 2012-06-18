@@ -142,6 +142,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//9o8\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 3296
+      },
+      "writtenOn": "2012-06-18T20:01:02Z",
+      "side": 1,
+      "message": "Nicht immer, ich emfehle hier die Strings eines iPods!",
+      "parentUuid": "AAAAUH//9tc\u003d",
+      "revId": "051d32bdf0d2b9012dc7680b4012b3d34de98337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//9tY\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 1
@@ -153,6 +171,23 @@
       "writtenOn": "2012-06-18T16:11:55Z",
       "side": 1,
       "message": "siehe Line 36 Kommentar.",
+      "revId": "051d32bdf0d2b9012dc7680b4012b3d34de98337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//9o0\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 3296
+      },
+      "writtenOn": "2012-06-18T20:01:02Z",
+      "side": 1,
+      "message": "Acoustic\nDeep\nAus\nR \u0026 B\nKl. Boxen\nMehr Höhen\nWeniger Höhen\nSprache\nBenutzerdefiniert",
       "revId": "051d32bdf0d2b9012dc7680b4012b3d34de98337",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
