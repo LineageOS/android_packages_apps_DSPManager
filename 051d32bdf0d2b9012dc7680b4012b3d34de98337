@@ -90,6 +90,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//9jM\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1309
+      },
+      "writtenOn": "2012-06-19T00:16:11Z",
+      "side": 1,
+      "message": "Denke auch, das Loudness bekannt ist.",
+      "parentUuid": "AAAAUH//9mg\u003d",
+      "revId": "051d32bdf0d2b9012dc7680b4012b3d34de98337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//9tg\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 1
