@@ -214,6 +214,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//9eU\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-06-19T13:31:27Z",
+      "side": 1,
+      "message": "welche sind die Strings eines iPods?",
+      "parentUuid": "AAAAUH//9o8\u003d",
+      "revId": "051d32bdf0d2b9012dc7680b4012b3d34de98337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//9tY\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 1
@@ -317,6 +335,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//9eQ\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-06-19T13:31:27Z",
+      "side": 1,
+      "message": "ok.",
+      "parentUuid": "AAAAUH//9pU\u003d",
+      "revId": "051d32bdf0d2b9012dc7680b4012b3d34de98337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//9tM\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 1
@@ -346,6 +382,24 @@
       "side": 1,
       "message": "Im Englischen ist beides \"Sound Settings\"",
       "parentUuid": "AAAAUH//9tM\u003d",
+      "revId": "051d32bdf0d2b9012dc7680b4012b3d34de98337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//9eM\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-06-19T13:31:27Z",
+      "side": 1,
+      "message": "ok, dann kann es so bleiben, denke ich.",
+      "parentUuid": "AAAAUH//9ic\u003d",
       "revId": "051d32bdf0d2b9012dc7680b4012b3d34de98337",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -452,6 +506,24 @@
       "side": 1,
       "message": "auch wenn ein oszillator eingebaut ist (was ziemlich sicher der fall sein wird) versteht taktquelle eher \"keiner\" würde ich sagen. also ich habe das wort taktquelle noch nie gehört. Ich kenne eine taktgenerator, und auch ein \"metronom\" oder frequenzgenerator aber taktquelle wird wohl nicht sehr oft verwendet oder?",
       "parentUuid": "AAAAUH//9pI\u003d",
+      "revId": "051d32bdf0d2b9012dc7680b4012b3d34de98337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//9eI\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 89,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-06-19T13:31:27Z",
+      "side": 1,
+      "message": "Wäre Taktgeber hilfreich? ist aber ein IT Begriff...",
+      "parentUuid": "AAAAUH//9mc\u003d",
       "revId": "051d32bdf0d2b9012dc7680b4012b3d34de98337",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
