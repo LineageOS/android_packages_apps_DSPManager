@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "AAAAUH//85w\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 2783
+      },
+      "writtenOn": "2012-06-22T23:31:32Z",
+      "side": 1,
+      "message": "\"DSPManager ist eine Anwendung, mit der Einstellungen zur Beeinflussung der Audioausgabe vorgenommen werden können.\"",
+      "revId": "e0bd8f959e1e9bfe9024a809e37ecdbd5ed173a1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//86g\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 2
@@ -13,6 +30,74 @@
       "writtenOn": "2012-06-22T22:45:30Z",
       "side": 1,
       "message": "\"digitale\" wird Aufgrund einer Wortwiederholung noch herausgelöscht ;-)",
+      "revId": "e0bd8f959e1e9bfe9024a809e37ecdbd5ed173a1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//85s\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 95,
+      "author": {
+        "id": 2783
+      },
+      "writtenOn": "2012-06-22T23:31:32Z",
+      "side": 1,
+      "message": "\"dafür daß\"",
+      "revId": "e0bd8f959e1e9bfe9024a809e37ecdbd5ed173a1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//85o\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 2783
+      },
+      "writtenOn": "2012-06-22T23:31:32Z",
+      "side": 1,
+      "message": "\"Mit Android-Audio-Effekten\" - if that\u0027s factually true by there being such an API.",
+      "revId": "e0bd8f959e1e9bfe9024a809e37ecdbd5ed173a1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//85k\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 101,
+      "author": {
+        "id": 2783
+      },
+      "writtenOn": "2012-06-22T23:31:32Z",
+      "side": 1,
+      "message": "\"CyanogenMod unterstützt drei verschiedene Audio-Ausgabewege:\"",
+      "revId": "e0bd8f959e1e9bfe9024a809e37ecdbd5ed173a1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//85g\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 102,
+      "author": {
+        "id": 2783
+      },
+      "writtenOn": "2012-06-22T23:31:32Z",
+      "side": 1,
+      "message": "\"ein eigenes Konfigurationspanel\". Even better might be \"ein separates Konfigurationspanel\".\n\n\"Die Aufgabe des DSPManagers ...\" - leave out all these awful cata^H^H^H^Hapostrophes.",
       "revId": "e0bd8f959e1e9bfe9024a809e37ecdbd5ed173a1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
