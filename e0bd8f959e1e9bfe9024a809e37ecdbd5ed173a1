@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUH//86g\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 95,
+      "author": {
+        "id": 3296
+      },
+      "writtenOn": "2012-06-22T22:45:30Z",
+      "side": 1,
+      "message": "\"digitale\" wird Aufgrund einer Wortwiederholung noch herausgelöscht ;-)",
+      "revId": "e0bd8f959e1e9bfe9024a809e37ecdbd5ed173a1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
