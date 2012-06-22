@@ -101,6 +101,23 @@
       "revId": "e0bd8f959e1e9bfe9024a809e37ecdbd5ed173a1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//85U\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 3296
+      },
+      "writtenOn": "2012-06-22T23:48:22Z",
+      "side": 1,
+      "message": "Hier wurde nur Copy \u0026 Paste von der Bose-Seite der Rest ist sehr naheliegend am Original.",
+      "revId": "e0bd8f959e1e9bfe9024a809e37ecdbd5ed173a1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
