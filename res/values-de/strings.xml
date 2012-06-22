@@ -88,6 +88,53 @@
     <string name="pref_wm8994_adc_osr128_summary">A/D-Wandler 128x Oversampling -- Erhöht die Aufnahmequalität</string>
     <string name="pref_wm8994_fll_tuning_title">Stabilisierter Audio-Takt</string>
     <string name="pref_wm8994_fll_tuning_summary">Stabilisierten WM8994-Audio-Takt benutzen -- Verbessert die Klangqualität</string>
-
     <string name="help_title">Bedienungsanleitung</string>
+    <string name="help_text"><b>Was ist der DSPManager?</b>
+\n
+\nDSPManager ist eine Anwendung, mit der Einstellungen zur Beeinflussung der Audioausgabe vorgenommen werden können. <i>DSP</i> steht für
+Digital Signal Processing, <i>Manager</i> dafür, dass die Signalverarbeitung eigentlich nicht in der Anwendung läuft, diese ist ledig eine Art Einstellungsvorrichtung. Der Manager kann nur
+für Anwendungen verwendet werden, die kompatibel mit Android-Audio-Effekten
+sind, z.b die meisten Musik-Player.
+\n
+\n<b>Philosophie</b>
+\n
+\nCyanogenMod unterstützt drei verschiedene Audio-Ausgabewege:
+Kopfhörer, Lautsprecher und Bluetooth-Geräte. Für jedes dieser Geräte gibt es ein eigenes Konfigurationspanel. Die Aufgabe des DSPManagers ist es die Audioausgabe zu korrigieren um das optimale Hörerlebnis zu erzielen.
+\n
+\nAnders als bei AOSP Audio-Effekten, gibt es nicht für jede Anwendung eine eigene Einstellungsmöglichkeit, sondern nur eine Zentrale für das Verändern des Audioausganges. Uns ist der Ausgang am wichtigsten, nicht die Anwendung die das Signal ausgibt mit dem der DSPManager arbeiten kann.
+\n
+\n<b>Besonderheiten</b>
+\n
+\nDer Rest dieses Dokuments beschreibt die einzelnen Audio-Effekte und wann diese benutzt werden sollten.
+\n
+\n1. <b>Kompression des Dynamikumfangs</b>
+\n
+\nDieser Effekt schätzt die Audio-Lautstärke für einen durchschnittlichen Hörer und betreibt einen Lautstärke-Regler auf der Basis dieser Schätzung. Der primäre Verwendungszweck dieser Technik
+ist bei lauter Umgebungen wie zum Beispiel in Autos oder auf der Straße, wo ruhige Teile der
+Musik sind in Gefahr sind, durch Hintergrundgeräusche übertönt zu werden.
+\n
+\nDer Effektstärke-Regler bestimmt, wie stark der DSPManager die Lautstärke des Tones beeinflussen soll. Diese Effekt ist nicht im AOSP-Code enthalten.
+\n
+\n2. <b>Bass-Verstärkung</b>
+\n
+\nDie Bass-Verstärkung ist ein einfacher Tiefpassfilter welche benutzt werden kann um die Betonung auf den Bass zu setzen. Die Veränderung ist um die 6 dB, sie wird durch das Effektstärkemenü verändert und angepasst. Dieser Effekt ist dafür da, die fehlenen Bässe nachkorrigieren zu können. Dies ist nützlich für Kleinen Boxen oder Kopfhörern die nicht nah genug am Gehör des Benutzers liegen.
+\n
+\n3. <b>Equalizer</b>
+\n
+\nEs handelt sie hier um einen 6-Band Equalizer mit 16, 64, 250, 1000, 4000 und 16000 Hz.
+Es werden hier einige verbreitete Voreinstellungen bereitgestellt, außerdem kann neben den Voreinstellungen auch mit hilfe einen Graphes ihre eigene Einstellung verwendet werden. Der Effekt sollte dafür benützt werden die vorlieben des Benutzers zu berücksichtigen, oder für manche besonderen Fähigkeiten vorhandenen Kopfhörern oder Lautsprecher.
+\n
+\nEqualizer enthaltet auch einen Loudness-Kompensation Filter, welcher auf dem Gehörfrequenzganges oder auf dem Schalldruckpegels, des Benutzers basiert.
+Hierbei ist sind Kabelkopfhörer vorausgesetzt, außerdem muss zuerst der richtige Wert im Menü eingestellt werden, bevor der Effekt so funktioniert wie gewünscht.
+\n
+\nUm herauszufinden ob der richtige Wert der Loudness-Kompensation gesetzt wurde, ist es nützlich leise Musik zu hören, darauf hin etwas laute Musik wie beispielsweiße Rock oder Metal. Versuchen Sie die Einstellung zu finden wo die Hörbarkeit des Basses gesteigert wird, aber trotzdem Ausgeglichen ist mit dem Rest der Musik. Nachdem die Kompensation richtig konfiguriert wurde, sollte der Bass auf gleicher Höhe wie andere Instrumente ohne Rücksicht auf die Lautstärke der Musik. Auf der anderen Seite, wenn Musik mit steigenden Lautstärken immer mehr an Bass zunimmt, ist die Kompensation zu hoch eingestellt und sollte reduziert werden.
+\n
+\nDie Kompensation sollte auf den Bedürfnissen des Benuters ausgewählt werden. Wenn nur die Kompensation erwünscht ist sollte der Equalizer auf <i>aus</i> eingestellt sein.
+\n
+\n4. <b>Virtueller Raumklang</b>
+\n
+\nDer Virtueller Raumklang ist ein Crossfeed-Entwurf der durch die analoge BS2B-Schaltung inspiriert wurde. Der Effekt bleibt bei Mono unverändert, bei Stereo wird der Unterschied zwischen den zwei Siganlen durch einen Tiefpassfilter näher oder weiter entfernt vom Benutzer dargestellt. Weiters gibt er dem Benutzer psychoakustische Hinweise, wo der Ton her kommt. Die Absicht dahinter ist, den Benutzer vor einer Hörermüdung zu beschützen, diese entsteht durch unplausible Stereo-Trennung. Der Effekt sollte bei allen Stereo-Kopfhörern verwendet werden. 
+\n
+\nDurch die Mischung der Stereo-Kanaltrennung entsteht ein Effekt der das Stereobild echter wirken lässt. Dies wird über das <i>Raumtyp</i> Menü gesteuert.
+    </string>
 </resources>
