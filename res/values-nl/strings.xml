@@ -101,4 +101,94 @@
     <string name="pref_wm8994_adc_osr128_summary">Analoog-naar-digitaal-omzetter 128x overbemonsteren (verbetert opnamekwaliteit)</string>
     <string name="pref_wm8994_fll_tuning_title">Afgestemde geluidsklok</string>
     <string name="pref_wm8994_fll_tuning_summary">Gebruik afgestemde bron van WM8994-geluidsklok (verbetert geluidskwaliteit)</string>
+
+    <string name="help_title">Gebruikershandleiding</string>
+    <string name="help_text"><b>Wat is DSPManager?</b>
+\n
+\nDSPManager is een geluidsmanipulatie-app per uitvoermogelijkheid. DSP staat
+voor \'Digital Signal Processing\' (digitale signalenverwerking), en het
+\'Manager\'-deel (beheerdersdeel) staat voor het feit dat de verwerking niet
+gebeurt in de app zelf; de beheerder kan dit alleen inschakelen voor apps die
+compatibel zijn met de geluidseffectenspecificaties van Android, zoals de meeste
+muziekspelers.
+\n
+\n<b>Filosofie</b>
+\n
+\nDe mogelijkheden van het geluidsverwerkingssysteem van CyanogenMod biedt
+ondersteuning 3 uitvoercategorieën: bedrade headset, telefoonspeaker en
+Bluetooth-headset. Voor elke categorie bestaat er een configuratiepaneel.
+De filosofie van DSPManageris om de audio-uitvoer zo te manipuleren dat de
+meest optimale geluidsbeleving mogelijk kan worden.
+\n
+\nIn tegenstelling tot de standaard geluidseffecten van Android zijn er geen aparte
+instellingen per app. Dit is opzettelijk gedaan: het is de uitvoer die belangrijk
+is, niet welke app geluid maakt.
+\n
+\n<b>Functies</b>
+\n
+\nDe rest van dit document beschrijft elk geluidseffect en de situatie waarvoor
+het bedoeld is.
+\n
+\n1. <b>Compressor (DRC)</b>
+\n
+\nDit effect schat het geluidsniveau van het geluid in zoals door de gemiddelde
+luisteraar gehoord zou worden en voert een geluidsversterker aan gebaseerd op
+de inschatting. Dit wordt meestal gebruikt in luidruchtige omgevingen zoals
+auto\'s op de weg, waarbij rustige delen van het geluid overstemd zouden kunnen
+worden door de geluiden op de achtergrond.
+\n
+\n
+Het enige wat handmatig gewijzigd kan worden bepaalt hoe hard DSPManager moet
+proberen om het geluidsniveau te behouden op het beoogde niveau. Iets soortgelijks
+van Google is niet beschikbaar.
+\n
+\n2. <b>Basversterker</b>
+\n
+\nThe bass boost is a simple lowpass filter which can be used to add an emphasis
+at 55 Hz and lower frequencies. The boost is around 6 dB, and modified by the
+"strength" parameter, which adds filter resonance at the 55 Hz band, giving
+that frequency extra emphasis. The effect is designed to combat loss of bass
+frequency common with small speakers and supra-aural headsets which do not
+couple tightly with user\'s ear canal.
+\n
+\n3. <b>Equalizer</b>
+\n
+\nThis is a 6-band equalizer with bands at 16, 64, 250, 1000, 4000 and 16000 Hz.
+Some common presets are provided, and the frequency response can also be
+customized by tapping on the equalizer graph. The effect should be used to tune
+the frequency response to user\'s personal taste, or to the particular
+capabilities of the available headset or speakers.
+\n
+\nEqualizer also contains a loudness compensation filter, which equalizes the
+changes in ear frequency response based on the sound pressure level which
+reaches the user\'s ear. Use of a wired headset is required, and the strength
+parameter value must be tuned correctly before the effect will work as
+designed.
+\n
+\nTo select the right value for the compensation strength, use the quietest music
+volume, and choose some wide-spectrum noisy music such as rock or metal.  Try
+to find a setting where the bass is boosted back into audibility and seems
+balanced with the rest of the material. After the compensation has been
+correctly configured, bass should remain at the same level relative to the
+other instruments regardless of the listening level. On the other hand, if
+music starts to sound bass heavy at higher listening levels, the compensation
+is probably set too strong, and should be reduced.
+\n
+\nThe compensation is added to the user\'s chosen adjustments. If only compensation
+is desired, the equalizer should be left in the "Flat" setting.
+\n
+\n4. <b>Headset Filter</b>
+\n
+\nThe headset filter is a crossfeed design inspired by the famous bs2b analog
+circuit. The effect passes mono sound unchanged, and adjusts the difference
+signal through a lowpass filter which approximates both head shadow and
+interaural delay at once, giving right kind of psychoacoustic clues for user\'s
+ears.  The intention is to prevent listener fatigue arising from the
+implausible stereo separation inherent with all headsets. The effect should be
+enabled whenever using stereo headsets.
+\n
+\nBecause the mixing reduces the stereo separation somewhat, there is a
+Haas effect reverb, which can be used to increase the perceived stereo image
+width. This is controlled by the "Room Type" control.
+    </string>
 </resources>
