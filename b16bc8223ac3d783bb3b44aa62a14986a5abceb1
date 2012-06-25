@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUH//8Ig\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 118,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-06-25T22:37:43Z",
+      "side": 1,
+      "message": "Bass-Anhebung wie oben beschrieben.",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//8IM\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 120,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-06-25T22:37:43Z",
+      "side": 1,
+      "message": "Vorschlag:\nDie Bass-Anhebung ist ein einfacher Tiefpassfilter, welcher dazu genutzt werden kann, um einen Akzent auf Frequenzen unterhalb von 55 Hz zu setzen. Die Anhebung erfolgt um ca. 6 dB. Über die Effektstärke kann das 55 Hz Frequenzband zusätzlich angehoben werden. Durch diesen Effekt können fehlende Bässe wie sie oft bei kleinen Lautsprechern oder Kopfhörern mit offener Hörmuschel  vorkommen, korrigiert werden.",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//8II\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 124,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-06-25T22:37:43Z",
+      "side": 1,
+      "message": "...Equalizer mit Frequenzbändern bei 16, ...",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//8IE\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-06-25T22:37:43Z",
+      "side": 1,
+      "message": "Der Equalizer sollte dazu genutzt werden, den Klang auf die eigenen Vorlieben, oder spezifische Eigenschaften vorhandener Kopfhörer oder Lautsprecher abzustimmen.",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//8Io\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 130,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-06-25T22:37:43Z",
+      "side": 1,
+      "message": "Sorry, aber das ist falsch übersetzt!\n\nTo select the right value for the compensation strength, use the quietest music volume, and choose some wide-spectrum noisy music such as rock or metal.  Try to find a setting where the bass is boosted back into audibility and seems balanced with the rest of the material. After the compensation has been correctly configured, bass should remain at the same level relative to the\nother instruments regardless of the listening level. On the other hand, if music starts to sound bass heavy at higher listening levels, the compensation is probably set too strong, and should be reduced. The compensation is added to the user\u0027s chosen adjustments. If only compensation is desired, the equalizer should be left in the \"Flat\" setting.\n\nVorschlag:\nUm die Effektstärke der Loudness-Kompensation einzustellen, sollte breitbandige Musik wie z.B. Rock oder Metal leise abgespielt werden. Versuchen Sie eine Einstellung zu finden, bei der die Hörbarkeit des Basses gesteigert wird, aber noch nicht hervorsticht. Nachdem die Kompensation richtig konfiguriert wurde, sollte der Bass-Pegel, unabhängig von der Hörlautstärke im Vergleich zum Pegel der anderen Instrumente gleich bleiben. Wenn mit steigender Hörlautstärke die Musik basslastig wird, ist die Kompensation wahrscheinlich zu stark, und sollte reduziert werden.",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//8Ik\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 132,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-06-25T22:37:43Z",
+      "side": 1,
+      "message": "The compensation is added to the user\\\u0027s chosen adjustments. If only compensation is desired, the equalizer should be left in the \"Flat\" setting.\n\nVorschlag:\nDie Loudness-Kompensation wirkt zusätzlich zur gewählten Einstellung des Equalizers.  Falls nur eine Kompensation erwünscht ist, sollte die Equalizer-Voreinstellung \"Aus\" gewählt werden.",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
