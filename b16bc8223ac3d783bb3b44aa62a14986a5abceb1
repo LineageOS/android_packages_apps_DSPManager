@@ -240,6 +240,23 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//8HQ\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 136,
+      "author": {
+        "id": 1951
+      },
+      "writtenOn": "2012-06-25T23:22:33Z",
+      "side": 1,
+      "message": "\"Der Virtueller Raumklang\" -\u003e \"Der virtuelle Raumklang\"\n\n\"Weiters gibt er dem Benutzer psychoakustische Hinweise, wo der Ton her kommt.\" \n\"Er gibt dem Benutzer psychoakustische Hinweise, wo der Ton herkommt.\"\n\n\"Die Absicht dahinter ist, den Benutzer vor einer Hörermüdung zu beschützen, diese entsteht durch unplausible Stereo-Trennung.\"\n\n\"Dahinter steckt die Absicht, den Benutzer vor einer Hörermüdung, die durch unplausible Stereo-Trennung entsteht, zu schützen.\"\n\nWhitespace Error!",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//8Hg\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 3
