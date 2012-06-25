@@ -2,6 +2,91 @@
   "comments": [
     {
       "key": {
+        "uuid": "AAAAUH//8Ic\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 95,
+      "author": {
+        "id": 1951
+      },
+      "writtenOn": "2012-06-25T23:08:21Z",
+      "side": 1,
+      "message": "Kommt darauf an wie nah man am Englischen bleiben will, aber im Deutschen würde ich nach \"Digital Signal Processing\" einen Punkt setzen und dann mit \"\u003ci\u003eManager\u003c/i\u003e bedeutet, dass...\" weiterschreiben. Bis der auf den Punkt passt das auch gut zum Englischen \"the Manager part refers to...\".",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//8IY\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 1951
+      },
+      "writtenOn": "2012-06-25T23:08:21Z",
+      "side": 1,
+      "message": "\"kompatibel zu den Android-Audio-Effekten\" denk ich ist besser (wenigstens aber \"kompatibel mit den Android-Audio-Effekten\")",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//8IU\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 97,
+      "author": {
+        "id": 1951
+      },
+      "writtenOn": "2012-06-25T23:08:21Z",
+      "side": 1,
+      "message": "\"z.B.\" mit großem \"b\".",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//8H8\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 104,
+      "author": {
+        "id": 1951
+      },
+      "writtenOn": "2012-06-25T23:08:21Z",
+      "side": 1,
+      "message": "\"Im Gegensatz zu den AOSP-Audio-Effekten gibt es keine anwendungsspezifischen Einstellungsmöglichkeiten. Dies wurde mit Absicht so konzipiert: Denn die Audio-Ausgabe ist uns wichtig, nicht die Anwendung, die die (Audio-)Daten an den DSPManager übergibt.\" (vielleicht schon wieder zu frei...)",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//8Hs\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 1951
+      },
+      "writtenOn": "2012-06-25T23:08:21Z",
+      "side": 1,
+      "message": "Ich denk \"Lautstärke\" alleine ist ausreichend.",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//8Ig\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 3
@@ -30,6 +115,23 @@
       "writtenOn": "2012-06-25T22:37:43Z",
       "side": 1,
       "message": "Vorschlag:\nDie Bass-Anhebung ist ein einfacher Tiefpassfilter, welcher dazu genutzt werden kann, um einen Akzent auf Frequenzen unterhalb von 55 Hz zu setzen. Die Anhebung erfolgt um ca. 6 dB. Über die Effektstärke kann das 55 Hz Frequenzband zusätzlich angehoben werden. Durch diesen Effekt können fehlende Bässe wie sie oft bei kleinen Lautsprechern oder Kopfhörern mit offener Hörmuschel  vorkommen, korrigiert werden.",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//8Ho\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 120,
+      "author": {
+        "id": 1951
+      },
+      "writtenOn": "2012-06-25T23:08:21Z",
+      "side": 1,
+      "message": "Kommas:\n\"Die Bass-Verstärkung ist ein einfacher Tiefpassfilter, welche benutzt werden kann, um die Betonung auf den Bass zu setzen.\"\n\nÜbersetzung:\n\"Die Verstärkung liegt bei ca. 6dB, sie wird durch den \"Stärke\"-Parameter angepasst [...]\"\n\nKommas und ...\n\"Dies ist für kleinen Boxen oder Kopfhörern nützlich, die nicht nah genug am Gehör des Benutzers liegen.\"\n\nIm Englischen werden die Frequenzen \"55Hz und niedriger\" statt allgemein \"Bass\" genannt!",
       "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -70,6 +172,40 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//8Hk\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 1951
+      },
+      "writtenOn": "2012-06-25T23:08:21Z",
+      "side": 1,
+      "message": "\"Einige allgemeine Voreinstellungen können hier gemacht werden ebenso kann die Frequenzkurve durch klopfen auf den Equalizergraph angepasst werden. Der Effekt sollte dafür benutzt werden [...]\"",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//8Hc\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 127,
+      "author": {
+        "id": 1951
+      },
+      "writtenOn": "2012-06-25T23:08:21Z",
+      "side": 1,
+      "message": "\"loudness compensation filter\" Lärmunterdrückungsfilter...?",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//8Io\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 3
@@ -98,6 +234,23 @@
       "writtenOn": "2012-06-25T22:37:43Z",
       "side": 1,
       "message": "The compensation is added to the user\\\u0027s chosen adjustments. If only compensation is desired, the equalizer should be left in the \"Flat\" setting.\n\nVorschlag:\nDie Loudness-Kompensation wirkt zusätzlich zur gewählten Einstellung des Equalizers.  Falls nur eine Kompensation erwünscht ist, sollte die Equalizer-Voreinstellung \"Aus\" gewählt werden.",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//8Hg\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 138,
+      "author": {
+        "id": 1951
+      },
+      "writtenOn": "2012-06-25T23:08:21Z",
+      "side": 1,
+      "message": "Komma:\n\"nDurch die Mischung der Stereo-Kanaltrennung entsteht ein Effekt, der das Stereobild echter wirken lässt.\"",
       "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
