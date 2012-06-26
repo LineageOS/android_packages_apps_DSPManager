@@ -19,6 +19,23 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//7/U\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 95,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-06-26T11:32:16Z",
+      "side": 1,
+      "message": "..., diese ist lediglich...\nDer gesamte Nebensatz klingt \"komisch\". Einstellungsvorrichtung?\n\nEventuell den Satz verkürzen, z.B.\n\nDSPManager (Digital Signal Processing) ist eine Anwendung,...werden können. Die signalverarbeitung findet nicht im DSPManager statt, sondern wird durch diesen gesteuert/gregelt/eingestellt.",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//8IY\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 3
@@ -30,6 +47,23 @@
       "writtenOn": "2012-06-25T23:08:21Z",
       "side": 1,
       "message": "\"kompatibel zu den Android-Audio-Effekten\" denk ich ist besser (wenigstens aber \"kompatibel mit den Android-Audio-Effekten\")",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7/Q\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-06-26T11:32:16Z",
+      "side": 1,
+      "message": "Anwendugen, die kompatibel zu den Android-Audio-Effekten sind können den DSPManager verwenden.",
       "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +87,40 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//7/M\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 101,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-06-26T11:32:16Z",
+      "side": 1,
+      "message": "Ist Hier nicht der DSPManager anstatt CM gemeint?",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7/I\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 102,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-06-26T11:32:16Z",
+      "side": 1,
+      "message": "Konfigurat ionspanel? Findet hier ein Umbruch statt? Irgendwie klingt der Begriff falsch.\n\nAufgabe des DSP ist teilweise redundant zu Einleitung.",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//8H8\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 3
@@ -70,6 +138,41 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//7/E\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 104,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-06-26T11:32:16Z",
+      "side": 1,
+      "message": "@Thomas: Dein Vorschlag finde ich gut.",
+      "parentUuid": "AAAAUH//8H8\u003d",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7/A\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-06-26T11:32:16Z",
+      "side": 1,
+      "message": "Besonderheiten \u003d Rest?",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//8Hs\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 3
@@ -81,6 +184,58 @@
       "writtenOn": "2012-06-25T23:08:21Z",
       "side": 1,
       "message": "Ich denk \"Lautstärke\" alleine ist ausreichend.",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7+8\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-06-26T11:32:16Z",
+      "side": 1,
+      "message": "Dieser Effekt schätzt (ermittelt?) die Lautstärke für einen durchschnittlichen Hörer und regelt sie (Anm. die Lautstärke) anhand der Schätzung/Ermittlung/Berechnung.",
+      "parentUuid": "AAAAUH//8Hs\u003d",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7+4\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 114,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-06-26T11:32:16Z",
+      "side": 1,
+      "message": "Ziel dieses Effekts ist die Reduzierung \"der Möglichkeit\", dass die Audiowiedergabe durch Hintergrundgeräusche, z.B. Straßenlärm, übertönt wird.",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7+0\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-06-26T11:32:16Z",
+      "side": 1,
+      "message": "Der Hinweis auf AOSP-Code erscheint mir überflüssig, da weiter oben genannt wurde, dass der CM DSPManager vom AOSP abweicht.",
       "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -183,6 +338,23 @@
       "writtenOn": "2012-06-25T23:08:21Z",
       "side": 1,
       "message": "\"Einige allgemeine Voreinstellungen können hier gemacht werden ebenso kann die Frequenzkurve durch klopfen auf den Equalizergraph angepasst werden. Der Effekt sollte dafür benutzt werden [...]\"",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7+c\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-06-26T11:32:16Z",
+      "side": 1,
+      "message": "Alle drei Varianten klingen nach Google-Übersetzung. :D\n\nVorschlag:\nAllgemeine Voreinstellungen können hier durchgeführt/gemacht/getätigt werden. Außerdem kann der Frequenzgang durch Berühren des Equalizer-Graphen angepasst werden. Der Effekt sollte dafür benutzt werden, den Frequenzgang an den persönlichen Geschmack oder die \"Besonderheiten\" (besondere Fähigkeiten) von Kopfhörern oder Lautsprechern abzustimmen.",
       "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
