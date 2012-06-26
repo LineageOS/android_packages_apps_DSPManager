@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUH//8A8\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 688
+      },
+      "writtenOn": "2012-06-26T08:28:44Z",
+      "side": 1,
+      "message": "minu_ya_?\nDo we expect people to know what DAC is?",
+      "revId": "a1631790627c20e21920d31dbbace90cca8f8444",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//8A4\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 98,
+      "author": {
+        "id": 688
+      },
+      "writtenOn": "2012-06-26T08:28:44Z",
+      "side": 1,
+      "message": "I think this part is confusing. Manager usually means \"upravlyat\u0027\".",
+      "revId": "a1631790627c20e21920d31dbbace90cca8f8444",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//8A0\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 102,
+      "author": {
+        "id": 688
+      },
+      "writtenOn": "2012-06-26T08:28:44Z",
+      "side": 1,
+      "message": "CyanogenMod podderzhivaet obrabotku zvuka v treh razlichnih rezhimah: ..., dinamik _ustrojstva_, ...\nispravl_e_nie.\n\noverall this paragraph still sounds pretty strange towards the end, though. Any further ways to reword?",
+      "revId": "a1631790627c20e21920d31dbbace90cca8f8444",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//8Aw\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 118,
+      "author": {
+        "id": 688
+      },
+      "writtenOn": "2012-06-26T08:28:44Z",
+      "side": 1,
+      "message": "dopolnitelnoe znachenie sounds downright wrong.\ndopolnitelnij aktsent? other ways to reword this?",
+      "revId": "a1631790627c20e21920d31dbbace90cca8f8444",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//8As\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 124,
+      "author": {
+        "id": 688
+      },
+      "writtenOn": "2012-06-26T08:28:44Z",
+      "side": 1,
+      "message": "zvukovogo davleniya na uho? BArabannuyu pereponku, vozmozhno? Kakoj-to bolle adekvatnij perevod etoj konstruktsii ustoyavshijsya v literature tna russkom?\n\nlast sentence:\nOptimalnaya rabota dannogo effekta dostigaetsia pri ispolzovanii provodnih naushnikov i pravilnoj nastrojki parametra \"sila\".\n\nBTW, while we are at is, is \"sila\" the right one here too? Perhaps something different could be used here too?",
+      "revId": "a1631790627c20e21920d31dbbace90cca8f8444",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//8Ao\u003d",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 134,
+      "author": {
+        "id": 688
+      },
+      "writtenOn": "2012-06-26T08:28:44Z",
+      "side": 1,
+      "message": "This line needs to be reworded, I don\u0027t understand what does that mean at all.",
+      "revId": "a1631790627c20e21920d31dbbace90cca8f8444",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
