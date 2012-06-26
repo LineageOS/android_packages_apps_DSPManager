@@ -259,6 +259,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//8Gg\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 118,
+      "author": {
+        "id": 3296
+      },
+      "writtenOn": "2012-06-26T21:25:10Z",
+      "side": 1,
+      "message": "Hier ist absichtlich die \"Bass-Verstärkung\" gemeint, da sie auch im DSPManager so genannt wurde",
+      "parentUuid": "AAAAUH//8Ig\u003d",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//8IM\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 3
