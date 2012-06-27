@@ -367,6 +367,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//7zM\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 118,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-06-27T20:08:59Z",
+      "side": 1,
+      "message": "Sorry war mein Fehler, h4rdco2e hat recht.\nIch denke es sollte \"Bass-Verstärkung\" heißen so wie im UI.",
+      "parentUuid": "AAAAUH//70w\u003d",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//8IM\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 3
@@ -498,6 +516,24 @@
       "writtenOn": "2012-06-25T23:08:21Z",
       "side": 1,
       "message": "\"loudness compensation filter\" Lärmunterdrückungsfilter...?",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7zI\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 127,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2012-06-27T20:08:59Z",
+      "side": 1,
+      "message": "Loudness-Kompensation ist keine Lärmuntedrückung!",
+      "parentUuid": "AAAAUH//8Hc\u003d",
       "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
