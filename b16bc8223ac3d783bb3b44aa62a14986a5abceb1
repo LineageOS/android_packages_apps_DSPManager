@@ -104,6 +104,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//71A\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 101,
+      "author": {
+        "id": 1951
+      },
+      "writtenOn": "2012-06-27T15:58:26Z",
+      "side": 1,
+      "message": "Im Englischen heißt es: \"CyanogenMod\\\u0027s audio processing supports three different output categories:\"\nIch denk daher passt die Übersetzung soweit...",
+      "parentUuid": "AAAAUH//7/M\u003d",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//7/I\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 3
@@ -115,6 +133,24 @@
       "writtenOn": "2012-06-26T11:32:16Z",
       "side": 1,
       "message": "Konfigurat ionspanel? Findet hier ein Umbruch statt? Irgendwie klingt der Begriff falsch.\n\nAufgabe des DSP ist teilweise redundant zu Einleitung.",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//708\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 102,
+      "author": {
+        "id": 1951
+      },
+      "writtenOn": "2012-06-27T15:58:26Z",
+      "side": 1,
+      "message": "Der Umbruch kommt durch gerrit, mir gefällt das Wort \"Konfigurationpanel\" nicht, ist aber mMn \"eingedeutscht\" und alles andere holpert noch mehr.\n\n\"DSPManager\\\u0027s philosophy is to correct each audio output\\\u0027s particular deficiencies in order to reach the most optimal listening experience with each.\"\n\"Die Idee hinter dem DSPManager ist es, die Fehler jeder Audio-Ausgabe so zu korrigieren, dass ein optimales Hörerlebnis möglich ist.\"",
+      "parentUuid": "AAAAUH//7/I\u003d",
       "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -167,6 +203,24 @@
       "writtenOn": "2012-06-26T11:32:16Z",
       "side": 1,
       "message": "Besonderheiten \u003d Rest?",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//704\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 1951
+      },
+      "writtenOn": "2012-06-27T15:58:26Z",
+      "side": 1,
+      "message": "\"Features\"\nHm, schwer das zu übersetzen \"Besonderheiten\" trifft es nicht so gut. Vielleicht \"Weiterführende Informationen\"\n\n\"The rest of this document describes each audio effect and its intended usage\nscenario.\"\n\"Im Folgenden wird jeder Audio-Effekt beschrieben und wann ...\"",
+      "parentUuid": "AAAAUH//7/A\u003d",
       "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -242,6 +296,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//700\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 1951
+      },
+      "writtenOn": "2012-06-27T15:58:26Z",
+      "side": 1,
+      "message": "\"There is no AOSP equivalent for this DSP effect.\"\nSteht halt so im englischen Original, wobei es eher heißen müsste:\n\"Es gibt für diesen DSP-Effekt keinen entsprechenden Effekt im AOSP.\"",
+      "parentUuid": "AAAAUH//7+0\u003d",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//8Ig\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 3
@@ -271,6 +343,24 @@
       "side": 1,
       "message": "Hier ist absichtlich die \"Bass-Verstärkung\" gemeint, da sie auch im DSPManager so genannt wurde",
       "parentUuid": "AAAAUH//8Ig\u003d",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//70w\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 118,
+      "author": {
+        "id": 1951
+      },
+      "writtenOn": "2012-06-27T15:58:26Z",
+      "side": 1,
+      "message": "Ich würde \"Bass Boost\" auch eher als \"Bassverstärkung\" (ohne Bindestrich) übersetzen als \"Bass-Anhebung\"",
+      "parentUuid": "AAAAUH//8Gg\u003d",
       "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -373,6 +463,24 @@
       "writtenOn": "2012-06-26T11:32:16Z",
       "side": 1,
       "message": "Alle drei Varianten klingen nach Google-Übersetzung. :D\n\nVorschlag:\nAllgemeine Voreinstellungen können hier durchgeführt/gemacht/getätigt werden. Außerdem kann der Frequenzgang durch Berühren des Equalizer-Graphen angepasst werden. Der Effekt sollte dafür benutzt werden, den Frequenzgang an den persönlichen Geschmack oder die \"Besonderheiten\" (besondere Fähigkeiten) von Kopfhörern oder Lautsprechern abzustimmen.",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//70s\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 1951
+      },
+      "writtenOn": "2012-06-27T15:58:26Z",
+      "side": 1,
+      "message": "Der Vorschlag von Markus Hoeber find ich gut. Ich würde \"getätigt werden\" schreiben und die \"(besondere Fähigkeiten)\" löschen so wie die Anführungszeichen um \"Besonderheiten\". Hm und müsste es nicht \"[...] der Kopfhörer oder [...]\" heißen?\n\n(btw: War keine google-Übersetzung, aber klingt echt wie eine... *damn*)",
+      "parentUuid": "AAAAUH//7+c\u003d",
       "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
