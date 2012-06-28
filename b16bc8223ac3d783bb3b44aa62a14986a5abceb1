@@ -227,6 +227,23 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//7t8\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-06-28T16:54:20Z",
+      "side": 1,
+      "message": "Vielleicht würde Effekte passen, da im weiteren immer wieder Effekt genannt wird.",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//8Hs\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 3
@@ -308,6 +325,23 @@
       "side": 1,
       "message": "\"There is no AOSP equivalent for this DSP effect.\"\nSteht halt so im englischen Original, wobei es eher heißen müsste:\n\"Es gibt für diesen DSP-Effekt keinen entsprechenden Effekt im AOSP.\"",
       "parentUuid": "AAAAUH//7+0\u003d",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7uA\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-06-28T16:54:20Z",
+      "side": 1,
+      "message": "Danke Thomas. Das klingt deutlich sinnvoller.",
       "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -505,6 +539,23 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//7uI\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-06-28T16:54:20Z",
+      "side": 1,
+      "message": "der Kopfhörer ist korrekt. Danke für den Hinweis.",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//8Hc\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 3
@@ -534,6 +585,23 @@
       "side": 1,
       "message": "Loudness-Kompensation ist keine Lärmuntedrückung!",
       "parentUuid": "AAAAUH//8Hc\u003d",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7t4\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 127,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-06-28T16:54:20Z",
+      "side": 1,
+      "message": "Der Equalizer enthält auch eine Lautstärke-Kompensation, die die Veränderungen in der Frequenz, die auf dem Schalldruckpegel, der das Ohr des Benutzers erreicht, basiert, ausgleicht.\n\nSehr komplizierter Satz, ist sehr nah am Original. Ein wenig Optimierung wäre sinnvoll.",
       "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -574,6 +642,40 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//7t0\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 132,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-06-28T16:54:20Z",
+      "side": 1,
+      "message": "Aus oder Flat (Flach)?",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7ts\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 134,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-06-28T16:54:20Z",
+      "side": 1,
+      "message": "Orig. Headset-Filter! --\u003e Kopfhörer-Effekt/Filter.",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//8HQ\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 3
@@ -591,6 +693,23 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//7tQ\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 136,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-06-28T16:54:20Z",
+      "side": 1,
+      "message": "Der \"Headset-Filter\" ist ein \"Crossfeed-Design\", das von dem berühmten bs2b Analogschaltung inspiriert ist.\n\nMir fällt kein pasender Begriff für Crossfeed-Design ein. Hier ist wohl tieferes Verständnis der Materie erforderlich.",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//8Hg\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 3
@@ -602,6 +721,23 @@
       "writtenOn": "2012-06-25T23:08:21Z",
       "side": 1,
       "message": "Komma:\n\"nDurch die Mischung der Stereo-Kanaltrennung entsteht ein Effekt, der das Stereobild echter wirken lässt.\"",
+      "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7tM\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 138,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-06-28T16:54:20Z",
+      "side": 1,
+      "message": "because the mixing reduces the stereo separation somewhat, there is a Haas effect reverb, which can be used to increase the perceived stereo image width. This is controlled by the \u0027Room Type\u0027 control\n\nDa das Mischen die (Stereo-)Kanaltrennung reduziert, entsteht ein Haal-Effekt Echo/Hall, das für die Erhöhung der Basisbreite verwendet werden kann. \n\na) Dieser Effekt wird durch die \u0027Raumtyp\u0027-Einstellung beinflusst.\nb) Durch die Raumtyp-Auswahl wird dieser Effekt eingestellt.",
       "revId": "b16bc8223ac3d783bb3b44aa62a14986a5abceb1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
