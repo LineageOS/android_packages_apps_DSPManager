@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUH//7lk\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 1951
+      },
+      "writtenOn": "2012-06-29T18:04:53Z",
+      "side": 1,
+      "message": "Der erste Satz klingt holprig, ich denk so ist es besser allerdings noch freier:\n\"[...], mit der die Audioausgabe über diverse Einstellungen beeinflusst werden kann.\"\n\nDas Beispiel im Letzten Satz steht für sich alleine, denk so wär es besser:\n\"Anwendungen, z.B. die meisten Musik-Player, die kompatibel zu [...]\"",
+      "revId": "c4eefd6bc3ee3bd42210ff6397accef28ec8aabc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7lc\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 109,
+      "author": {
+        "id": 1951
+      },
+      "writtenOn": "2012-06-29T18:04:53Z",
+      "side": 1,
+      "message": "Letzter Satz klingt komisch, ein (freier) Verbesserungsversuch:\n\"Dieser Effekt soll dafür sorgen, dass eine Audiowiedergabe weniger durch Hintergrundgeräusche, z.B. Straßenlärm, übertönt werden kann.\"",
+      "revId": "c4eefd6bc3ee3bd42210ff6397accef28ec8aabc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7lY\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 1951
+      },
+      "writtenOn": "2012-06-29T18:04:53Z",
+      "side": 1,
+      "message": "Satz 1 Bezug:\n\"[...] ein einfacher Tiefpassfilter, welcher benutzt werden kann [...]\"\n\nLetzter Satz \"liegen\" wär ein einfaches \"sind\" nicht besser?",
+      "revId": "c4eefd6bc3ee3bd42210ff6397accef28ec8aabc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7lU\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 124,
+      "author": {
+        "id": 1951
+      },
+      "writtenOn": "2012-06-29T18:04:53Z",
+      "side": 1,
+      "message": "Satz 1: \"ist\" ist zu viel!",
+      "revId": "c4eefd6bc3ee3bd42210ff6397accef28ec8aabc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7lM\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 126,
+      "author": {
+        "id": 1951
+      },
+      "writtenOn": "2012-06-29T18:04:53Z",
+      "side": 1,
+      "message": "Satz 2: \"Versuchen Sie\" im übrigen Text schwingt ein neutrales \"man\" mit:\n\"Man sollte versuchen eine Einstellung zu finden, bei [...]\"",
+      "revId": "c4eefd6bc3ee3bd42210ff6397accef28ec8aabc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7lI\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 132,
+      "author": {
+        "id": 1951
+      },
+      "writtenOn": "2012-06-29T18:04:53Z",
+      "side": 1,
+      "message": "Satz 1: kA ob das stimmt aber ich denke eine Schaltung (bs2b-Analogschaltung) ist \"weiblich\" und das Design \"wurde\" mMn inspiriert:\n\"[...], das von der berühmten bs2b-Analogschaltung inspiriert wurde.\"\n\nSatz 2: Hm vielleicht so...\n\"[...] durch einen Tiefpassfilter, also näher oder weiter entfernt vom Benutzer, dargestellt.\"",
+      "revId": "c4eefd6bc3ee3bd42210ff6397accef28ec8aabc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
