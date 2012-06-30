@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//7LY\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-06-30T15:41:01Z",
+      "side": 1,
+      "message": "- Compensatie geluidssterkte",
+      "parentUuid": "AAAAUH//7Tk\u003d",
+      "revId": "b33472683bc658af824744fcba3aaa3c0208699b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//7Tg\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
@@ -30,6 +48,24 @@
       "writtenOn": "2012-06-30T02:45:20Z",
       "side": 1,
       "message": "\"Type ruimte\" klinkt beter",
+      "revId": "b33472683bc658af824744fcba3aaa3c0208699b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7LU\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-06-30T15:41:01Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAUH//7Tg\u003d",
       "revId": "b33472683bc658af824744fcba3aaa3c0208699b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
