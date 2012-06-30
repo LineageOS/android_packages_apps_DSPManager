@@ -2,6 +2,40 @@
   "comments": [
     {
       "key": {
+        "uuid": "AAAAUH//7Tk\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-30T02:45:20Z",
+      "side": 1,
+      "message": "Geluidssterkte compensatie?",
+      "revId": "b33472683bc658af824744fcba3aaa3c0208699b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7Tg\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-30T02:45:20Z",
+      "side": 1,
+      "message": "\"Type ruimte\" klinkt beter",
+      "revId": "b33472683bc658af824744fcba3aaa3c0208699b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//7eI\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
