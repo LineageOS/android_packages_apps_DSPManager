@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "AAAAUH//7TE\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 97,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-30T03:54:26Z",
+      "side": 1,
+      "message": "de komma(,) voor \"en\" mag weg.\n\nlager -\u003e lagere",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//7j4\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 2
@@ -31,6 +48,23 @@
       "side": 1,
       "message": "Ik vind \"soort uitvoer\" ook wel een goed idee.",
       "parentUuid": "AAAAUH//7j4\u003d",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7S8\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 109,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-30T03:54:26Z",
+      "side": 1,
+      "message": "de komma(,) voor \"en\" mag weg.",
       "revId": "4816bd800f451a0d61dff68173bc293446483b65",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -143,6 +177,57 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//7S4\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 120,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-30T03:54:26Z",
+      "side": 1,
+      "message": "een spatie tussen de punt en \"De\"",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7S0\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 121,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-30T03:54:26Z",
+      "side": 1,
+      "message": "beleefd?",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7Sw\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 135,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-30T03:54:26Z",
+      "side": 1,
+      "message": "voert \u003d stuurt?\n\nde komma(,) voor \"en\" mag weg.",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//7js\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 2
@@ -171,6 +256,24 @@
       "writtenOn": "2012-06-30T00:32:50Z",
       "side": 1,
       "message": "Inderdaad mooier",
+      "parentUuid": "AAAAUH//7js\u003d",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7Ss\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 146,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-30T03:54:26Z",
+      "side": 1,
+      "message": "Simpel is goed, simpele niet.\n\n\"Dat\" vind ik eigenlijk ook beter dan \"die\"",
       "parentUuid": "AAAAUH//7js\u003d",
       "revId": "4816bd800f451a0d61dff68173bc293446483b65",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
@@ -229,6 +332,40 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//7So\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 163,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-30T03:54:26Z",
+      "side": 1,
+      "message": "luidheid \u003d geluidssterkte ?",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7Sk\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 165,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-30T03:54:26Z",
+      "side": 1,
+      "message": "de komma(,) voor \"en\" mag weg.",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//7i8\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 2
@@ -258,6 +395,24 @@
       "side": 1,
       "message": "Heb ik over getwijfeld hoe dit te vertalen. Ik vond uiteindelijk zelf compensatiewaarde de beste oplossing, maar ik hoor graag meer meningen hierover!",
       "parentUuid": "AAAAUH//7i8\u003d",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7Sg\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 166,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-30T03:54:26Z",
+      "side": 1,
+      "message": "strength parameter value, lastig!\nik zou het ook generieker houden en kiezen voor \"sterkte\"\n\nedit: na verder lezen is gebruikt van \"compensatiewaarde\" in het vervolg wel logischer.",
+      "parentUuid": "AAAAUH//7aY\u003d",
       "revId": "4816bd800f451a0d61dff68173bc293446483b65",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -299,6 +454,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//7SY\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 170,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-30T03:54:26Z",
+      "side": 1,
+      "message": "Maar dan niet \"luidhieds\" ;)\n\nluidheid \u003d geluidssterkte ?",
+      "parentUuid": "AAAAUH//7aU\u003d",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//7jA\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 2
@@ -310,6 +483,126 @@
       "writtenOn": "2012-06-29T21:56:09Z",
       "side": 1,
       "message": "compensatiesterkte?",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7SQ\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 171,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-30T03:54:26Z",
+      "side": 1,
+      "message": "compensatiewaarde \u003d\u003e instelling (origineel is \"setting\")\n\nopgevoerd \u003d versterkt?",
+      "parentUuid": "AAAAUH//7jA\u003d",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7SM\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 174,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-30T03:54:26Z",
+      "side": 1,
+      "message": "is \u003d\u003e ligt",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7SI\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 175,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-30T03:54:26Z",
+      "side": 1,
+      "message": "komma verplaatsen\n\n hoge niveaus, is de compensatiewaarde waarschijnlijk te sterk en moet....",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7SE\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 176,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-30T03:54:26Z",
+      "side": 1,
+      "message": "en moet deze worden verminderd.",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7SA\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 179,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-30T03:54:26Z",
+      "side": 1,
+      "message": "na “vlak” een spatie teveel",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7R8\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 181,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-30T03:54:26Z",
+      "side": 1,
+      "message": "headset \u003d koptelefoon",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7R4\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 183,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-30T03:54:26Z",
+      "side": 1,
+      "message": "headset \u003d koptelefoon",
       "revId": "4816bd800f451a0d61dff68173bc293446483b65",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -333,6 +626,92 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//7R0\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 184,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-30T03:54:26Z",
+      "side": 1,
+      "message": "\"Het filter\" wordt echt vaker gebruikt",
+      "parentUuid": "AAAAUH//7i4\u003d",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7Rw\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 186,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-30T03:54:26Z",
+      "side": 1,
+      "message": "in-oor-vertraging",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7Rs\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 188,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-30T03:54:26Z",
+      "side": 1,
+      "message": "headset \u003d koptelefoon",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7Ro\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 189,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-30T03:54:26Z",
+      "side": 1,
+      "message": "headset \u003d koptelefoon",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7Rg\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 192,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-30T03:54:26Z",
+      "side": 1,
+      "message": "die kan worden gebruikt om de waargenomen breedte van het stereobeeld te",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//7i0\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 2
@@ -344,6 +723,24 @@
       "writtenOn": "2012-06-29T21:56:09Z",
       "side": 1,
       "message": "\"Type ruimte\"",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7Rk\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 193,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-30T03:54:26Z",
+      "side": 1,
+      "message": "Mee eens, zo wordt het in andere files ook vertaald.",
+      "parentUuid": "AAAAUH//7i0\u003d",
       "revId": "4816bd800f451a0d61dff68173bc293446483b65",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
