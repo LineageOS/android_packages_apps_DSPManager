@@ -125,6 +125,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//7YM\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-06-30T00:49:52Z",
+      "side": 1,
+      "message": "Je hebt gelijk. Lidwoorden helemaal weglaten is denk ik de beste optie.",
+      "parentUuid": "AAAAUH//7ZU\u003d",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//7js\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 2
