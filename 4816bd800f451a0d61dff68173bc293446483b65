@@ -107,6 +107,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//7ZU\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 2049
+      },
+      "writtenOn": "2012-06-30T00:41:50Z",
+      "side": 1,
+      "message": "een telefoonluidspreker kan wel niet aangezien er maar 1 van is. Ik zou gewoon de lidwoorden laten vallen aangezien het de categorienamen zijn.",
+      "parentUuid": "AAAAUH//7ak\u003d",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//7js\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 2
