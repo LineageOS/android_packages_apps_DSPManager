@@ -403,6 +403,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//7Pg\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 163,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-06-30T04:50:01Z",
+      "side": 1,
+      "message": "Daar heb je gelijk in haha",
+      "parentUuid": "AAAAUH//7QU\u003d",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//7Sk\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 2
