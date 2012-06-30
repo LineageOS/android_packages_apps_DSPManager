@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//7a4\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-06-30T00:32:50Z",
+      "side": 1,
+      "message": "Ik vind \"soort uitvoer\" ook wel een goed idee.",
+      "parentUuid": "AAAAUH//7j4\u003d",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//7j0\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 2
@@ -30,6 +48,24 @@
       "writtenOn": "2012-06-29T21:56:09Z",
       "side": 1,
       "message": "\u0027;\u0027 \u003d\u003e \u0027.\u0027 ?",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7ao\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 111,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-06-30T00:32:50Z",
+      "side": 1,
+      "message": "Ik vind ; hier een prima oplossing.",
+      "parentUuid": "AAAAUH//7j0\u003d",
       "revId": "4816bd800f451a0d61dff68173bc293446483b65",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//7ak\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-06-30T00:32:50Z",
+      "side": 1,
+      "message": "ik zou er \"een telefoonluidspreker en een Bluetooth-headset\" van maken.",
+      "parentUuid": "AAAAUH//7jw\u003d",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//7js\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 2
@@ -64,6 +118,41 @@
       "writtenOn": "2012-06-29T21:56:09Z",
       "side": 1,
       "message": "simpele?\n\ndat -\u003e die? Beide kunnen (de/het filter) maar ik zou gaan voor die.",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7ag\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 146,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-06-30T00:32:50Z",
+      "side": 1,
+      "message": "Inderdaad mooier",
+      "parentUuid": "AAAAUH//7js\u003d",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7ac\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 148,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-06-30T00:32:50Z",
+      "side": 1,
+      "message": "Ik was 2x een \\ vergeten, geeft nu een probleem met builden",
       "revId": "4816bd800f451a0d61dff68173bc293446483b65",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -121,6 +210,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//7aY\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 166,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-06-30T00:32:50Z",
+      "side": 1,
+      "message": "Heb ik over getwijfeld hoe dit te vertalen. Ik vond uiteindelijk zelf compensatiewaarde de beste oplossing, maar ik hoor graag meer meningen hierover!",
+      "parentUuid": "AAAAUH//7i8\u003d",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//7jE\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 2
@@ -132,6 +239,24 @@
       "writtenOn": "2012-06-29T21:56:09Z",
       "side": 1,
       "message": "\"Om de luidhiedscompensatie juist af te stemmen, dient u het laagste muziekvolume te kiezen en breed-spectrum lawaaierige muziek, zoals rock of metal, af te spelen.\"?",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7aU\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 170,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2012-06-30T00:32:50Z",
+      "side": 1,
+      "message": "Helderder zinsconstructie inderdaad",
+      "parentUuid": "AAAAUH//7jE\u003d",
       "revId": "4816bd800f451a0d61dff68173bc293446483b65",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
