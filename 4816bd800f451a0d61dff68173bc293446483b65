@@ -211,6 +211,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//7RE\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 121,
+      "author": {
+        "id": 2049
+      },
+      "writtenOn": "2012-06-30T04:39:43Z",
+      "side": 1,
+      "message": "inderdaad",
+      "parentUuid": "AAAAUH//7S0\u003d",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//7Sw\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 2
@@ -281,6 +299,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//7Qo\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 146,
+      "author": {
+        "id": 2049
+      },
+      "writtenOn": "2012-06-30T04:39:43Z",
+      "side": 1,
+      "message": "Hangt af van of je de filter of het filter pakt. Ik dacht aan de filter (en dan ook \u0027die\u0027 en \u0027simpele\u0027) maar mag ook het.",
+      "parentUuid": "AAAAUH//7Ss\u003d",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//7ac\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 2
@@ -343,6 +379,24 @@
       "writtenOn": "2012-06-30T03:54:26Z",
       "side": 1,
       "message": "luidheid \u003d geluidssterkte ?",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7QU\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 163,
+      "author": {
+        "id": 2049
+      },
+      "writtenOn": "2012-06-30T04:39:43Z",
+      "side": 1,
+      "message": "Is vrijwel hetzelfde. Staat zo in de settings en geluidsterktecompensatie is niet bepaalt beter.",
+      "parentUuid": "AAAAUH//7So\u003d",
       "revId": "4816bd800f451a0d61dff68173bc293446483b65",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
