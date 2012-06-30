@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "AAAAUH//7eI\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-06-30T00:09:01Z",
+      "side": 1,
+      "message": "\u003e Basverzwakker",
+      "revId": "b33472683bc658af824744fcba3aaa3c0208699b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//7fQ\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
@@ -13,6 +30,24 @@
       "writtenOn": "2012-06-29T23:21:54Z",
       "side": 1,
       "message": "verzwakker?",
+      "revId": "b33472683bc658af824744fcba3aaa3c0208699b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//7eM\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-06-30T00:09:01Z",
+      "side": 1,
+      "message": "Dacht ik ook al aan...\nDone",
+      "parentUuid": "AAAAUH//7fQ\u003d",
       "revId": "b33472683bc658af824744fcba3aaa3c0208699b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
