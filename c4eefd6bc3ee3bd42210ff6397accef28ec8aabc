@@ -19,6 +19,41 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//680\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-07-02T12:28:33Z",
+      "side": 1,
+      "message": "Die Umstellung der Beispiele an den Satzanfang finde ich gut.\n\nDer freiere erste Satz wäre mir zu schwammig.",
+      "parentUuid": "AAAAUH//7lk\u003d",
+      "revId": "c4eefd6bc3ee3bd42210ff6397accef28ec8aabc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//68w\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 99,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-07-02T12:28:33Z",
+      "side": 1,
+      "message": "Fehler in der Audioausgabe klingt komisch. Besonderheiten war, glaube ich, näher am Original.",
+      "revId": "c4eefd6bc3ee3bd42210ff6397accef28ec8aabc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//7lc\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 4
@@ -30,6 +65,24 @@
       "writtenOn": "2012-06-29T18:04:53Z",
       "side": 1,
       "message": "Letzter Satz klingt komisch, ein (freier) Verbesserungsversuch:\n\"Dieser Effekt soll dafür sorgen, dass eine Audiowiedergabe weniger durch Hintergrundgeräusche, z.B. Straßenlärm, übertönt werden kann.\"",
+      "revId": "c4eefd6bc3ee3bd42210ff6397accef28ec8aabc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//68s\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 109,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-07-02T12:28:33Z",
+      "side": 1,
+      "message": "Beides wäre okay.",
+      "parentUuid": "AAAAUH//7lc\u003d",
       "revId": "c4eefd6bc3ee3bd42210ff6397accef28ec8aabc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +106,58 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//68o\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-07-02T12:28:33Z",
+      "side": 1,
+      "message": "liegen passt nicht. Sind wäre zu umgangssprachlich. Wie wäre es mit befinden?",
+      "parentUuid": "AAAAUH//7lY\u003d",
+      "revId": "c4eefd6bc3ee3bd42210ff6397accef28ec8aabc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//68k\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 120,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-07-02T12:28:33Z",
+      "side": 1,
+      "message": "Es handelt sich...",
+      "revId": "c4eefd6bc3ee3bd42210ff6397accef28ec8aabc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//68g\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 123,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-07-02T12:28:33Z",
+      "side": 1,
+      "message": "Loudness-Compesation",
+      "revId": "c4eefd6bc3ee3bd42210ff6397accef28ec8aabc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//7lU\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 4
@@ -64,6 +169,24 @@
       "writtenOn": "2012-06-29T18:04:53Z",
       "side": 1,
       "message": "Satz 1: \"ist\" ist zu viel!",
+      "revId": "c4eefd6bc3ee3bd42210ff6397accef28ec8aabc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//68c\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 124,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-07-02T12:28:33Z",
+      "side": 1,
+      "message": "erforderlich klingt angenehmer als vorausgesetzt.",
+      "parentUuid": "AAAAUH//7lU\u003d",
       "revId": "c4eefd6bc3ee3bd42210ff6397accef28ec8aabc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -87,6 +210,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//68Y\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 126,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-07-02T12:28:33Z",
+      "side": 1,
+      "message": "breitbandige Musik, (wie) z.B. Rock ..., leise abgespielt werden.",
+      "parentUuid": "AAAAUH//7lM\u003d",
+      "revId": "c4eefd6bc3ee3bd42210ff6397accef28ec8aabc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//7lI\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 4
@@ -98,6 +239,24 @@
       "writtenOn": "2012-06-29T18:04:53Z",
       "side": 1,
       "message": "Satz 1: kA ob das stimmt aber ich denke eine Schaltung (bs2b-Analogschaltung) ist \"weiblich\" und das Design \"wurde\" mMn inspiriert:\n\"[...], das von der berühmten bs2b-Analogschaltung inspiriert wurde.\"\n\nSatz 2: Hm vielleicht so...\n\"[...] durch einen Tiefpassfilter, also näher oder weiter entfernt vom Benutzer, dargestellt.\"",
+      "revId": "c4eefd6bc3ee3bd42210ff6397accef28ec8aabc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//68U\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 132,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-07-02T12:28:33Z",
+      "side": 1,
+      "message": "...zwei Signalen...",
+      "parentUuid": "AAAAUH//7lI\u003d",
       "revId": "c4eefd6bc3ee3bd42210ff6397accef28ec8aabc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
