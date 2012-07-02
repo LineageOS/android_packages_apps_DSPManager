@@ -124,6 +124,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//674\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 1951
+      },
+      "writtenOn": "2012-07-02T14:15:55Z",
+      "side": 1,
+      "message": "Was haltet ihr von \"beträgt\"? \n\nUnd warum im 2. Satz ein Komma? Wär hier ein \"und\" nicht sinnvoller?\n\n\"Die Verstärkung beträgt ca. 6dB und wird durch den \"Stärke\"-Parameter angepasst.\"",
+      "parentUuid": "AAAAUH//68o\u003d",
+      "revId": "c4eefd6bc3ee3bd42210ff6397accef28ec8aabc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//68k\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 4
@@ -187,6 +205,24 @@
       "side": 1,
       "message": "erforderlich klingt angenehmer als vorausgesetzt.",
       "parentUuid": "AAAAUH//7lU\u003d",
+      "revId": "c4eefd6bc3ee3bd42210ff6397accef28ec8aabc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//670\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 124,
+      "author": {
+        "id": 1951
+      },
+      "writtenOn": "2012-07-02T14:15:55Z",
+      "side": 1,
+      "message": "Stimmt! Klingt besser!",
+      "parentUuid": "AAAAUH//68c\u003d",
       "revId": "c4eefd6bc3ee3bd42210ff6397accef28ec8aabc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
