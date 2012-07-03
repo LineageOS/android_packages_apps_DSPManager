@@ -142,6 +142,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//6l8\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-07-03T15:07:20Z",
+      "side": 1,
+      "message": "sehr guter Vorschlag!",
+      "parentUuid": "AAAAUH//674\u003d",
+      "revId": "c4eefd6bc3ee3bd42210ff6397accef28ec8aabc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//68k\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 4
