@@ -664,6 +664,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//6lo\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 181,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-07-03T15:26:52Z",
+      "side": 1,
+      "message": "Al eerder een discussie daarover gehad. Maar een headset is een koptelefoon met een microfoon, en headset is zelf ook een \u0027gewoon\u0027 Nederlands woord (als Van Dale gelijk heeft):\n\nhttp://vandale.nl/opzoeken?pattern\u003dheadset\u0026lang\u003dnn\n\n- Won\u0027t fix",
+      "parentUuid": "AAAAUH//7R8\u003d",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//7R4\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 2
@@ -675,6 +693,24 @@
       "writtenOn": "2012-06-30T03:54:26Z",
       "side": 1,
       "message": "headset \u003d koptelefoon",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//6lk\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 183,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-07-03T15:26:52Z",
+      "side": 1,
+      "message": "- Won\u0027t fix",
+      "parentUuid": "AAAAUH//7R4\u003d",
       "revId": "4816bd800f451a0d61dff68173bc293446483b65",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -709,6 +745,24 @@
       "writtenOn": "2012-06-30T03:54:26Z",
       "side": 1,
       "message": "\"Het filter\" wordt echt vaker gebruikt",
+      "parentUuid": "AAAAUH//7i4\u003d",
+      "revId": "4816bd800f451a0d61dff68173bc293446483b65",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//6lg\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 184,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-07-03T15:26:52Z",
+      "side": 1,
+      "message": "Done",
       "parentUuid": "AAAAUH//7i4\u003d",
       "revId": "4816bd800f451a0d61dff68173bc293446483b65",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
