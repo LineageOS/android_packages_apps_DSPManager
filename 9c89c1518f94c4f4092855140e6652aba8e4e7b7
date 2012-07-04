@@ -1,0 +1,225 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUH//6cQ\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 77,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-07-04T03:38:50Z",
+      "side": 1,
+      "message": "Analoogwinst is mij een totaal onbekend woord.\nWat is het Engels? Gain?\nDan zou ik het zo laten, volgens mij is er geen goede NLse vertaling voor.",
+      "revId": "9c89c1518f94c4f4092855140e6652aba8e4e7b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//6cI\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-07-04T03:38:50Z",
+      "side": 1,
+      "message": "?",
+      "revId": "9c89c1518f94c4f4092855140e6652aba8e4e7b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//6cE\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 86,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-07-04T03:38:50Z",
+      "side": 1,
+      "message": "Gain",
+      "revId": "9c89c1518f94c4f4092855140e6652aba8e4e7b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//6cA\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-07-04T03:38:50Z",
+      "side": 1,
+      "message": "uitvoercategorie, gebruik je namelijk ook op regel 118",
+      "revId": "9c89c1518f94c4f4092855140e6652aba8e4e7b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//6b8\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 111,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-07-04T03:38:50Z",
+      "side": 1,
+      "message": "app \u003d applicatie",
+      "revId": "9c89c1518f94c4f4092855140e6652aba8e4e7b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//6b0\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 124,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-07-04T03:38:50Z",
+      "side": 1,
+      "message": "applicatie",
+      "revId": "9c89c1518f94c4f4092855140e6652aba8e4e7b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//6b4\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-07-04T03:38:50Z",
+      "side": 1,
+      "message": "applicatie",
+      "revId": "9c89c1518f94c4f4092855140e6652aba8e4e7b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//6bw\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 146,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-07-04T03:38:50Z",
+      "side": 1,
+      "message": "Toch gekozen voor \"de filter\"?\nKlinkt mij echt vreemd in de oren",
+      "revId": "9c89c1518f94c4f4092855140e6652aba8e4e7b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//6bs\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 160,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-07-04T03:38:50Z",
+      "side": 1,
+      "message": "de gebruiker (spatie)",
+      "revId": "9c89c1518f94c4f4092855140e6652aba8e4e7b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//6bo\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 169,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-07-04T03:38:50Z",
+      "side": 1,
+      "message": "luidheid, niet hied",
+      "revId": "9c89c1518f94c4f4092855140e6652aba8e4e7b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//6bk\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 176,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-07-04T03:38:50Z",
+      "side": 1,
+      "message": "het -\u003e deze....\nhet compensatiewaarde kan toch niet?",
+      "revId": "9c89c1518f94c4f4092855140e6652aba8e4e7b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//6bg\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 187,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-07-04T03:38:50Z",
+      "side": 1,
+      "message": "\"om\" mag hier wel weg eigenlijk.",
+      "revId": "9c89c1518f94c4f4092855140e6652aba8e4e7b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//6bc\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 189,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-07-04T03:38:50Z",
+      "side": 1,
+      "message": "headset, zonder s",
+      "revId": "9c89c1518f94c4f4092855140e6652aba8e4e7b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
