@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//6ZU\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 77,
+      "author": {
+        "id": 2049
+      },
+      "writtenOn": "2012-07-04T17:18:47Z",
+      "side": 1,
+      "message": "Engels: Customize the analog gain\n\nDus: \"Analoge gain wijzigen\"?",
+      "parentUuid": "AAAAUH//6cQ\u003d",
+      "revId": "9c89c1518f94c4f4092855140e6652aba8e4e7b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//6cI\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 3
@@ -30,6 +48,24 @@
       "writtenOn": "2012-07-04T03:38:50Z",
       "side": 1,
       "message": "?",
+      "revId": "9c89c1518f94c4f4092855140e6652aba8e4e7b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//6ZQ\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 2049
+      },
+      "writtenOn": "2012-07-04T17:18:47Z",
+      "side": 1,
+      "message": "Engels: \"Analog gain\"\n\n\"Analoge gain\"?",
+      "parentUuid": "AAAAUH//6cI\u003d",
       "revId": "9c89c1518f94c4f4092855140e6652aba8e4e7b7",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -132,6 +168,24 @@
       "writtenOn": "2012-07-04T03:38:50Z",
       "side": 1,
       "message": "Toch gekozen voor \"de filter\"?\nKlinkt mij echt vreemd in de oren",
+      "revId": "9c89c1518f94c4f4092855140e6652aba8e4e7b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//6ZM\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 146,
+      "author": {
+        "id": 2049
+      },
+      "writtenOn": "2012-07-04T17:18:47Z",
+      "side": 1,
+      "message": "Heb gegoogled naar \" de filter\" en \" het filter\" (enkel nederlands) en het google had meer resultaten. Vele waren wel in de trend van \u0027is het de of het filter\u0027.\n\nBlijkt dus toch een voorkeur voor \u0027het\u0027 te zijn.",
+      "parentUuid": "AAAAUH//6bw\u003d",
       "revId": "9c89c1518f94c4f4092855140e6652aba8e4e7b7",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
