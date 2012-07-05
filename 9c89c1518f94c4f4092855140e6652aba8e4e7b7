@@ -246,6 +246,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAUH//6U8\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 146,
+      "author": {
+        "id": 2049
+      },
+      "writtenOn": "2012-07-05T00:02:49Z",
+      "side": 1,
+      "message": "Ja :D\n\nIk denk dat wij rapper voor \"de\" kiezen. We zijn wel sterk in de minderheid dus maakt niet veel uit. \"Het\" is ook goed.\n\nOf ik ga een aparte \u0027nl-rBE\u0027 string aanmaken (Nene :D zou nog wel grappig zijn)",
+      "parentUuid": "AAAAUH//6VQ\u003d",
+      "revId": "9c89c1518f94c4f4092855140e6652aba8e4e7b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAUH//6bs\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 3
