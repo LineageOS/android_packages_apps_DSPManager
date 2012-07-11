@@ -37,7 +37,7 @@ int32_t Effect::configure(void* pCmdData) {
      * always provides full setup info at initial configure time. */
     if ((in.mask & EFFECT_CONFIG_SMP_RATE) && (out.mask & EFFECT_CONFIG_SMP_RATE)) {
 	if (out.samplingRate != in.samplingRate) {
-	    LOGE("This effect is not capable of resampling from %d to %d Hz", in.samplingRate, out.samplingRate);
+	    ALOGE("This effect is not capable of resampling from %d to %d Hz", in.samplingRate, out.samplingRate);
 	    return -EINVAL;
 	}
 	mSamplingRate = in.samplingRate;
@@ -45,23 +45,23 @@ int32_t Effect::configure(void* pCmdData) {
 
     if (in.mask & EFFECT_CONFIG_CHANNELS && out.mask & EFFECT_CONFIG_CHANNELS) {
 	if (in.channels != AUDIO_CHANNEL_OUT_STEREO) {
-	    LOGE("Invalid input channel setup: 0x%x", in.channels);
+	    ALOGE("Invalid input channel setup: 0x%x", in.channels);
 	    return -EINVAL;
 	}
 	if (out.channels != AUDIO_CHANNEL_OUT_STEREO) {
-	    LOGE("Invalid output channel setup: 0x%x", in.channels);
+	    ALOGE("Invalid output channel setup: 0x%x", in.channels);
 	    return -EINVAL;
 	}
     }
 
     if (in.mask & EFFECT_CONFIG_FORMAT) {
 	if (in.format != AUDIO_FORMAT_PCM_16_BIT) {
-	    LOGE("Invalid input format (need 16-bit PCM): 0x%x", in.format);
+	    ALOGE("Invalid input format (need 16-bit PCM): 0x%x", in.format);
 	}
     }
     if (out.mask & EFFECT_CONFIG_FORMAT) {
 	if (out.format != AUDIO_FORMAT_PCM_16_BIT) {
-	    LOGE("Invalid output format (need 16-bit PCM): 0x%x", out.format);
+	    ALOGE("Invalid output format (need 16-bit PCM): 0x%x", out.format);
 	}
     }
     if (out.mask & EFFECT_CONFIG_ACC_MODE) {
