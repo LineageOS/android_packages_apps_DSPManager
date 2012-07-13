@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUX///Qg\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-07-13T11:13:58Z",
+      "side": 1,
+      "message": "Für diesen DSP-Effekt gibt es keinen entsprechendenen AOSP-Effekt.",
+      "revId": "8ebb80860adc29c55855229b67d1037f36dcb8f4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUX///Qc\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-07-13T11:13:58Z",
+      "side": 1,
+      "message": "6 dB\n\nDies ist ... ändern zu:\n\nDer Effekt ist konzipiert um den Verlust von Bassfrequenz bei Lautsprechern und (ohr-)aufliegenden Kopfhörern, die sich nicht eng am Gehörgang befinden, zu bekämpfen.",
+      "revId": "8ebb80860adc29c55855229b67d1037f36dcb8f4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUX///QY\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 121,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-07-13T11:13:58Z",
+      "side": 1,
+      "message": "orig.: some common presets are provided, and the ...\n\nEinige (genmeinsame) Voreinstellungen sind aauswählbar/verfügbar, außerdem kann der Frequenzgang ...",
+      "revId": "8ebb80860adc29c55855229b67d1037f36dcb8f4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUX///QU\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 126,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-07-13T11:13:58Z",
+      "side": 1,
+      "message": "der anderen Instrumente, gleich bleiben.",
+      "revId": "8ebb80860adc29c55855229b67d1037f36dcb8f4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUX///QQ\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 132,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-07-13T11:13:58Z",
+      "side": 1,
+      "message": "Hier müsste sich noch jemand klärend zu den beiden apostrophierten Begriffen äußern.",
+      "revId": "8ebb80860adc29c55855229b67d1037f36dcb8f4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUX///QM\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 134,
+      "author": {
+        "id": 1683
+      },
+      "writtenOn": "2012-07-13T11:13:58Z",
+      "side": 1,
+      "message": "Echo ist wohl am pasendsten, da Haal-Effekt Hall komisch klingt.",
+      "revId": "8ebb80860adc29c55855229b67d1037f36dcb8f4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
