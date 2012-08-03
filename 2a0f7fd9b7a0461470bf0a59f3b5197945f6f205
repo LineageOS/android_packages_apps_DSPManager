@@ -16,6 +16,177 @@
       "revId": "2a0f7fd9b7a0461470bf0a59f3b5197945f6f205",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAVn//+6M\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-08-03T02:18:06Z",
+      "side": 1,
+      "message": "?",
+      "parentUuid": "AAAAVn///KA\u003d",
+      "revId": "2a0f7fd9b7a0461470bf0a59f3b5197945f6f205",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAVn//+6w\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-08-03T02:18:06Z",
+      "side": 1,
+      "message": "Ingeschakeld\n\nIk vind \"momenteel\" echt niks toevoegen",
+      "revId": "2a0f7fd9b7a0461470bf0a59f3b5197945f6f205",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAVn//+6s\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-08-03T02:18:06Z",
+      "side": 1,
+      "message": "Uitgeschakeld",
+      "revId": "2a0f7fd9b7a0461470bf0a59f3b5197945f6f205",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAVn//+6o\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-08-03T02:18:06Z",
+      "side": 1,
+      "message": "Ingeschakeld",
+      "revId": "2a0f7fd9b7a0461470bf0a59f3b5197945f6f205",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAVn//+6U\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-08-03T02:18:06Z",
+      "side": 1,
+      "message": "Uitgeschakeld",
+      "revId": "2a0f7fd9b7a0461470bf0a59f3b5197945f6f205",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAVn//+6k\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-08-03T02:18:06Z",
+      "side": 1,
+      "message": "Ingeschakeld",
+      "revId": "2a0f7fd9b7a0461470bf0a59f3b5197945f6f205",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAVn//+6Y\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-08-03T02:18:06Z",
+      "side": 1,
+      "message": "Uitgeschakeld",
+      "revId": "2a0f7fd9b7a0461470bf0a59f3b5197945f6f205",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAVn//+6g\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-08-03T02:18:06Z",
+      "side": 1,
+      "message": "Ingeschakeld",
+      "revId": "2a0f7fd9b7a0461470bf0a59f3b5197945f6f205",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAVn//+6c\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-08-03T02:18:06Z",
+      "side": 1,
+      "message": "Uitgeschakeld",
+      "revId": "2a0f7fd9b7a0461470bf0a59f3b5197945f6f205",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAVn//+6Q\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-08-03T02:18:06Z",
+      "side": 1,
+      "message": "Vooraf",
+      "revId": "2a0f7fd9b7a0461470bf0a59f3b5197945f6f205",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
