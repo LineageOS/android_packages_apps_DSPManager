@@ -54,6 +54,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAVn//+x8\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-08-03T14:04:06Z",
+      "side": 1,
+      "message": "Je hebt een optie \u0027Inschakelen\u0027, en die kan je aan- of uitvinken. Als het aangevinkt is, krijg je deze beschrijving, als het uitgevinkt is, krijg je de beschrijving hieronder.\nDaarom vond ik het logischer om \u0027momenteel\u0027 toe te voegen.",
+      "parentUuid": "AAAAVn//+6w\u003d",
+      "revId": "2a0f7fd9b7a0461470bf0a59f3b5197945f6f205",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAVn//+6s\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
@@ -184,6 +202,23 @@
       "writtenOn": "2012-08-03T02:18:06Z",
       "side": 1,
       "message": "Vooraf",
+      "revId": "2a0f7fd9b7a0461470bf0a59f3b5197945f6f205",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAVn//+x4\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-08-03T14:04:06Z",
+      "side": 1,
+      "message": "- Vooraf ^^",
       "revId": "2a0f7fd9b7a0461470bf0a59f3b5197945f6f205",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
