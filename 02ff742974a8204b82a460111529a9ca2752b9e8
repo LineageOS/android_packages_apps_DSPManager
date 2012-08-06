@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAVn//9Xo\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2012-08-06T21:44:14Z",
+      "side": 1,
+      "message": "Ajustes DSP - WM8994",
+      "revId": "02ff742974a8204b82a460111529a9ca2752b9e8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAVn//9X8\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2012-08-06T21:44:14Z",
+      "side": 1,
+      "message": "reverberación",
+      "revId": "02ff742974a8204b82a460111529a9ca2752b9e8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAVn//9X4\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2012-08-06T21:44:14Z",
+      "side": 1,
+      "message": "reverberación",
+      "revId": "02ff742974a8204b82a460111529a9ca2752b9e8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAVn//9X0\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2012-08-06T21:44:14Z",
+      "side": 1,
+      "message": "reverberación",
+      "revId": "02ff742974a8204b82a460111529a9ca2752b9e8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAVn//9Xw\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2012-08-06T21:44:14Z",
+      "side": 1,
+      "message": "reverberación",
+      "revId": "02ff742974a8204b82a460111529a9ca2752b9e8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAVn//9Xk\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2012-08-06T21:44:14Z",
+      "side": 1,
+      "message": "Why \"Extiende\" is quoted?",
+      "revId": "02ff742974a8204b82a460111529a9ca2752b9e8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
