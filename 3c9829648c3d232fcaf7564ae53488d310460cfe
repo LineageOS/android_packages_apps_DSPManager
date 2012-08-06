@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAVn//9bM\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-08-06T20:24:24Z",
+      "side": 1,
+      "message": "Hmm klopt dit wel? Je gaat presets zoals \"Akoestiek\" en \"Basversterker\" selecteren hier toch? Dat zijn geen \"geluidstypes\"",
+      "revId": "3c9829648c3d232fcaf7564ae53488d310460cfe",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
