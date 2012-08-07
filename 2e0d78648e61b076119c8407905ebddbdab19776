@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAVn//9SA\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 3177
+      },
+      "writtenOn": "2012-08-07T06:19:56Z",
+      "side": 1,
+      "message": "is called digital analog converter (or dac), so correct translation for this would be \"Ajustes conversor digital-análogo\" \n\nTalking from engineering stand point",
+      "revId": "2e0d78648e61b076119c8407905ebddbdab19776",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
