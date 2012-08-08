@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAVn//9F8\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-08-08T03:18:58Z",
+      "side": 1,
+      "message": "Preset voor opname",
+      "revId": "1900e946123cf32ea9b45018afd03cb42f858eef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAVn//9F4\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 89,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-08-08T03:18:58Z",
+      "side": 1,
+      "message": "Preset voor basversterker",
+      "revId": "1900e946123cf32ea9b45018afd03cb42f858eef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
