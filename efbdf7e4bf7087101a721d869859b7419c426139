@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAWn///XM\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-08-24T03:17:57Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAWX//98g\u003d",
+      "revId": "efbdf7e4bf7087101a721d869859b7419c426139",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAWX//98c\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 6
@@ -30,6 +48,24 @@
       "writtenOn": "2012-08-23T03:53:06Z",
       "side": 1,
       "message": "DSPManager is een geluidsmanipulatie-app.",
+      "revId": "efbdf7e4bf7087101a721d869859b7419c426139",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAWn///XI\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 114,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-08-24T03:17:57Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAWX//98c\u003d",
       "revId": "efbdf7e4bf7087101a721d869859b7419c426139",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAWn///XE\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-08-24T03:17:57Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAWX//98Y\u003d",
+      "revId": "efbdf7e4bf7087101a721d869859b7419c426139",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAWX//98U\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 6
@@ -64,6 +118,24 @@
       "writtenOn": "2012-08-23T03:53:06Z",
       "side": 1,
       "message": "Deze zin voegt niks toe",
+      "revId": "efbdf7e4bf7087101a721d869859b7419c426139",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAWn///XA\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 149,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-08-24T03:17:57Z",
+      "side": 1,
+      "message": "Het is een vergelijking tussen AOSP (MusicFX) en CM (DSPManager).\nIn de zin of het beter is of niet vind ik dat het wel iets toevoegt.",
+      "parentUuid": "AAAAWX//98U\u003d",
       "revId": "efbdf7e4bf7087101a721d869859b7419c426139",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -87,6 +159,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAWn///W8\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 156,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-08-24T03:17:57Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAWX//98I\u003d",
+      "revId": "efbdf7e4bf7087101a721d869859b7419c426139",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAWX//98E\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 6
@@ -104,6 +194,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAWn///W4\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 157,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-08-24T03:17:57Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAWX//98E\u003d",
+      "revId": "efbdf7e4bf7087101a721d869859b7419c426139",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAWX//98A\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 6
@@ -115,6 +223,24 @@
       "writtenOn": "2012-08-23T03:53:06Z",
       "side": 1,
       "message": "wordt toegevoegd aan de gekozen instelling van de equalizer.",
+      "revId": "efbdf7e4bf7087101a721d869859b7419c426139",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAWn///W0\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 184,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2012-08-24T03:17:57Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAWX//98A\u003d",
       "revId": "efbdf7e4bf7087101a721d869859b7419c426139",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
