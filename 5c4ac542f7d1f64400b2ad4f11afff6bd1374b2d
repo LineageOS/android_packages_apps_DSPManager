@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAWn//+8o\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 156,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-08-25T00:05:20Z",
+      "side": 1,
+      "message": "* waardoor deze frequenties extra benadrukt worden\n\nmeervoud",
+      "revId": "5c4ac542f7d1f64400b2ad4f11afff6bd1374b2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
