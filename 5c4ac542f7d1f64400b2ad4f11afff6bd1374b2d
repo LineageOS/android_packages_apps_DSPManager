@@ -16,6 +16,24 @@
       "revId": "5c4ac542f7d1f64400b2ad4f11afff6bd1374b2d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAW3///Uc\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 156,
+      "author": {
+        "id": 4297
+      },
+      "writtenOn": "2012-08-27T14:50:18Z",
+      "side": 1,
+      "message": "Klopt",
+      "parentUuid": "AAAAWn//+8o\u003d",
+      "revId": "5c4ac542f7d1f64400b2ad4f11afff6bd1374b2d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
