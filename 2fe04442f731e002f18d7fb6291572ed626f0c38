@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAW3///cY\u003d",
+        "filename": "res/values-da/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 98,
+      "author": {
+        "id": 1301
+      },
+      "writtenOn": "2012-08-27T09:13:26Z",
+      "side": 1,
+      "message": "missing \u003c/string\u003e",
+      "revId": "2fe04442f731e002f18d7fb6291572ed626f0c38",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
