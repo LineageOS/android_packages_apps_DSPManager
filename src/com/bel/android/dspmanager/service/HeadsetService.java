@@ -200,9 +200,12 @@ public class HeadsetService extends Service {
 				mUseBluetooth = audioManager.isBluetoothA2dpOn();
 				mUseHeadset = audioManager.isWiredHeadsetOn();
             } else if (action.equals(BluetoothDevice.ACTION_ACL_DISCONNECTED)) {
-                final int deviceClass = ((BluetoothDevice) intent
-                        .getParcelableExtra(BluetoothDevice.EXTRA_DEVICE)).getBluetoothClass()
-                        .getDeviceClass();
+                final BluetoothDevice device =
+                        ((BluetoothDevice) intent.getParcelableExtra(BluetoothDevice.EXTRA_DEVICE));
+                if (device == null || device.getBluetoothClass() == null) {
+                    return;
+                }
+                final int deviceClass = device.getBluetoothClass().getDeviceClass();
 				if ((deviceClass == BluetoothClass.Device.AUDIO_VIDEO_HEADPHONES)
 						|| (deviceClass == BluetoothClass.Device.AUDIO_VIDEO_WEARABLE_HEADSET)) {
 					mUseBluetooth = false;
