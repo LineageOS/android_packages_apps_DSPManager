@@ -1,0 +1,10 @@
+Change-Id: Iddcecce4c9db1cb24414c6ebf668d55509cecefe
+Code-Review+2: Danny Baumann <dannybaumann@web.de>
+Verified+1: Danny Baumann <dannybaumann@web.de>
+Code-Review+1: Alexey Alexeevich <madzerling@gmail.com>
+Code-Review+1: Anatoly Nechaev <mr.prayer@gmail.com>
+Submitted-by: Danny Baumann <dannybaumann@web.de>
+Submitted-at: Wed, 26 Sep 2012 23:38:33 -0700
+Reviewed-on: http://review.cyanogenmod.com/23830
+Project: CyanogenMod/android_packages_apps_DSPManager
+Branch: refs/heads/gingerbread
