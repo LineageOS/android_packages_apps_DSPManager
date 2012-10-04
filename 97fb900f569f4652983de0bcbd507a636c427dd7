@@ -1,0 +1,12 @@
+Change-Id: I97fb900f569f4652983de0bcbd507a636c427dd7
+Code-Review+2: Steve Kondik <shade@chemlab.org>
+Verified+1: Steve Kondik <shade@chemlab.org>
+Code-Review+1: Krasnonozhenko Aleksey <acras1@gmail.com>
+Code-Review+1: Dmitriy Chermenev <chdiman86@gmail.com>
+Code-Review+1: Alexey Alexeevich <madzerling@gmail.com>
+Code-Review+1: Anatoly Nechaev <mr.prayer@gmail.com>
+Submitted-by: Steve Kondik <shade@chemlab.org>
+Submitted-at: Wed, 03 Oct 2012 22:14:05 -0700
+Reviewed-on: http://review.cyanogenmod.com/23832
+Project: CyanogenMod/android_packages_apps_DSPManager
+Branch: refs/heads/jellybean
