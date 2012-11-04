@@ -1,0 +1,9 @@
+Change-Id: I4abf7cd96c846e5133f14992810152329cfee12a
+Code-Review+2: Ricardo Cerqueira <cyanogenmod@cerqueira.org>
+Verified+1: Ricardo Cerqueira <cyanogenmod@cerqueira.org>
+Code-Review+1: Matthias Bosc <matthias.bosc@gmail.com>
+Submitted-by: Ricardo Cerqueira <cyanogenmod@cerqueira.org>
+Submitted-at: Sat, 03 Nov 2012 18:02:59 -0700
+Reviewed-on: http://review.cyanogenmod.org/25786
+Project: CyanogenMod/android_packages_apps_DSPManager
+Branch: refs/heads/jellybean
