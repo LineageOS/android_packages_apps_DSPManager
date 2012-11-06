@@ -15,12 +15,12 @@
 -->
 <resources>
     <string name="select_configuration_title">Kies configuratie om te bewerken</string>
-    <string name="bluetooth_title">Bluetooth-apparaat</string>
+    <string name="bluetooth_title">Bluetoothapparaat</string>
     <string name="audio_effects">Geluidseffecten</string>
     <string name="pref_unavailable">Functionaliteit is niet beschikbaar voor uw apparaat</string>
     <string name="dsp_settings_headset">DSP-instellingen - Headset</string>
     <string name="dsp_settings_speaker">DSP-instellingen - Telefoonspeaker</string>
-    <string name="dsp_settings_bluetooth">DSP-instellingen - Bluetooth-apparaat</string>
+    <string name="dsp_settings_bluetooth">DSP-instellingen - Bluetoothapparaat</string>
     <string name="dsp_settings_wm8994">DSP-instellingen - WM8994</string>
 
     <string name="pref_dsp_title">Dynamisch bereikcompressie</string>
@@ -122,7 +122,7 @@ muziekspelers.
 \n
 \nDe mogelijkheden van het geluidsverwerkingssysteem van CyanogenMod biedt
 ondersteuning voor 3 uitvoersoorten: bedrade headset,
-telefoonluidspreker en Bluetooth-headset. Voor elke categorie bestaat er
+telefoonluidspreker en bluetoothheadset. Voor elke categorie bestaat er
 een configuratiepaneel. De filosofie van DSPManager is om de geluidsuitvoer zo
 te manipuleren, dat het geluid het best beleefd kan worden.
 \n
