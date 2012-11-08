@@ -124,6 +124,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAa3//+Q8\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 104,
+      "author": {
+        "id": 4297
+      },
+      "writtenOn": "2012-11-08T15:18:54Z",
+      "side": 1,
+      "message": "Dit hebben we bij Wifi ook altijd los geschreven dacht ik. Verder ben ik het met al je opmerkingen eens",
+      "parentUuid": "AAAAa3//+T4\u003d",
+      "revId": "06cf9864d4022facfeaf4f5bec0e266eb7ef13ea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAa3//+YY\u003d",
         "filename": "res/values-nl/strings.xml",
         "patchSetId": 1
