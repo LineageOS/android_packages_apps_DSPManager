@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAa3//+YU\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 4297
+      },
+      "writtenOn": "2012-11-08T02:53:33Z",
+      "side": 1,
+      "message": "Bluetooth apparaat",
+      "revId": "06cf9864d4022facfeaf4f5bec0e266eb7ef13ea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAa3//+Yc\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 4297
+      },
+      "writtenOn": "2012-11-08T02:53:33Z",
+      "side": 1,
+      "message": "- bluetooth apparaat",
+      "revId": "06cf9864d4022facfeaf4f5bec0e266eb7ef13ea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAa3//+YQ\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 102,
+      "author": {
+        "id": 4297
+      },
+      "writtenOn": "2012-11-08T02:53:33Z",
+      "side": 1,
+      "message": "- Hifi",
+      "revId": "06cf9864d4022facfeaf4f5bec0e266eb7ef13ea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAa3//+YM\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 104,
+      "author": {
+        "id": 4297
+      },
+      "writtenOn": "2012-11-08T02:53:33Z",
+      "side": 1,
+      "message": "- Hifi opname",
+      "revId": "06cf9864d4022facfeaf4f5bec0e266eb7ef13ea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAa3//+YY\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 4297
+      },
+      "writtenOn": "2012-11-08T02:53:33Z",
+      "side": 1,
+      "message": "- bluetooth heaset?",
+      "revId": "06cf9864d4022facfeaf4f5bec0e266eb7ef13ea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
