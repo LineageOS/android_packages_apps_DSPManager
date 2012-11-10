@@ -1,0 +1,8 @@
+Change-Id: Id6c716d50565fda5ab30d111ae57ccb759c1e2a4
+Code-Review+2: Steve Kondik <shade@chemlab.org>
+Verified+1: Steve Kondik <shade@chemlab.org>
+Submitted-by: Steve Kondik <shade@chemlab.org>
+Submitted-at: Fri, 09 Nov 2012 19:30:26 -0800
+Reviewed-on: http://review.cyanogenmod.org/19709
+Project: CyanogenMod/android_packages_apps_DSPManager
+Branch: refs/heads/ics
