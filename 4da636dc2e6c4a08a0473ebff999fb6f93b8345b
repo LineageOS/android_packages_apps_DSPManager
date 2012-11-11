@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAa3//9XY\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 105,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2012-11-11T20:32:29Z",
+      "side": 1,
+      "message": "Dit kan misschien toch beter \"Hifi opnemen\" zijn, in lijn met \"Hifi afspelen\"",
+      "revId": "4da636dc2e6c4a08a0473ebff999fb6f93b8345b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
