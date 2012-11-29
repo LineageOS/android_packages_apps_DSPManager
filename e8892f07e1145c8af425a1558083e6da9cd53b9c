@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAa3//5ao\u003d",
+        "filename": "res/values-cs/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 4632
+      },
+      "writtenOn": "2012-11-29T04:33:15Z",
+      "side": 1,
+      "message": "je to z toho duvodu",
+      "revId": "e8892f07e1145c8af425a1558083e6da9cd53b9c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAa3//5ac\u003d",
+        "filename": "res/values-cs/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 4632
+      },
+      "writtenOn": "2012-11-29T04:33:15Z",
+      "side": 1,
+      "message": "Spravne cesky se pise Na rozdil s mezerou",
+      "revId": "e8892f07e1145c8af425a1558083e6da9cd53b9c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAa3//5aI\u003d",
+        "filename": "res/values-cs/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 123,
+      "author": {
+        "id": 4632
+      },
+      "writtenOn": "2012-11-29T04:33:15Z",
+      "side": 1,
+      "message": "(ta propust)  ktera muze byt pouzita nebo Efekt zvyrazneni basu je jednoduchy filtr dolni propusti pak zbytek vety je v poho. Jinak ta\nveta zni divne.",
+      "revId": "e8892f07e1145c8af425a1558083e6da9cd53b9c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAa3//5bI\u003d",
+        "filename": "res/values-cs/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 141,
+      "author": {
+        "id": 4632
+      },
+      "writtenOn": "2012-11-29T04:33:15Z",
+      "side": 1,
+      "message": "pouzijte",
+      "revId": "e8892f07e1145c8af425a1558083e6da9cd53b9c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAa3//5Z8\u003d",
+        "filename": "res/values-cs/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 142,
+      "author": {
+        "id": 4632
+      },
+      "writtenOn": "2012-11-29T04:33:15Z",
+      "side": 1,
+      "message": "sirokospektralni ???",
+      "revId": "e8892f07e1145c8af425a1558083e6da9cd53b9c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAa3//5bE\u003d",
+        "filename": "res/values-cs/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 147,
+      "author": {
+        "id": 4632
+      },
+      "writtenOn": "2012-11-29T04:33:15Z",
+      "side": 1,
+      "message": "mela",
+      "revId": "e8892f07e1145c8af425a1558083e6da9cd53b9c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
