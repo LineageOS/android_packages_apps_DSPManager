@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAcH///cc\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-04T02:11:08Z",
+      "side": 1,
+      "message": "Mir wäre es egal, aber ich würde gerne noch ein paar andere Meinungen hören.",
+      "parentUuid": "AAAAcH///dM\u003d",
+      "revId": "289f116e88b092cf904683a7118d15f3bd54c736",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAcH///dI\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 1
@@ -64,6 +82,24 @@
       "writtenOn": "2013-01-04T02:05:59Z",
       "side": 1,
       "message": "Eigentlich Klingt sowohl die alte wie auch die neue Übersetzung bescheuert. :P\n\nWie wäre es mit:\nFür jeden Ausgabeweg gibt es ein eigenes Konfigurationspanel. Hier können die jeweiligen Mängel so korrigiert werden, dass ein optimales Hörerlebnis entsteht.",
+      "revId": "289f116e88b092cf904683a7118d15f3bd54c736",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcH///cg\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-04T02:11:08Z",
+      "side": 1,
+      "message": "Das klingt schon mal um einiges besser",
+      "parentUuid": "AAAAcH///cs\u003d",
       "revId": "289f116e88b092cf904683a7118d15f3bd54c736",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
