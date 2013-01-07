@@ -138,6 +138,23 @@
     },
     {
       "key": {
+        "uuid": "AAAAcX///Wo\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-01-07T19:13:38Z",
+      "side": 1,
+      "message": "I believe tools:ignore\u003d\"MissingTranslation\" is the same as translatable\u003d\"false\" (if you use lint, you get the line \u0027MissingTranslation\u0027).",
+      "revId": "0cdb04cbd36fe240c8dc19a739faf16afa46a893",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAcX///YQ\u003d",
         "filename": "res/values/strings.xml",
         "patchSetId": 2
@@ -149,6 +166,91 @@
       "writtenOn": "2013-01-07T18:48:33Z",
       "side": 1,
       "message": "Warum?",
+      "revId": "0cdb04cbd36fe240c8dc19a739faf16afa46a893",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcX///Wk\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-01-07T19:13:38Z",
+      "side": 1,
+      "message": "DSP Manager",
+      "revId": "0cdb04cbd36fe240c8dc19a739faf16afa46a893",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcX///Wg\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 102,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-01-07T19:13:38Z",
+      "side": 1,
+      "message": "- DSP Manager\n- application -\u003e app",
+      "revId": "0cdb04cbd36fe240c8dc19a739faf16afa46a893",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcX///Wc\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-01-07T19:13:38Z",
+      "side": 1,
+      "message": "DSP Manager",
+      "revId": "0cdb04cbd36fe240c8dc19a739faf16afa46a893",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcX///WY\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 118,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-01-07T19:13:38Z",
+      "side": 1,
+      "message": "DSP Manager",
+      "revId": "0cdb04cbd36fe240c8dc19a739faf16afa46a893",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcX///WU\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 132,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-01-07T19:13:38Z",
+      "side": 1,
+      "message": "DSP Manager",
       "revId": "0cdb04cbd36fe240c8dc19a739faf16afa46a893",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
