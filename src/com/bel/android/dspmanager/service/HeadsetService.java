@@ -19,6 +19,7 @@ import android.media.audiofx.AudioEffect;
 import android.media.audiofx.BassBoost;
 import android.media.audiofx.Equalizer;
 import android.media.audiofx.Virtualizer;
+import android.provider.Settings;
 import android.os.Binder;
 import android.os.IBinder;
 import android.util.Log;
@@ -188,6 +189,14 @@ public class HeadsetService extends Service {
 			final AudioManager audioManager = (AudioManager) getSystemService(Context.AUDIO_SERVICE);
             if (action.equals(Intent.ACTION_HEADSET_PLUG)) {
                 mUseHeadset = intent.getIntExtra("state", 0) == 1;
+                boolean launchPlayer = Settings.System.getInt(getContentResolver(),
+                        Settings.System.HEADSET_CONNECT_PLAYER, 0) != 0;
+                if (mUseHeadset && launchPlayer) {
+                    Intent playerIntent = new Intent(Intent.ACTION_MAIN);
+                    playerIntent.addCategory(Intent.CATEGORY_APP_MUSIC);
+                    playerIntent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+                    startActivity(playerIntent);
+                }
             } else if (action.equals(BluetoothDevice.ACTION_ACL_CONNECTED)) {
                 final int deviceClass = ((BluetoothDevice) intent
                         .getParcelableExtra(BluetoothDevice.EXTRA_DEVICE)).getBluetoothClass()
