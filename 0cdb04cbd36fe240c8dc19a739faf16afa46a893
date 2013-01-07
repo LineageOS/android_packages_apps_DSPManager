@@ -1,0 +1,157 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAcX///Y0\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-01-07T18:48:33Z",
+      "side": 1,
+      "message": "Warum?",
+      "revId": "0cdb04cbd36fe240c8dc19a739faf16afa46a893",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcX///Yw\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-01-07T18:48:33Z",
+      "side": 1,
+      "message": "Nach \u0027Android-Audioeffekten sind\u0027 fehlt ein Komma.",
+      "revId": "0cdb04cbd36fe240c8dc19a739faf16afa46a893",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcX///Ys\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 101,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-01-07T18:48:33Z",
+      "side": 1,
+      "message": "Vorschlag: \u0027...die Mängel des jeweiligen Ausgabeweges...\u0027",
+      "revId": "0cdb04cbd36fe240c8dc19a739faf16afa46a893",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcX///Yo\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 111,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-01-07T18:48:33Z",
+      "side": 1,
+      "message": "\u0027regelt sie anhand der Ermittlung\u0027? Weiß jemand, was genau das bedeuten soll?",
+      "revId": "0cdb04cbd36fe240c8dc19a739faf16afa46a893",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcX///Yk\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 117,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-01-07T18:48:33Z",
+      "side": 1,
+      "message": "Hier ist noch einmal Bass-Verstärkung drin.\nAußerdem: \u0027die Betonung auf den Bass zu legen\u0027 ist IMHO besser; und nach konzipiert fehlt ein Komma.",
+      "revId": "0cdb04cbd36fe240c8dc19a739faf16afa46a893",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcX///Yg\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 121,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-01-07T18:48:33Z",
+      "side": 1,
+      "message": "...der Kopfhörer oder Lautsprecher... (ohne n am Ende)",
+      "revId": "0cdb04cbd36fe240c8dc19a739faf16afa46a893",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcX///Yc\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 123,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-01-07T18:48:33Z",
+      "side": 1,
+      "message": "Nebensatzalarm ;)\n\nVorschlag: Der Equalizer enthält auch eine Loudness-Kompensation, die die auf dem Schalldruckpegel am Ohr des Benutzers entstehenden Frequenzveränderungen ausgleicht.",
+      "revId": "0cdb04cbd36fe240c8dc19a739faf16afa46a893",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcX///YU\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-01-07T18:48:33Z",
+      "side": 1,
+      "message": "Nach \u0027Metal\u0027 und nach \u0027sollte versuchen\u0027 fehlt ein Komma. Das Komma vor \u0027und sollte reduziert werden\u0027 kann weg.",
+      "revId": "0cdb04cbd36fe240c8dc19a739faf16afa46a893",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcX///YQ\u003d",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-01-07T18:48:33Z",
+      "side": 1,
+      "message": "Warum?",
+      "revId": "0cdb04cbd36fe240c8dc19a739faf16afa46a893",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
