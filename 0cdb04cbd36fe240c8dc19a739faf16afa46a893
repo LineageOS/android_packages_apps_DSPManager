@@ -89,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAcn///90\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 101,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-01-08T19:11:03Z",
+      "side": 1,
+      "message": "Stimmt. Um das nochmal zusammenzufassen:\n\nHier können die Besonderheiten des jeweiligen Ausgabeweges für ein optimales Hörerlebnis korrigiert werden.\n\nOder lieber \u0027ausgeglichen\u0027 statt \u0027korrigiert\u0027?",
+      "parentUuid": "AAAAcn///+c\u003d",
+      "revId": "0cdb04cbd36fe240c8dc19a739faf16afa46a893",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAcX///Yo\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 2
@@ -118,6 +136,24 @@
       "side": 1,
       "message": "Ja :D Das war auch bei der CM10 Übersetzung strittig. Es wird eine Durchschnitts-Lautstärke ermittelt und die Lautstärke der Ausgabe wird daran angepasst.\n\nVorschlag:\nDie Lautstärke wird an die eines durchschnittlichen Hörers angepasst. Die Audiowiedergabe soll durch diesen Effekt weniger von Hintergrundgeräuschen, z.B. Strassenlärm, übertönt werden.",
       "parentUuid": "AAAAcX///Yo\u003d",
+      "revId": "0cdb04cbd36fe240c8dc19a739faf16afa46a893",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn///9w\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 111,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-01-08T19:11:03Z",
+      "side": 1,
+      "message": "Strassenlärm -\u003e Straßenlärm, aber ansonsten sehr guter Vorschlag.",
+      "parentUuid": "AAAAcn///+M\u003d",
       "revId": "0cdb04cbd36fe240c8dc19a739faf16afa46a893",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
