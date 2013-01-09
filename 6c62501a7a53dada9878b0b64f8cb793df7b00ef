@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAcn///dg\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2013-01-09T22:20:48Z",
+      "side": 1,
+      "message": "Warum nicht einfach:\r\n\r\nIm Folgenden werden alle Audioeffekte und deren Verwendung beschrieben.",
+      "parentUuid": "AAAAcn///ew\u003d",
+      "revId": "6c62501a7a53dada9878b0b64f8cb793df7b00ef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAcn///eo\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 4
