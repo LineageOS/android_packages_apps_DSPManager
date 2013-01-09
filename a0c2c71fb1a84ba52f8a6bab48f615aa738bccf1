@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAcn///wU\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 111,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2013-01-09T04:12:29Z",
+      "side": 1,
+      "message": "Wie laut ist den so ein durchschnittlicher Hörer? :-)\n\nMüsste es nicht wie folgt heißen: \"...wird an einen durchschnittlichen Hörer angepasst.\"?",
+      "revId": "a0c2c71fb1a84ba52f8a6bab48f615aa738bccf1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn///wM\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 123,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2013-01-09T04:12:29Z",
+      "side": 1,
+      "message": "Warum fällt die Information weg, dass dieser Effekt nur für kabelgebundene Kopfhörer verfügbar ist?",
+      "revId": "a0c2c71fb1a84ba52f8a6bab48f615aa738bccf1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
