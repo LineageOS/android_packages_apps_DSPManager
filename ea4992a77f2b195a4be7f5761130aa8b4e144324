@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAcn//+/0\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 97,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-01-10T18:49:47Z",
+      "side": 1,
+      "message": "Stimmt, das ist eigentlich überflüssig.\n\nIm letzten Satz ist auch noch ein Kommafehler: Das Komma muss hinter sind, nicht davor. Den Satz könnte man aber auch noch etwas umsortieren:\n\nAlle zu den Android-Audioeffekten kompatiblen Anwendungen können den DSP-Manager verwenden.\n\noder\n\nDer DSP-Manager kann von allen zu den Android-Audioeffekten kompatiblen Anwendungen verwendet werden.",
+      "parentUuid": "AAAAcn///AQ\u003d",
+      "revId": "ea4992a77f2b195a4be7f5761130aa8b4e144324",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAcn///AM\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 5
@@ -30,6 +48,24 @@
       "writtenOn": "2013-01-10T18:16:07Z",
       "side": 1,
       "message": "Nebensatz mit hier ist sehr unschön. :D\n\n...Konfigurationspanel, in dem die Besonderheiten...",
+      "revId": "ea4992a77f2b195a4be7f5761130aa8b4e144324",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//+/w\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 102,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-01-10T18:49:47Z",
+      "side": 1,
+      "message": "+1",
+      "parentUuid": "AAAAcn///AM\u003d",
       "revId": "ea4992a77f2b195a4be7f5761130aa8b4e144324",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
