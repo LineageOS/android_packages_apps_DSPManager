@@ -36,6 +36,23 @@
     },
     {
       "key": {
+        "uuid": "AAAAcn///Os\u003d",
+        "filename": "res/values-hu/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2013-01-10T04:40:47Z",
+      "side": 1,
+      "message": "Itt is Mélyhangkiemelés",
+      "revId": "ae044671e83f386dc1de47828efd13bcfc4cc9cc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAcn///PI\u003d",
         "filename": "res/values-hu/strings.xml",
         "patchSetId": 1
