@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAcn//+pc\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 97,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2013-01-11T13:39:44Z",
+      "side": 1,
+      "message": "\"über diverse Einstellungen\" kann wegfallen.",
+      "revId": "9c1a72f9c2c255fa9b738d0c403e6a81eb2c63b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//+pY\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 105,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2013-01-11T13:39:44Z",
+      "side": 1,
+      "message": "Warum drei \"Leerzeilen\"?",
+      "revId": "9c1a72f9c2c255fa9b738d0c403e6a81eb2c63b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//+pU\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2013-01-11T13:39:44Z",
+      "side": 1,
+      "message": "Ist On-Ear geläufig?",
+      "revId": "9c1a72f9c2c255fa9b738d0c403e6a81eb2c63b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
