@@ -283,6 +283,24 @@
       "revId": "9c1a72f9c2c255fa9b738d0c403e6a81eb2c63b4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//+lU\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 122,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-01-11T17:31:43Z",
+      "side": 1,
+      "message": "Die Frequenzveränderungen sind aber nicht _am_ Schalldruckpegel, sondern entstehen _durch_ den Schalldruckpegel. Dieser Teil ist IMHO in Ordnung so, wie er im Moment ist.",
+      "parentUuid": "AAAAcn//+l4\u003d",
+      "revId": "9c1a72f9c2c255fa9b738d0c403e6a81eb2c63b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
