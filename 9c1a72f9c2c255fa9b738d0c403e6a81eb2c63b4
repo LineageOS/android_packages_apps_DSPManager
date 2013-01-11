@@ -122,6 +122,41 @@
       "revId": "9c1a72f9c2c255fa9b738d0c403e6a81eb2c63b4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//+mw\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-01-11T16:12:38Z",
+      "side": 1,
+      "message": "Ich hatte es glaub ich in einem früheren Patch Set schon mal erwähnt: \u0027Betonung auf den Bass zu setzen\u0027 sollte \u0027Betonung auf den Bass zu legen\u0027 werden",
+      "parentUuid": "AAAAcn//+ng\u003d",
+      "revId": "9c1a72f9c2c255fa9b738d0c403e6a81eb2c63b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//+ms\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 122,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-01-11T16:12:38Z",
+      "side": 1,
+      "message": "Kabelkopfhöhrer -\u003e Kabelkopfhörer\n\nVorschlag:\nBei Verwendung eines kabelgebundenen Kopfhörers erlaubt der Equalizer auch eine Loudness-Kompendation, die die...",
+      "revId": "9c1a72f9c2c255fa9b738d0c403e6a81eb2c63b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
