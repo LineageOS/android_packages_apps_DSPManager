@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAcn//+nY\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 97,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-11T15:53:14Z",
+      "side": 1,
+      "message": "Macht Sinn und klingt besser.",
+      "parentUuid": "AAAAcn//+pc\u003d",
+      "revId": "9c1a72f9c2c255fa9b738d0c403e6a81eb2c63b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAcn//+pY\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 6
@@ -30,6 +48,24 @@
       "writtenOn": "2013-01-11T13:39:44Z",
       "side": 1,
       "message": "Warum drei \"Leerzeilen\"?",
+      "revId": "9c1a72f9c2c255fa9b738d0c403e6a81eb2c63b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//+nc\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 105,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-11T15:53:14Z",
+      "side": 1,
+      "message": "So erkennt man besser den Unterschied zwischen einem Absatz zwischen Kategorien und dem einfachen Absatz zwischen Überschrift und Text.",
+      "parentUuid": "AAAAcn//+pY\u003d",
       "revId": "9c1a72f9c2c255fa9b738d0c403e6a81eb2c63b4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -65,6 +101,24 @@
       "side": 1,
       "message": "Nein ist es nicht!\r\nOhraufliegend ist gebräuchlich, aber wir könnten auch Kopfhörer mit offener / halboffener Hörmuschel nehmen, und dafür den Nebensatz mit dem Gehörgang entfallen lassen.",
       "parentUuid": "AAAAcn//+pU\u003d",
+      "revId": "9c1a72f9c2c255fa9b738d0c403e6a81eb2c63b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//+ng\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-11T15:53:14Z",
+      "side": 1,
+      "message": "Ich hab mich da mal an die Beschreibung von Apple und Monster (Beats by Dre.) gehalten. Für mich ist es schon geläufig.\n\nAber Kim\u0027s Vorschlag ist auch gut.",
+      "parentUuid": "AAAAcn//+o0\u003d",
       "revId": "9c1a72f9c2c255fa9b738d0c403e6a81eb2c63b4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
