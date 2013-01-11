@@ -90,6 +90,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAcn//+mI\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 105,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-11T17:14:13Z",
+      "side": 1,
+      "message": "Schau mal genau hin, dann siehst du, dass es überall zwei waren ;) Man könnte darüber nachdenken nacheiner Überschrift nur ein Umbruch zu machen (also keine Leerzeile dazwischen) und es dann bei einem Absatz bei einer Leerzeile belassen, aber das sieht auch nicht so gut aus.",
+      "parentUuid": "AAAAcn//+mY\u003d",
+      "revId": "9c1a72f9c2c255fa9b738d0c403e6a81eb2c63b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAcn//+pU\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 6
@@ -179,6 +197,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAcn//+l8\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-11T17:14:13Z",
+      "side": 1,
+      "message": "Mein Vorschlag:\n\nDie Bassverstärkung wird durch einen Tiefpassfilter erzeugt. Dabei wird versucht, die Betonung auf den Bass zu legen. Die Itensität der Verstärkung kann in den Einstellung geregelt werden.",
+      "parentUuid": "AAAAcn//+mU\u003d",
+      "revId": "9c1a72f9c2c255fa9b738d0c403e6a81eb2c63b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAcn//+ms\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 6
@@ -225,6 +261,24 @@
       "writtenOn": "2013-01-11T16:50:40Z",
       "side": 1,
       "message": "Ähm, ja, natürlich :)",
+      "parentUuid": "AAAAcn//+mQ\u003d",
+      "revId": "9c1a72f9c2c255fa9b738d0c403e6a81eb2c63b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//+l4\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 122,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-11T17:14:13Z",
+      "side": 1,
+      "message": "Mein Vorschlag:\n\nBei Verwendung eines kabelgebundenen Kopfhörers erlaubt der Equalizer auch eine Loudness-Kompendation, wodurch Frequenzveränderungen am Schalldruckpegel ausgeglichen werden. Damit der gewünschte Effekt eintritt, muss zuerst im entsprechenden Menü der richtige Wert gewählt werden.",
       "parentUuid": "AAAAcn//+mQ\u003d",
       "revId": "9c1a72f9c2c255fa9b738d0c403e6a81eb2c63b4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
