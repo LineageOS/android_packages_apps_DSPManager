@@ -72,6 +72,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAcn//+mY\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 105,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2013-01-11T16:21:04Z",
+      "side": 1,
+      "message": "Vorher war es 1x Leerzeile für Absätze in Absätzen ;) und 2x Leerzeile nach einem Absatz (vor der nächsten Überschrift). Ich sehe nun nicht den Vorteil, beide Werte zu erhöhen. Gerade auf kleinen Displays führt das zu mehr \"Scrollen\".",
+      "parentUuid": "AAAAcn//+nc\u003d",
+      "revId": "9c1a72f9c2c255fa9b738d0c403e6a81eb2c63b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAcn//+pU\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 6
@@ -143,6 +161,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAcn//+mU\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2013-01-11T16:21:04Z",
+      "side": 1,
+      "message": "Man könnte den ganzen Satz verkürzen. ;)\n\nz.B. \"Die Bassverstärkung ist ein einfacher Tiefpassfilter mit dem Zweck der Bassbetonung.\"\n\nIrgendwie beißt sich bei dem Satz, egal ob kurz oder lang die Katze selbst in den Schwanz.\n\nIst im engl. Original aber auch nicht besser konstruiert.",
+      "parentUuid": "AAAAcn//+mw\u003d",
+      "revId": "9c1a72f9c2c255fa9b738d0c403e6a81eb2c63b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAcn//+ms\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 6
@@ -154,6 +190,24 @@
       "writtenOn": "2013-01-11T16:12:38Z",
       "side": 1,
       "message": "Kabelkopfhöhrer -\u003e Kabelkopfhörer\n\nVorschlag:\nBei Verwendung eines kabelgebundenen Kopfhörers erlaubt der Equalizer auch eine Loudness-Kompendation, die die...",
+      "revId": "9c1a72f9c2c255fa9b738d0c403e6a81eb2c63b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//+mQ\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 122,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2013-01-11T16:21:04Z",
+      "side": 1,
+      "message": "Dann aber Kompensation ;)",
+      "parentUuid": "AAAAcn//+ms\u003d",
       "revId": "9c1a72f9c2c255fa9b738d0c403e6a81eb2c63b4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
