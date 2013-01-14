@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "AAAAcn//9bI\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 4884
+      },
+      "writtenOn": "2013-01-14T14:37:53Z",
+      "side": 1,
+      "message": "DSP Manager oder DSP-Manager?",
+      "revId": "ad5b2862c4dd4ef7393161b216edaa10ed79053f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAcn//9cU\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 7
