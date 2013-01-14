@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAcn//9aA\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-01-14T15:39:26Z",
+      "side": 1,
+      "message": "Definitiv DSP-Manager. Ich sag nur http://de.wikipedia.org/wiki/Leerzeichen_in_Komposita ;)",
+      "parentUuid": "AAAAcn//9bI\u003d",
+      "revId": "ad5b2862c4dd4ef7393161b216edaa10ed79053f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAcn//9cU\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 7
@@ -36,6 +54,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAcn//9Z4\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 122,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-01-14T15:39:26Z",
+      "side": 1,
+      "message": "Außerdem entsteht die Frequenzveränderung nicht auf dem Schalldruckpegel, sondern durch den Schalldruckpegel.\n\nAlso: ...auch eine Loudness-Kompensation, die die durch den Schalldruckpegel ...",
+      "parentUuid": "AAAAcn//9cU\u003d",
+      "revId": "ad5b2862c4dd4ef7393161b216edaa10ed79053f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAcn//9aI\u003d",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 7
@@ -47,6 +83,24 @@
       "writtenOn": "2013-01-14T15:18:04Z",
       "side": 1,
       "message": "Müsste es nicht \"...der für die Erhöhung\" heißen?",
+      "revId": "ad5b2862c4dd4ef7393161b216edaa10ed79053f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAcn//9Z0\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 132,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-01-14T15:39:26Z",
+      "side": 1,
+      "message": "Ja.",
+      "parentUuid": "AAAAcn//9aI\u003d",
       "revId": "ad5b2862c4dd4ef7393161b216edaa10ed79053f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
