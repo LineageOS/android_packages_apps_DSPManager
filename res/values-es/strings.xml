@@ -88,9 +88,9 @@
     <string name="pref_wm8994_fll_tuning_title">"Reloj de audio ajustado"</string>
     <string name="pref_wm8994_fll_tuning_summary">"Usar reloj de audio WM8994 ajustado (Mejora la calidad del sonido)"</string>
     <string name="help_title">"Guía de usuario"</string>
-    <string name="help_text"><b>¿Que es DSPManager?</b>\n
+    <string name="help_text"><b>¿Que es DSP Manager?</b>\n
 \n
-DSPManager es una aplicación de ajuste de audio. <i>DSP</i> que significa 
+DSP Manager es una aplicación de ajuste de audio. <i>DSP</i> que significa 
 Digital Signal Processing, y <i>Manager</i> se refiere al hecho de que DSP 
 no funciona actualmente dentro de aplicación en sí mismo, sino que el gestor 
 solo puede habilitarla para otras aplicaciones que son compatibles la 
@@ -102,13 +102,13 @@ reproductores de música.\n
 El procesamiento de audio de CyanogenMod soporta 3 diferentes categorías de 
 salida de audio: Auriculares cableados, altavoces internos del teléfono y 
 auriculares Bluetooth. Hay un panel de configuración separada para cada 
-categoría de salida de audio. La filosofía de DSPManager es corregir para 
+categoría de salida de audio. La filosofía de DSP Manager es corregir para 
 cada salida de audio las deficiencias particulares en orden a conseguir la 
 más optima experiencia de sonido para cada una de ellas.\n
 \n
 A diferencia de los efectos de audio AOSP, no existen ajustes por aplicación. 
 Este es una decisión deliberada: es la salida sobre en lo que hay que 
-centrarse, no en que aplicaciones generan audio para las que DSPManager 
+centrarse, no en que aplicaciones generan audio para las que DSP Manager 
 debe de funcionar.\n
 \n
 <b>Características</b>\n
@@ -124,7 +124,7 @@ es en entornos con un alto ruido, tales como en coches o en la calle, donde
 las partes con volumen bajo de la música están en riesgo de no ser percibidas 
 por el ruido de fondo.\n
 \n
-Los ajustes únicos determinan cuan duro DSPManager tratará de mantener la 
+Los ajustes únicos determinan cuan duro DSP Manager tratará de mantener la 
 reducción de audio a los nivel seleccionado. No existe equivalente en AOSP 
 para este efecto DSP.\n
 \n
