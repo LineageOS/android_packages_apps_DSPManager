@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAc3//+BA\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-01-26T18:24:11Z",
+      "side": 1,
+      "message": "Tout les autres \"eq_preset\" sont avec une majuscule, du coup je l\u0027ai laissé. C\u0027est plus uniforme, non?",
+      "parentUuid": "AAAAc3//+Cg\u003d",
+      "revId": "30185ae385327491323e67406f48d8ac4654709b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAc3//+Cc\u003d",
         "filename": "res/values-fr/strings.xml",
         "patchSetId": 7
@@ -30,6 +48,24 @@
       "writtenOn": "2013-01-26T17:42:02Z",
       "side": 1,
       "message": "réglages ? plusieurs ?",
+      "revId": "30185ae385327491323e67406f48d8ac4654709b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAc3//+BI\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 95,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-01-26T18:24:11Z",
+      "side": 1,
+      "message": "ok",
+      "parentUuid": "AAAAc3//+Cc\u003d",
       "revId": "30185ae385327491323e67406f48d8ac4654709b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAc3//+BM\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 106,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-01-26T18:24:11Z",
+      "side": 1,
+      "message": "ok",
+      "parentUuid": "AAAAc3//+CY\u003d",
+      "revId": "30185ae385327491323e67406f48d8ac4654709b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAc3//+CU\u003d",
         "filename": "res/values-fr/strings.xml",
         "patchSetId": 7
@@ -64,6 +118,24 @@
       "writtenOn": "2013-01-26T17:42:02Z",
       "side": 1,
       "message": "Différents et types doivent être du même genre et du même nombre.",
+      "revId": "30185ae385327491323e67406f48d8ac4654709b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAc3//+BQ\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 117,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-01-26T18:24:11Z",
+      "side": 1,
+      "message": "ok",
+      "parentUuid": "AAAAc3//+CU\u003d",
       "revId": "30185ae385327491323e67406f48d8ac4654709b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -87,6 +159,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAc3//+BU\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 133,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-01-26T18:24:11Z",
+      "side": 1,
+      "message": "La langue française est pleine de surprise, j\u0027ai creusé un peu est en faite c\u0027est bien supra- avec le trait d\u0027union, par contre pour oral c\u0027est plus subtile, on utilise le terme \"oral\" pour ce que viens de la voix et le terme \"aural\" pour ce qui arrive à l\u0027oreille. Dans notre cas ce serai donc \"supra-auraux\"\nSource : http://fr.wiktionary.org/wiki/aural",
+      "parentUuid": "AAAAc3//+CQ\u003d",
+      "revId": "30185ae385327491323e67406f48d8ac4654709b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAc3//+CM\u003d",
         "filename": "res/values-fr/strings.xml",
         "patchSetId": 7
@@ -104,6 +194,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAc3//+B0\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 137,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-01-26T18:24:11Z",
+      "side": 1,
+      "message": "Présélection \u003d\u003e OK\ndes haut-parleurs \u003d\u003e OK, comme ça on se pose de question à savoir s\u0027il faut accorder ou pas \"utilisés\", dépendant de si on parle des écouteurs ou \"du haut parleur\".",
+      "parentUuid": "AAAAc3//+CM\u003d",
+      "revId": "30185ae385327491323e67406f48d8ac4654709b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAc3//+CI\u003d",
         "filename": "res/values-fr/strings.xml",
         "patchSetId": 7
@@ -115,6 +223,24 @@
       "writtenOn": "2013-01-26T17:42:02Z",
       "side": 1,
       "message": "psychoacoustique, interoral ? Je sais pas avec les réformes...",
+      "revId": "30185ae385327491323e67406f48d8ac4654709b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAc3//+B8\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 147,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-01-26T18:24:11Z",
+      "side": 1,
+      "message": "d\u0027après le dictionnaire, c\u0027est bien psychoacoustique, pour la même raison qu\u0027en haut c\u0027est inter-aural (ah la langue française :)",
+      "parentUuid": "AAAAc3//+CI\u003d",
       "revId": "30185ae385327491323e67406f48d8ac4654709b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
