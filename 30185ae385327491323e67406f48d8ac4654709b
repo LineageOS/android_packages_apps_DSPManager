@@ -1,0 +1,123 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAc3//+Cg\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 5470
+      },
+      "writtenOn": "2013-01-26T17:42:02Z",
+      "side": 1,
+      "message": "personnalisé",
+      "revId": "30185ae385327491323e67406f48d8ac4654709b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAc3//+Cc\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 95,
+      "author": {
+        "id": 5470
+      },
+      "writtenOn": "2013-01-26T17:42:02Z",
+      "side": 1,
+      "message": "réglages ? plusieurs ?",
+      "revId": "30185ae385327491323e67406f48d8ac4654709b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAc3//+CY\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 106,
+      "author": {
+        "id": 5470
+      },
+      "writtenOn": "2013-01-26T17:42:02Z",
+      "side": 1,
+      "message": "suréchantillonnage",
+      "revId": "30185ae385327491323e67406f48d8ac4654709b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAc3//+CU\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 117,
+      "author": {
+        "id": 5470
+      },
+      "writtenOn": "2013-01-26T17:42:02Z",
+      "side": 1,
+      "message": "Différents et types doivent être du même genre et du même nombre.",
+      "revId": "30185ae385327491323e67406f48d8ac4654709b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAc3//+CQ\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 133,
+      "author": {
+        "id": 5470
+      },
+      "writtenOn": "2013-01-26T17:42:02Z",
+      "side": 1,
+      "message": "il me semble que les mots construits avec le préfixe supra- ne prennent généralement pas le trait d’union : supraoraux.\n?du coup supraoraux et casques doivent être du même genre et du même nombre.",
+      "revId": "30185ae385327491323e67406f48d8ac4654709b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAc3//+CM\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 137,
+      "author": {
+        "id": 5470
+      },
+      "writtenOn": "2013-01-26T17:42:02Z",
+      "side": 1,
+      "message": "Préselection sans trait d’union il me semble\n\nle haut-parleur plutôt ou des haut-parleurs ?",
+      "revId": "30185ae385327491323e67406f48d8ac4654709b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAc3//+CI\u003d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 7
+      },
+      "lineNbr": 147,
+      "author": {
+        "id": 5470
+      },
+      "writtenOn": "2013-01-26T17:42:02Z",
+      "side": 1,
+      "message": "psychoacoustique, interoral ? Je sais pas avec les réformes...",
+      "revId": "30185ae385327491323e67406f48d8ac4654709b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
