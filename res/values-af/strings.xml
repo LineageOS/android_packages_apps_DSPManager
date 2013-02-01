@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">DSP Bestuurder</string>
+    <string name="select_configuration_title">Kies Konfigurasie om te redigeer</string>
+    <string name="headset_title">Oorfone</string>
+    <string name="speaker_title">Luidspreker</string>
+    <string name="bluetooth_title">Bluetooth</string>
+    <string name="audio_effects">Klank-effekte</string>
+    <string name="pref_unavailable">Is nie beskikbaar op jou toestel</string>
+    <string name="dsp_settings_headset">DSP instellings - Oorfone</string>
+    <string name="dsp_settings_speaker">DSP instellings - Toestel luidspreker</string>
+    <string name="dsp_settings_bluetooth">DSP instellings - Bluetooth</string>
+    <string name="dsp_settings_wm8994">DSP instellings - WM8994</string>
+    <string name="pref_dsp_title">Dinamiese reeks kompressie</string>
+    <string name="pref_dsp_summary_on">Kompressie is aangeskakel</string>
+    <string name="pref_dsp_summary_off">Kompressie is gedeaktiveer</string>
+    <string name="pref_dsp_enable">Aktiveer</string>
+    <string name="pref_effect_title">Kies effek krag</string>
+    <string name="dialog_effect">Effek krag</string>
+    <string name="pref_equalizer_title">Equalizer</string>
+    <string name="pref_equalizer_summary_on">Equalizer is aangeskakel</string>
+    <string name="pref_equalizer_summary_off">Equalizer is gedeaktiveer</string>
+    <string name="pref_equalizer_enable">Aktiveer</string>
+    <string name="pref_equalizer_preset_title">Kies vooraf ingestelde</string>
+    <string name="pref_equalizer_loudness_title">Hardheid vergoeding</string>
+    <string name="pref_bassboost_title">Verhoog bas</string>
+    <string name="pref_bassboost_summary_on">Bas is aangeskakel</string>
+    <string name="pref_bassboost_summary_off">Bas is gedeaktiveer</string>
+    <string name="pref_bassboost_enable">Aktiveer</string>
+    <string name="pref_headset_virtual_title">Oorfone Virtuele Kamer Effek</string>
+    <string name="pref_headset_virtual_summary_on">Oorfone virtuele kamer is geaktiveer</string>
+    <string name="pref_headset_virtual_summary_off">Oorfone virtuele kamer is gedeaktiveer</string>
+    <string name="pref_headset_virtual_enable">Aktiveer</string>
+    <string name="pref_room_title">Kies kamer tipe</string>
+    <string name="dialog_room">Kamer tipe</string>
+    <string name="menu_reset">Herstel</string>
+
+    <string name="eq_preset_acoustic">Akoesties</string>
+    <string name="eq_preset_bass_booster">Bas aanvuller</string>
+    <string name="eq_preset_bass_reducer">Bas verlaag</string>
+    <string name="eq_preset_classical">Klassiek</string>
+    <string name="eq_preset_deep">Diep</string>
+    <string name="eq_preset_flat">Flat</string>
+    <string name="eq_preset_r_and_b">R&amp;B</string>
+    <string name="eq_preset_rock">Rock</string>
+    <string name="eq_preset_small_speakers">klein luidsprekers</string>
+    <string name="eq_preset_treble_booster">Treble aanvuller</string>
+    <string name="eq_preset_treble_reducer">Treble verlaag</string>
+    <string name="eq_preset_vocal_booster">Stem aanvuller</string>
+    <string name="eq_preset_custom">Persoonlik</string>
+
+    <!-- WM8994 -->
+    <!-- Categories -->
+    <string name="category_wm8994_internal_speaker">Luidspreker</string>
+    <string name="category_wm8994_signal_processing">Sein prosessering</string>
+    <string name="category_wm8994_headphone_amp">Oorfone</string>
+    <string name="category_wm8994_codec_optimization">Codec optimalisering</string>
+    <string name="category_wm8994_dac_config">Digitaal/Analoog omskakelaar instellings</string>
+    <string name="category_wm8994_analog_path">Analoog konfigurasie</string>
+    <string name="category_wm8994_mic_settings">Mikrofoon instellings</string>
+    <string name="category_wm8994_microphone_recording">Mikrofoon</string>
+
+    <!-- Titles/Summaries -->
+    <string name="wm8994_settings_title_head">Klank instellings</string>
+    <string name="wm8994_settings_title_subhead">Klank instellings</string>
+    <string name="wm8994_settings_summary_head">Gevorderde beheer van die WM8994 klank verwerker</string>
+    <string name="pref_wm8994_microphone_recording_title">Opnames</string>
+    <string name="pref_wm8994_headphone_amp_title">Versterker vlak</string>
+    <string name="pref_wm8994_headphone_amp_summary">Pas die analoog gain</string>
+    <string name="pref_wm8994_headphone_amp_dlg_title">Oorfone vlak versterker</string>
+    <string name="pref_wm8994_headphone_amp_dlg_desc">Analoog gain</string>
+    <string name="pref_wm8994_bass_boost_enable_title">Bas aanvuller</string>
+    <string name="pref_wm8994_bass_boost_enable_summary">Gevorderde beheer vir bas aanvuller</string>
+    <string name="pref_wm8994_bass_boost_title">Bas aanvuller reeks</string>
+    <string name="pref_wm8994_bass_boost_summary">Beheer Gevorderde dinamiese omvang</string>
+    <string name="pref_wm8994_bass_boost_preset_title">Bas aanvuller voorafbepaalde</string>
+    <string name="pref_wm8994_bass_boost_dlg_title">Bas aanvuller</string>
+    <string name="pref_wm8994_bass_boost_gain_dlg_desc">Gain</string>
+    <string name="pref_wm8994_bass_boost_range_dlg_desc">Bas aanvuller reeks</string>
+    <string name="pref_wm8994_control_enable_title">Aktiveer WM8994 beheer</string>
+    <string name="pref_wm8994_control_enable_summary">Gevorderde beheer vir die WM8994 klank verwerker</string>
+    <string name="pref_wm8994_speaker_tuning_title">Luister vir musiek</string>
+    <string name="pref_wm8994_speaker_tuning_summary">Her-konfigureer die hardeware EQ vir meer bas en gebalanseerde klank</string>
+    <string name="pref_wm8994_mono_downmix_title">Mono downmix</string>
+    <string name="pref_wm8994_mono_downmix_summary">Downmix stereo klank na mono (vir stereo uitsette, soos oorfone)</string>
+    <string name="pref_wm8994_stereo_expansion_title">Stereo uitbreiding</string>
+    <string name="pref_wm8994_stereo_expansion_summary">\'Expand\' stereo klank via digitale seinverwerking</string>
+    <string name="pref_wm8994_dac_direct_title">D/AC direk</string>
+    <string name="pref_wm8994_dac_direct_summary">Verkry direk toegang tot digitale / analoog omskakelaar,vermy die kanaal menger. Produseer skoner klank (hoër sein-tot-ruis verhouding)</string>
+    <string name="pref_wm8994_dac_osr128_title">Hi-fi speel</string>
+    <string name="pref_wm8994_dac_osr128_summary">Digitaal-na-analoog omskakelaar 128x oversampling &#8212; skoner klank wanneer musiek gespeel word</string>
+    <string name="pref_wm8994_adc_osr128_title">Hi-fi recording</string>
+    <string name="pref_wm8994_adc_osr128_summary">Analoog-na-digitaal omskakelaar 128x oversampling &#8212; verhoog gehalte van opnames</string>
+    <string name="pref_wm8994_fll_tuning_title">Ingestemde oudio horlosie</string>
+    <string name="pref_wm8994_fll_tuning_summary">Gebruik ingestemde WM8994 oudio horlosie bron &#8212; verhoog kwaliteit van die klank</string>
+
+    <string name="help_title">Aangaande</string>
+</resources>
