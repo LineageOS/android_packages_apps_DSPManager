@@ -98,35 +98,35 @@
     <string name="pref_wm8994_mono_downmix_summary">Stereo- naar monogeluid downmixen (voor stereo-uitvoer, zoals headsets)</string>
     <string name="pref_wm8994_stereo_expansion_title">Stereo-uitbreiding</string>
     <string name="pref_wm8994_stereo_expansion_summary">Stereogeluid \'uitbreiden\u2019 d.m.v. digitale geluidsverwerking</string>
-    <string name="pref_wm8994_dac_direct_title">Directe digitaal/analoog-omzetter</string>
-    <string name="pref_wm8994_dac_direct_summary">Verkrijg meteen toegang tot de digitaal/analoog-omzetter en omzeil de kanalenmixer. Zorgt voor helderder geluid (lagere signaal-ruisverhouding)</string>
+    <string name="pref_wm8994_dac_direct_title">Directe DA-converter</string>
+    <string name="pref_wm8994_dac_direct_summary">Direct toegang verkrijgen tot de DA-converter en de kanalenmixer omzeilen voor helderder geluid (lagere signaal-ruisverhouding)</string>
     <string name="pref_wm8994_dac_osr128_title">Hifi afspelen</string>
-    <string name="pref_wm8994_dac_osr128_summary">Digitaal-naar-analoog-omzetter 128 keer overbemonsteren (zuiverder geluid bij het afspelen van muziek)</string>
+    <string name="pref_wm8994_dac_osr128_summary">DA-converter 128 keer overbemonsteren (zuiverder geluid bij het afspelen van muziek)</string>
     <string name="pref_wm8994_adc_osr128_title">Hifi opnemen</string>
-    <string name="pref_wm8994_adc_osr128_summary">Analoog-naar-digitaal-omzetter 128 keer overbemonsteren (verbetert opnamekwaliteit)</string>
+    <string name="pref_wm8994_adc_osr128_summary">DA-converter 128 keer overbemonsteren (verbeterde opnamekwaliteit)</string>
     <string name="pref_wm8994_fll_tuning_title">Afgestemde geluidsklok</string>
-    <string name="pref_wm8994_fll_tuning_summary">Gebruik afgestemde bron van WM8994-geluidsklok (verbetert geluidskwaliteit)</string>
+    <string name="pref_wm8994_fll_tuning_summary">Afgestemde bron gebruiken van WM8994-geluidsklok (verbeterde geluidskwaliteit)</string>
 
     <!-- Help -->
-    <string name="help_title">Gebruikershandleiding</string>
+    <string name="help_title">Hulp</string>
     <string name="help_text"><b>Wat is DSP Manager?</b>
 \n
 \nDSP Manager is een geluidsmanipulatie-app. <i>DSP</i> staat
-voor \'Digital Signal Processing\' (digitale signalenverwerking) en het
+voor \'Digital Signal Processing\' (digitale signaalprocessor) en het
 <i>\'Manager\'</i>-deel staat voor het feit dat de verwerking niet
-gebeurt in de app zelf; de beheerder kan dit alleen inschakelen voor apps die
+gebeurt in de app zelf; DSP Manager kan dit alleen inschakelen voor apps die
 compatibel zijn met de geluidseffectenspecificaties van Android, zoals de meeste
 muziekspelers.
 \n
-\n<b>Filosofie</b>
+\n<b>Achtergrond</b>
 \n
 \nDe mogelijkheden van het geluidsverwerkingssysteem van CyanogenMod biedt
 ondersteuning voor 3 uitvoersoorten: bedrade headset,
 telefoonluidspreker en bluetoothheadset. Voor elke categorie bestaat er
-een configuratiepaneel. De filosofie van DSP Manager is om de geluidsuitvoer zo
-te manipuleren, dat het geluid het best beleefd kan worden.
+een configuratiepaneel. Het is de bedoeling dat DSP Manager de geluidsuitvoer zo
+kan manipuleren, dat het geluid het best beleefd kan worden.
 \n
-\nIn tegenstelling tot de standaard geluidseffecten van Android zijn er geen aparte
+\nIn tegenstelling tot de standaardgeluidseffecten van Android zijn er geen aparte
 instellingen per app. Dit is opzettelijk gedaan: het is de uitvoer die belangrijk
 is, niet welke app geluid maakt.
 \n
@@ -135,7 +135,7 @@ is, niet welke app geluid maakt.
 \nDe rest van dit document beschrijft elk geluidseffect en de situatie waarvoor
 het bedoeld is.
 \n
-\n1. <b>Dynamisch bereik compressie (DRC)</b>
+\n1. <b>Dynamisch bereikcompressie (DRC)</b>
 \n
 \nDit effect schat het geluidsniveau van het geluid in zoals door de gemiddelde
 luisteraar gehoord zou worden en stuurt een geluidsversterker aan die gebaseerd is op
@@ -152,24 +152,23 @@ van Google is niet beschikbaar.
 \n
 \nDe basversterker is een simpel laagdoorlatend filter dat gebruikt kan worden om de
 nadruk te leggen op frequenties tot 55 Hz. De versterking is ongeveer 6 dB en kan
-worden aangepast met de \'sterkte\'-parameter, die bijdraagt aan de respons beneden de
-55 Hz, waardoor deze frequenties extra benadrukt worden. Het effect is ontworpen om
-het verlies van lage frequenties te bestrijden zoals dat optreedt bij kleine
-luidsprekers en in-oor headsets die niet goed aansluiten op het gehoorkanaal van
-de gebruiker.
+worden aangepast met de \'sterkte\'-instelling, die bijdraagt aan de respons beneden de
+55 Hz, waardoor deze frequenties extra worden benadrukt. Het effect is ontworpen om
+het verlies van lage frequenties te bestrijden zoals bij kleine luidsprekers en
+oortjes die niet goed aansluiten op uw gehoorkanaal.
 \n
 \n3. <b>Equalizer</b>
 \n
-\nDit is een 6-bands equalizer met banden op 16, 64, 250, 1000, 4000 en 16000 Hz.
+\nDit is een 6-bands equalizer op de 16-, 64-, 250-, 1000-, 4000- en 16000Hz-band.
 Enkele veel voorkomende instellingen zijn kant-en-klaar beschikbaar, maar de
 frequentierespons kan ook op maat worden ingesteld door te tikken op de
 equalizergrafiek. Het effect wordt gebruikt voor het afstemmen van de frequentie
-naar de wens van de gebruiker of de specifieke mogelijkheden van de beschikbare
+naar uw wens of de specifieke mogelijkheden van de beschikbare
 headset/luidsprekers.
 \n
 \nDe equalizer bevat ook een luidheidscompensatiefilter, dat veranderingen van de
-frequentie in het oor egaliseert op basis van de geluidsdruk die het oor van de
-gebruiker bereikt. Het gebruik van een bedrade headset is noodzakelijk en de
+frequentie in het oor egaliseert op basis van de geluidsdruk die uw oor bereikt.
+Het gebruik van een bedrade headset is noodzakelijk en de
 compensatiewaarde moet correct worden afgestemd voordat het effect werkt zoals
 ontworpen.
 \n
@@ -182,20 +181,20 @@ instrumenten ligt, ongeacht het volumeniveau. Als muziek een te sterke bas heeft
 niveaus, is de compensatiewaarde waarschijnlijk te sterk en moet deze worden verminderd.
 \n
 \nDe ingestelde compensatie wordt toegevoegd aan de gekozen instelling van de
-equalizer. Als enkel compensatie nodig is, moet de equalizer op \'vlak\' blijven ingesteld.
+equalizer. Als enkel compensatie nodig is, moet de equalizer op \'vlak\' ingesteld blijven.
 \n
 \n4. <b>Headsetfilter</b>
 \n
-\nHet headsetfilter is een crossfeed-ontwerp, geïnspireerd door het beroemde bs2b
-analoge circuit. Het filter laat monogeluid ongewijzigd door en laat het
+\nHet headsetfilter is een crossfeed-ontwerp, geïnspireerd op het beroemde
+bs2b-analoge-circuit. Het filter laat monogeluid ongewijzigd door en laat het
 verschil in signaal door een laagdoorlaatfilter gaan dat zowel hoofdschaduw als
-in-oor-vertraging nabootst, wat het juiste psychologische effect voor de oren van de
-gebruiker oplevert. Het is de bedoeling te voorkomen dat de luisteraar vermoeid wordt
-als gevolg van de onwaarschijnlijke stereoscheiding die inherent is aan alle headsets.
-Het effect moet worden ingeschakeld indien een stereoheadset wordt gebruikt.
+in-oor-vertraging nabootst, wat het juiste psychologische effect voor uw oren
+oplevert. Het is de bedoeling om vermoeidheid te voorkomen door de
+onwaarschijnlijke stereoscheiding die inherent is aan alle headsets. Het effect
+moet worden ingeschakeld indien een stereoheadset wordt gebruikt.
 \n
-\nOmdat het mengen het stereobeeld enigszins vermindert, kan er een Haas-effect
-galm ontstaan, die kan worden gebruikt om de waargenomen breedte van het stereobeeld te
+\nOmdat het mengen het stereobeeld enigszins vermindert, kan er het Haas-effect
+ontstaan, die kan worden gebruikt om de waargenomen breedte van het stereobeeld te
 verhogen. Dit kan worden afgestemd door de \'Type ruimte\'-instelling.
     </string>
 </resources>
