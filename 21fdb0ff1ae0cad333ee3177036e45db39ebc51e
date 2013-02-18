@@ -1,0 +1,140 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAdX//9kY\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 101,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-02-18T21:16:54Z",
+      "side": 1,
+      "message": "Waarom terug naar een Engelse verwoording?\n\nIn het Engels is het ook een langer woord \"digital/analog converter\"\n\nIk denk dat voor de noob-gebruiker de uitgebreide verwoording duidelijker is: http://nl.wikipedia.org/wiki/DA-converter\n\n- Digitaal-Analoogomzetter",
+      "revId": "21fdb0ff1ae0cad333ee3177036e45db39ebc51e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//9jo\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 158,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-02-18T21:16:54Z",
+      "side": 1,
+      "message": "op het gehoorkanaal van de gebruiker.",
+      "revId": "21fdb0ff1ae0cad333ee3177036e45db39ebc51e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//9jQ\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 162,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-02-18T21:16:54Z",
+      "side": 1,
+      "message": "Dit maakt het er niet mooier op, Hz hoeft er niet tegenaan te staan.",
+      "revId": "21fdb0ff1ae0cad333ee3177036e45db39ebc51e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//9js\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 166,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-02-18T21:16:54Z",
+      "side": 1,
+      "message": "de wens van de gebruiker",
+      "revId": "21fdb0ff1ae0cad333ee3177036e45db39ebc51e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//9jg\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 170,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-02-18T21:16:54Z",
+      "side": 1,
+      "message": "het oor van de gebruiker",
+      "revId": "21fdb0ff1ae0cad333ee3177036e45db39ebc51e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//9kU\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 188,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-02-18T21:16:54Z",
+      "side": 1,
+      "message": "- geïnspireerd door\n\n(gebaseerd op)",
+      "revId": "21fdb0ff1ae0cad333ee3177036e45db39ebc51e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//9jc\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 191,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-02-18T21:16:54Z",
+      "side": 1,
+      "message": "de oren van de gebruiker",
+      "revId": "21fdb0ff1ae0cad333ee3177036e45db39ebc51e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//9j0\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 194,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-02-18T21:16:54Z",
+      "side": 1,
+      "message": "Ook bij deze uitleg vind ik het origineel mooier, ook omdat je dan  de persoonsvorm vermijdt.",
+      "revId": "21fdb0ff1ae0cad333ee3177036e45db39ebc51e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
