@@ -34,6 +34,24 @@
       "revId": "da088f56b1618b62a9e63016c58f3132f5e62011",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//8Mc\u003d",
+        "filename": "res/values-nl/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 111,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-02-21T15:46:42Z",
+      "side": 1,
+      "message": "Ik zal een revert plaatsen voor deze wijziging in de Engelse vertaling om te kijken wat voor reacties dat oplevert.",
+      "parentUuid": "AAAAdX//8Ms\u003d",
+      "revId": "da088f56b1618b62a9e63016c58f3132f5e62011",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
