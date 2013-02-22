@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAdX//70w\u003d",
+        "filename": "res/values-af/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 3269
+      },
+      "writtenOn": "2013-02-22T19:19:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAdX//74M\u003d",
+      "revId": "64c6b7a87350ee44bc3af90e238f7fca27545b31",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAdX//74Q\u003d",
         "filename": "res/values-af/arrays.xml",
         "patchSetId": 1
@@ -30,6 +48,24 @@
       "writtenOn": "2013-02-22T18:12:55Z",
       "side": 1,
       "message": "- luidsprekers (lower case)",
+      "revId": "64c6b7a87350ee44bc3af90e238f7fca27545b31",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//70s\u003d",
+        "filename": "res/values-af/arrays.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 3269
+      },
+      "writtenOn": "2013-02-22T19:19:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAdX//74Q\u003d",
       "revId": "64c6b7a87350ee44bc3af90e238f7fca27545b31",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAdX//71s\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 3269
+      },
+      "writtenOn": "2013-02-22T19:19:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAdX//748\u003d",
+      "revId": "64c6b7a87350ee44bc3af90e238f7fca27545b31",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAdX//744\u003d",
         "filename": "res/values-af/strings.xml",
         "patchSetId": 1
@@ -64,6 +118,24 @@
       "writtenOn": "2013-02-22T18:12:55Z",
       "side": 1,
       "message": "I would say \u0027geaktiveer\u0027, so it looks more like the summary for when it\u0027s off",
+      "revId": "64c6b7a87350ee44bc3af90e238f7fca27545b31",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//71k\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 3269
+      },
+      "writtenOn": "2013-02-22T19:19:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAdX//744\u003d",
       "revId": "64c6b7a87350ee44bc3af90e238f7fca27545b31",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -87,6 +159,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAdX//71Q\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 3269
+      },
+      "writtenOn": "2013-02-22T19:19:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAdX//740\u003d",
+      "revId": "64c6b7a87350ee44bc3af90e238f7fca27545b31",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAdX//74Y\u003d",
         "filename": "res/values-af/strings.xml",
         "patchSetId": 1
@@ -98,6 +188,24 @@
       "writtenOn": "2013-02-22T18:12:55Z",
       "side": 1,
       "message": "Not in line with line 77",
+      "revId": "64c6b7a87350ee44bc3af90e238f7fca27545b31",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//71M\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 3269
+      },
+      "writtenOn": "2013-02-22T19:19:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAdX//74Y\u003d",
       "revId": "64c6b7a87350ee44bc3af90e238f7fca27545b31",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -121,6 +229,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAdX//71I\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 3269
+      },
+      "writtenOn": "2013-02-22T19:19:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAdX//74w\u003d",
+      "revId": "64c6b7a87350ee44bc3af90e238f7fca27545b31",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAdX//74s\u003d",
         "filename": "res/values-af/strings.xml",
         "patchSetId": 1
@@ -132,6 +258,24 @@
       "writtenOn": "2013-02-22T18:12:55Z",
       "side": 1,
       "message": "- Oorfone virtuele kamer effect",
+      "revId": "64c6b7a87350ee44bc3af90e238f7fca27545b31",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//71E\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 3269
+      },
+      "writtenOn": "2013-02-22T19:19:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAdX//74s\u003d",
       "revId": "64c6b7a87350ee44bc3af90e238f7fca27545b31",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -155,6 +299,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAdX//71A\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 3269
+      },
+      "writtenOn": "2013-02-22T19:19:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAdX//74o\u003d",
+      "revId": "64c6b7a87350ee44bc3af90e238f7fca27545b31",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAdX//74k\u003d",
         "filename": "res/values-af/strings.xml",
         "patchSetId": 1
@@ -166,6 +328,24 @@
       "writtenOn": "2013-02-22T18:12:55Z",
       "side": 1,
       "message": "- Digitaal-na-analoog",
+      "revId": "64c6b7a87350ee44bc3af90e238f7fca27545b31",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//708\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 3269
+      },
+      "writtenOn": "2013-02-22T19:19:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAdX//74k\u003d",
       "revId": "64c6b7a87350ee44bc3af90e238f7fca27545b31",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -189,6 +369,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAdX//704\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 3269
+      },
+      "writtenOn": "2013-02-22T19:19:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAdX//74g\u003d",
+      "revId": "64c6b7a87350ee44bc3af90e238f7fca27545b31",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAdX//74U\u003d",
         "filename": "res/values-af/strings.xml",
         "patchSetId": 1
@@ -200,6 +398,24 @@
       "writtenOn": "2013-02-22T18:12:55Z",
       "side": 1,
       "message": "- digitaal-na-analoog\n- space after the comma (before \u0027vermy\u0027)",
+      "revId": "64c6b7a87350ee44bc3af90e238f7fca27545b31",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//700\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 90,
+      "author": {
+        "id": 3269
+      },
+      "writtenOn": "2013-02-22T19:19:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAdX//74U\u003d",
       "revId": "64c6b7a87350ee44bc3af90e238f7fca27545b31",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
