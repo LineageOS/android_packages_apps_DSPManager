@@ -1,0 +1,123 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAdX//6ZU\u003d",
+        "filename": "res/values-af/arrays.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1576
+      },
+      "writtenOn": "2013-02-28T01:10:32Z",
+      "side": 1,
+      "message": "Luide omgewing",
+      "revId": "7c5f455001871de40c4cf3793d4ced8ab4f08c72",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//6ZQ\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 1576
+      },
+      "writtenOn": "2013-02-28T01:10:32Z",
+      "side": 1,
+      "message": "Vokale versterking",
+      "revId": "7c5f455001871de40c4cf3793d4ced8ab4f08c72",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//6Y4\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 1576
+      },
+      "writtenOn": "2013-02-28T01:10:32Z",
+      "side": 1,
+      "message": "Do we need this?  Seems a bit redundant to have the same twice.  maybe we should consider getting rid of the subhead altogether",
+      "revId": "7c5f455001871de40c4cf3793d4ced8ab4f08c72",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//6Yw\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 90,
+      "author": {
+        "id": 1576
+      },
+      "writtenOn": "2013-02-28T01:10:32Z",
+      "side": 1,
+      "message": "\\\u0027downmix\\\u0027",
+      "revId": "7c5f455001871de40c4cf3793d4ced8ab4f08c72",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//6Y0\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 91,
+      "author": {
+        "id": 1576
+      },
+      "writtenOn": "2013-02-28T01:10:32Z",
+      "side": 1,
+      "message": "\\\u0027Downmix\\\u0027",
+      "revId": "7c5f455001871de40c4cf3793d4ced8ab4f08c72",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//6Yo\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 1576
+      },
+      "writtenOn": "2013-02-28T01:10:32Z",
+      "side": 1,
+      "message": "klank-klok",
+      "revId": "7c5f455001871de40c4cf3793d4ced8ab4f08c72",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//6Ys\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 101,
+      "author": {
+        "id": 1576
+      },
+      "writtenOn": "2013-02-28T01:10:32Z",
+      "side": 1,
+      "message": "klank-klok",
+      "revId": "7c5f455001871de40c4cf3793d4ced8ab4f08c72",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
