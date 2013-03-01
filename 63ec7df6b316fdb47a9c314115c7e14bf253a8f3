@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAdX//5uo\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 4663
+      },
+      "writtenOn": "2013-03-01T12:50:02Z",
+      "side": 1,
+      "message": "Dinamiese gebied kompressie",
+      "revId": "63ec7df6b316fdb47a9c314115c7e14bf253a8f3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
