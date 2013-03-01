@@ -34,6 +34,24 @@
       "revId": "63ec7df6b316fdb47a9c314115c7e14bf253a8f3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//5q0\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 4663
+      },
+      "writtenOn": "2013-03-01T20:44:43Z",
+      "side": 1,
+      "message": "Yes, but by using \"reeks\" it sounds like the mathematical word series. Dynamic range in this case refers to a measurable length of sound discrimination, which for me sounds more like \"gebied\"",
+      "parentUuid": "AAAAdX//5rg\u003d",
+      "revId": "63ec7df6b316fdb47a9c314115c7e14bf253a8f3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
