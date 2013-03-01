@@ -70,6 +70,24 @@
       "revId": "63ec7df6b316fdb47a9c314115c7e14bf253a8f3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//5qk\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-03-01T21:19:35Z",
+      "side": 1,
+      "message": "\u0027Range\u0027 can also refer to a predefined area.\n\nHe is in range, meaning: he is within reach (the same area as where you are in).\n\nIn this case, I think \u0027range\u0027 refers to the sound spectrum, meaning \u0027gebied\u0027 can be correct.\n\nBTW, in Dutch we use \u0027bereik\u0027.",
+      "parentUuid": "AAAAdX//5qs\u003d",
+      "revId": "63ec7df6b316fdb47a9c314115c7e14bf253a8f3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
