@@ -52,6 +52,24 @@
       "revId": "63ec7df6b316fdb47a9c314115c7e14bf253a8f3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//5qs\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 4663
+      },
+      "writtenOn": "2013-03-01T20:53:46Z",
+      "side": 1,
+      "message": "Dinamiese bereik is the correct translation according to my Professor",
+      "parentUuid": "AAAAdX//5q0\u003d",
+      "revId": "63ec7df6b316fdb47a9c314115c7e14bf253a8f3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
