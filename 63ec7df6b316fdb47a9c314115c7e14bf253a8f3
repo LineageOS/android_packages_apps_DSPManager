@@ -16,6 +16,24 @@
       "revId": "63ec7df6b316fdb47a9c314115c7e14bf253a8f3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//5rg\u003d",
+        "filename": "res/values-af/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1576
+      },
+      "writtenOn": "2013-03-01T18:54:40Z",
+      "side": 1,
+      "message": "Stephen, that is incorrect. \n\nRange \u003d reeks\nArea \u003d gebied \n\nIn this case the original is dynamic range compression.",
+      "parentUuid": "AAAAdX//5uo\u003d",
+      "revId": "63ec7df6b316fdb47a9c314115c7e14bf253a8f3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
