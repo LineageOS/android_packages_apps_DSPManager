@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAdX//5Qk\u003d",
+        "filename": "res/values-fr/arrays.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 3150
+      },
+      "writtenOn": "2013-03-02T20:11:37Z",
+      "side": 1,
+      "message": "it\u0027s just a detail but with my little experience on making music I never seen a word to word translation for these reverb fx.\nI think some of them (chambre !) could remain English words :\nStudio / Room / Large room / Scène",
+      "revId": "6bcba6d1e83674104bcca2f523d992011106e5d1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
