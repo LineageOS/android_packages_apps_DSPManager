@@ -16,6 +16,24 @@
       "revId": "6bcba6d1e83674104bcca2f523d992011106e5d1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//5O0\u003d",
+        "filename": "res/values-fr/arrays.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 5765
+      },
+      "writtenOn": "2013-03-02T20:46:24Z",
+      "side": 1,
+      "message": "I just contact a sound engineer (a friend), I have had this confirmation.\n\nThank you very much Julien Gainza, I will implement the changes in a few moments.",
+      "parentUuid": "AAAAdX//5Qk\u003d",
+      "revId": "6bcba6d1e83674104bcca2f523d992011106e5d1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
