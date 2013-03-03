@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAdX//48s\u003d",
+        "filename": "res/values-fr/arrays.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-03-03T05:44:55Z",
+      "side": 1,
+      "message": "In CM10.1 version, I have translated this item.\nhttps://github.com/CyanogenMod/android_packages_apps_DSPManager/blob/cm-10.1/res/values-fr/arrays.xml \n@Marco, do you think it\u0027s better to keep english word because it\u0027s used in french or we translate still",
+      "revId": "2e2f622b9d49747ad113b4d1731e485986cff8d0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
