@@ -16,6 +16,24 @@
       "revId": "2e2f622b9d49747ad113b4d1731e485986cff8d0",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAdX//46I\u003d",
+        "filename": "res/values-fr/arrays.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 3150
+      },
+      "writtenOn": "2013-03-03T10:06:40Z",
+      "side": 1,
+      "message": "as i said before, I checked all my reverb soft an it\u0027s really a technical term, i must recommend English instead of French for this.\ni never seen \"chambre\" instead of \"room\" in any translated software i used in CAM.\n\nHowever, make like you want, it\u0027s not really a big deal.",
+      "parentUuid": "AAAAdX//48s\u003d",
+      "revId": "2e2f622b9d49747ad113b4d1731e485986cff8d0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
