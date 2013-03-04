@@ -16,6 +16,24 @@
       "revId": "534b9f7c2efcaa4a53dddd08ecd1fe55e42f7013",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAeH///+I\u003d",
+        "filename": "res/values-fr/arrays.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 5765
+      },
+      "writtenOn": "2013-03-04T16:49:18Z",
+      "side": 1,
+      "message": "Decide together. (with Marco Brohet)\n\nI just want all my patches are merge together quickly, I am simply rules...",
+      "parentUuid": "AAAAeH///+k\u003d",
+      "revId": "534b9f7c2efcaa4a53dddd08ecd1fe55e42f7013",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
