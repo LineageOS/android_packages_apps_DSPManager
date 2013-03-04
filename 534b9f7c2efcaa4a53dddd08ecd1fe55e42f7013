@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAeH///+k\u003d",
+        "filename": "res/values-fr/arrays.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 3150
+      },
+      "writtenOn": "2013-03-04T16:14:59Z",
+      "side": 1,
+      "message": "Why why and why ?\nI swear it\u0027s an aberration.\nit doesn\u0027t mean \"chambre ( coucher)\" or \"salle de concert)\" it mean \"piece\" but it is NEVER translated in French !\nlike all others reverberation presets, plate / chamber / hall /church / cathedral. \nPlease see this article from Ziggysono which is an well known tuto box for musicians :\nhttp://www.ziggysono.com/htm_effets/index.php?art\u003dreverbe\u0026titre\u003dReverbe",
+      "revId": "534b9f7c2efcaa4a53dddd08ecd1fe55e42f7013",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
