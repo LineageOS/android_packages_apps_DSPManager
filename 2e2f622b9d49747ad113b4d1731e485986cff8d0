@@ -34,6 +34,24 @@
       "revId": "2e2f622b9d49747ad113b4d1731e485986cff8d0",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAd3///5c\u003d",
+        "filename": "res/values-fr/arrays.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-03-04T01:21:22Z",
+      "side": 1,
+      "message": "I have understand why this translation is \"strange\", in french we must not translate \"chambre\" but \"salle\" (salle de concert).\nWith the context, we understand very good that it\u0027s increasing",
+      "parentUuid": "AAAAdX//46I\u003d",
+      "revId": "2e2f622b9d49747ad113b4d1731e485986cff8d0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
