@@ -1,0 +1,140 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAfH///0Q\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-04-26T03:11:57Z",
+      "side": 1,
+      "message": "I still prefer the old one. Up to you.",
+      "revId": "6c88c1a6319f0d0aa8cbd0812efec11ed8120487",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAfH///0M\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 97,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-04-26T03:11:57Z",
+      "side": 1,
+      "message": ".. sino que es el gestor ...  I still prefer the old sentence.",
+      "revId": "6c88c1a6319f0d0aa8cbd0812efec11ed8120487",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAfH///0I\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 99,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-04-26T03:11:57Z",
+      "side": 1,
+      "message": "como por ejemplo",
+      "revId": "6c88c1a6319f0d0aa8cbd0812efec11ed8120487",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAfH///0E\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-04-26T03:11:57Z",
+      "side": 1,
+      "message": ".. las deficiencias particulares, con objeto .. (comma)",
+      "revId": "6c88c1a6319f0d0aa8cbd0812efec11ed8120487",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAfH///0A\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 111,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-04-26T03:11:57Z",
+      "side": 1,
+      "message": "... : tratar de centrarse en la salid de audio, y no ..",
+      "revId": "6c88c1a6319f0d0aa8cbd0812efec11ed8120487",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAfH///z8\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 122,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-04-26T03:11:57Z",
+      "side": 1,
+      "message": "sonido --\u003e ruido",
+      "revId": "6c88c1a6319f0d0aa8cbd0812efec11ed8120487",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAfH///z4\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 151,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-04-26T03:11:57Z",
+      "side": 1,
+      "message": "still prefer \"ruido\". up to you",
+      "revId": "6c88c1a6319f0d0aa8cbd0812efec11ed8120487",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAfH///zs\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 161,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-04-26T03:11:57Z",
+      "side": 1,
+      "message": "de sonidos",
+      "revId": "6c88c1a6319f0d0aa8cbd0812efec11ed8120487",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
