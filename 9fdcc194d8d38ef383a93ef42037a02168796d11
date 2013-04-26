@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAfH///sM\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-04-26T19:08:42Z",
+      "side": 1,
+      "message": "+1 to Ecualizador",
+      "parentUuid": "AAAAfH///wU\u003d",
+      "revId": "9fdcc194d8d38ef383a93ef42037a02168796d11",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAfH///wY\u003d",
         "filename": "res/values-es/strings.xml",
         "patchSetId": 3
@@ -30,6 +48,24 @@
       "writtenOn": "2013-04-26T15:09:48Z",
       "side": 1,
       "message": ".. deberá ser el gestor el que HABILITE su uso ... ?? Ideas?",
+      "revId": "9fdcc194d8d38ef383a93ef42037a02168796d11",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAfH///sI\u003d",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 97,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-04-26T19:08:42Z",
+      "side": 1,
+      "message": "habilite",
+      "parentUuid": "AAAAfH///wY\u003d",
       "revId": "9fdcc194d8d38ef383a93ef42037a02168796d11",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
