@@ -4,11 +4,13 @@
     <string name="headset_title">Наушники</string>
     <string name="speaker_title">Динамик телефона</string>
     <string name="bluetooth_title">Устройства Bluetooth</string>
+    <string name="usb_title">USB/Док-станция</string>
     <string name="audio_effects">Аудио эффекты</string>
     <string name="pref_unavailable">Данная функция не поддерживается на вашем устройстве</string>
     <string name="dsp_settings_headset">Настройки DSP - Наушники</string>
     <string name="dsp_settings_speaker">Настройки DSP - Динамик телефона</string>
     <string name="dsp_settings_bluetooth">Настройки DSP - Устройства Bluetooth</string>
+    <string name="dsp_settings_usb">Настройки DSP - USB устройства</string>
     <string name="dsp_settings_wm8994">Настройки DSP - WM8994</string>
     <string name="pref_dsp_title">Сжатие динамического диапазона</string>
     <string name="pref_dsp_summary_on">Сжатие включенно</string>
