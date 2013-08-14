@@ -122,7 +122,7 @@ specification, i.e. most music players.
 \n\n\n
 <b>Philosophy</b>
 \n\n
-CyanogenMod\'s audio processing supports three different output categories:
+CyanogenMod\'s audio processing supports four different output categories:
 wired headset, USB audio, phone speaker and bluetooth headset. There is a separate
 configuration panel for each output category. DSP Manager\'s philosophy is to
 correct each audio output\'s particular deficiencies in order to reach the most
