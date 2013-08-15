@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dae975fb_040adbd2",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 5896
+      },
+      "writtenOn": "2013-08-15T23:36:59Z",
+      "side": 1,
+      "message": "\"vklyucheno\" tozhe s odnoi \"n\".",
+      "revId": "c11e74ebd07ad9a917acc509c20138a02be084d2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
