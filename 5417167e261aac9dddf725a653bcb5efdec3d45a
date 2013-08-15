@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dae975fb_6e4bc65a",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 5896
+      },
+      "writtenOn": "2013-08-15T07:42:08Z",
+      "side": 1,
+      "message": "Prosto dinamik ili dinamik ustroistva, ili vstroenniy dynamik.",
+      "revId": "5417167e261aac9dddf725a653bcb5efdec3d45a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dae975fb_ee6d76cd",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 5896
+      },
+      "writtenOn": "2013-08-15T07:42:08Z",
+      "side": 1,
+      "message": "Tut tozhe.",
+      "revId": "5417167e261aac9dddf725a653bcb5efdec3d45a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dae975fb_2e9b7ecb",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 5896
+      },
+      "writtenOn": "2013-08-15T07:42:08Z",
+      "side": 1,
+      "message": "I tut telefon.",
+      "revId": "5417167e261aac9dddf725a653bcb5efdec3d45a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
