@@ -118,7 +118,7 @@ Android, vale a dire la maggior parte dei lettori musicali.
 \n<b>Filosofia</b>
 \n
 \nL\'elaborazione audio CyanogenMod supporta tre diverse categorie di uscita:
-auricolare,audio USB, vivavoce e auricolare bluetooth. Vi è un pannello di configurazione
+auricolare, audio USB, vivavoce e auricolare bluetooth. Vi è un pannello di configurazione
 per ciascuna categoria di uscita. La filosofia di DSP Manager è quella di
 correggere le particolari carenze di ogni uscita audio per raggiungere la più
 ottimale esperienza d\'ascolto.
