@@ -19,11 +19,13 @@
     <string name="headset_title">Casque</string>
     <string name="speaker_title">Haut-parleur du téléphone</string>
     <string name="bluetooth_title">Périphérique Bluetooth</string>
+    <string name="usb_title">USB/Dock</string>
     <string name="audio_effects">Autres effets audio</string>
     <string name="pref_unavailable">Fonctionnalité non disponible pour votre appareil</string>
     <string name="dsp_settings_headset">Paramètres DSP - Casque</string>
     <string name="dsp_settings_speaker">Paramètres DSP - Haut-parleur</string>
     <string name="dsp_settings_bluetooth">Paramètres DSP - Bluetooth</string>
+    <string name="dsp_settings_usb">Paramètres DSP - Appareil USB</string>
     <string name="dsp_settings_wm8994">Paramètres DSP - WM8994</string>
     <string name="pref_dsp_title">Compresseur audio dynamique</string>
     <string name="pref_dsp_summary_on">La compression est activée</string>
