@@ -88,7 +88,8 @@
     <string name="pref_wm8994_fll_tuning_summary">Usar fonte de tempo de audio WM8994 sintonizado &#8212; melhora qualidade do som</string>
     <string name="dsp_settings_wm8994">Configurações DSP - WM8994</string>
     <string name="help_title">Ajuda</string>
-    <string name="help_text"><b>O que é o Equalizador??</b>
+    <string name="help_text">
+        <b>O que é o Equalizador??</b>
 \n
 \nEqualizador é uma aplicação para ajuste de áudio por canal. <i>Equalizador</i>
 usa Processamento de áudio digital. O equalizador não é executado dentro da
@@ -99,7 +100,7 @@ de música.
 \n<b>Filosofia</b>
 \n
 \nO processamento de aúdio do CyanogenMod suporta três diferentes cantegorias de
-saídas: fone de ouvido com fio, alto-falante do telefone e fone bluetooth. Existe
+saídas: fone de ouvido com fio, áudio USB,6 alto-falante do telefone e fone bluetooth. Existe
 um painel de configuração separado para cada categoria de saída. A filosofia do
 Equalizador é para corrigir cada saída de áudio das deficiências para conseguir a
 maior eficiência para ouvir som de cada saída.
@@ -159,7 +160,7 @@ começar a soar com muito grave em níveis de volume alto, a compensação prova
 definida muito forte, e deve ser reduzida.
 \n
 \nA compensação é adicionada aos ajustes escolhidos do usuário. Se somente a
-compensação é desejada, o equalizador deve ser deixado na configuração &#8220;Plano&#8221;.
+compensação é desejada, o equalizador deve ser deixado na configuração “Plano”.
 \n
 \n4. <b>Filtro de Fone de Ouvido</b>
 \n
@@ -173,7 +174,7 @@ ativado quando usando fones de ouvido estéreo.
 \n
 \nDevido à mistura reduzir um pouco a separação estéreo, existe um efeito de
 reverbação Haas, que pode ser usado aumentar a largura de imagem estéreo percebida.
-Isto é controlado pelo controle &#8220;Simulação de Ambiente&#8221;.
+Isto é controlado pelo controle “Simulação de Ambiente”.
     </string>
     <string name="usb_title">USB/Dock</string>
     <string name="dsp_settings_usb">Configurações Equalizador - Dispositivo USB</string>
