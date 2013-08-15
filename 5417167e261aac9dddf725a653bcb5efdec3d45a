@@ -36,6 +36,40 @@
     },
     {
       "key": {
+        "uuid": "dae975fb_8e65cae2",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-08-15T07:49:23Z",
+      "side": 1,
+      "message": "Vot tut, kstati, s odnoy \"n\" nado pisat\u0027.",
+      "revId": "5417167e261aac9dddf725a653bcb5efdec3d45a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dae975fb_aeaf6ee2",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 99,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-08-15T07:49:23Z",
+      "side": 1,
+      "message": "nuzhno tire (prichem dlinnoe: \u0026#8212; ) pered \"eto prilozhenie\".",
+      "revId": "5417167e261aac9dddf725a653bcb5efdec3d45a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "dae975fb_2e9b7ecb",
         "filename": "res/values-ru/strings.xml",
         "patchSetId": 2
@@ -47,6 +81,57 @@
       "writtenOn": "2013-08-15T07:42:08Z",
       "side": 1,
       "message": "I tut telefon.",
+      "revId": "5417167e261aac9dddf725a653bcb5efdec3d45a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dae975fb_0e879a62",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 111,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-08-15T07:49:23Z",
+      "side": 1,
+      "message": "DiapAzona",
+      "revId": "5417167e261aac9dddf725a653bcb5efdec3d45a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dae975fb_ee7b367a",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 118,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-08-15T07:49:23Z",
+      "side": 1,
+      "message": "Tozhe dlinnoe tire pered \"eto\"",
+      "revId": "5417167e261aac9dddf725a653bcb5efdec3d45a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dae975fb_8e938aa3",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 132,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-08-15T07:49:23Z",
+      "side": 1,
+      "message": "* \"eto nazivaetsya\" lucshe ubrat\u0027, a \"superstereo-effekt\" napisat\u0027 cherez defis i vzyat\u0027 celikom v kavichki.\n* \"mono-sostavlyaushaya\" (defis)\n* \"stereonaushnikov\" slitno.",
       "revId": "5417167e261aac9dddf725a653bcb5efdec3d45a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
