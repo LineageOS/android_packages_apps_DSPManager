@@ -16,6 +16,24 @@
       "revId": "027547d40e62385dea182ec52cd65a7f9b81e729",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dae975fb_3ff96a4e",
+        "filename": "res/values/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2013-08-16T09:30:31Z",
+      "side": 1,
+      "message": "It\u0027s already included in this commit:\nhttp://review.cyanogenmod.org/#/c/47919/",
+      "parentUuid": "dae975fb_ff7d22e8",
+      "revId": "027547d40e62385dea182ec52cd65a7f9b81e729",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
