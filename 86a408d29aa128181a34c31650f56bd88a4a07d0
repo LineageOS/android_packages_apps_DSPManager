@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dae975fb_5f1aee18",
+        "filename": "res/values-it/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 121,
+      "author": {
+        "id": 3916
+      },
+      "writtenOn": "2013-08-16T07:16:05Z",
+      "side": 1,
+      "message": "auricolare,\u003cspace\u003eaudio USB,",
+      "revId": "86a408d29aa128181a34c31650f56bd88a4a07d0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
