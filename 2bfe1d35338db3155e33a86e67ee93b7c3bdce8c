@@ -16,6 +16,23 @@
       "revId": "2bfe1d35338db3155e33a86e67ee93b7c3bdce8c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dae975fb_bf3f9924",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-08-16T19:30:10Z",
+      "side": 1,
+      "message": "trois \u003e\u003e quatre (and another change)\n\nhttp://review.cyanogenmod.org/#/c/47919/3/res/values/strings.xml",
+      "revId": "2bfe1d35338db3155e33a86e67ee93b7c3bdce8c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
