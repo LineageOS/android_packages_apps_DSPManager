@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dae975fb_a23e5eb6",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 4617
+      },
+      "writtenOn": "2013-08-16T22:30:16Z",
+      "side": 1,
+      "message": "Hmm... Si j\u0027ai bien compris ce serait plutot \"USB/Station d\\\u0027accueil\", non ?",
+      "revId": "62b49fde6b840394193bc8eda4501993db398b30",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
