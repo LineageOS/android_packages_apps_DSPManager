@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dae975fb_82347ade",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 170,
+      "author": {
+        "id": 6870
+      },
+      "writtenOn": "2013-08-16T22:18:11Z",
+      "side": 1,
+      "message": "rae.es accepts the use of \"solo\" for both \"solo\" (alone) and \"s\u0027olo\" (only). See http://lema.rae.es/drae/?val\u003dsolo Now, what\u0027s the convention within cm? (Noted that gerrit does not like accent marks)",
+      "revId": "e314696a3a5e0804be29a8d80f89a496dc90ebae",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
