@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baee8101_b00b587d",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 114,
+      "author": {
+        "id": 4045
+      },
+      "writtenOn": "2013-08-17T21:17:55Z",
+      "side": 1,
+      "message": "Il faut rajouter l\u0027audio via USB ici",
+      "revId": "4548a89767f19da631a23a34c89ec7be9d603370",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
