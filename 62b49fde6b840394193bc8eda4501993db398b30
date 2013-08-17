@@ -16,6 +16,24 @@
       "revId": "62b49fde6b840394193bc8eda4501993db398b30",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dae975fb_c5ce0c83",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-08-17T08:46:56Z",
+      "side": 1,
+      "message": "Ok, j\u0027avais pas compris, il faut comprendre peripherique USB ou station d\u0027accueil en general.\nJe corrige",
+      "parentUuid": "dae975fb_a23e5eb6",
+      "revId": "62b49fde6b840394193bc8eda4501993db398b30",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
