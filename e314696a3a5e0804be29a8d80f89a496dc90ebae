@@ -16,6 +16,24 @@
       "revId": "e314696a3a5e0804be29a8d80f89a496dc90ebae",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dae975fb_228dce31",
+        "filename": "res/values-es/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 170,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-08-17T01:50:43Z",
+      "side": 1,
+      "message": "Soy un fiel defensor de la tilde en el adverbio solo, pero si el RAE insiste en que solo se utilice cuando haya ambiguedad en el contexto, y que todas las cadenas de AOSP estan sin tilde, entonces... que solucion tomamos. Pues unificar las traducciones e ir eliminando las tildes a medida que se vayan cambiando o anadiendo nuevas cadenas.\n\nSorry for spanish text. It\u0027s more comprehensive at this way.",
+      "parentUuid": "dae975fb_82347ade",
+      "revId": "e314696a3a5e0804be29a8d80f89a496dc90ebae",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
