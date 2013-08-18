@@ -16,6 +16,24 @@
       "revId": "4548a89767f19da631a23a34c89ec7be9d603370",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baee8101_b3e6c2e6",
+        "filename": "res/values-fr/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 114,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-08-18T09:02:42Z",
+      "side": 1,
+      "message": "Ok desole.",
+      "parentUuid": "baee8101_b00b587d",
+      "revId": "4548a89767f19da631a23a34c89ec7be9d603370",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
