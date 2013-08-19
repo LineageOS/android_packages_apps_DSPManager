@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baee8101_449fce5f",
+        "filename": "res/values-da/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 111,
+      "author": {
+        "id": 3848
+      },
+      "writtenOn": "2013-08-19T23:36:57Z",
+      "side": 1,
+      "message": "I would remove one of the \u0027\\n\u0027, as you have only placed two \u0027\\n\u0027 after the other subtitles. I would remove the one, that is part of \u0027\\nDSP\u0027.",
+      "revId": "932147d1fade3b24780734312653f27f42e6d5e6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baee8101_6492d259",
+        "filename": "res/values-da/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 3848
+      },
+      "writtenOn": "2013-08-19T23:36:57Z",
+      "side": 1,
+      "message": "I would remove one of the \u0027\\n\u0027, as you have only placed two \u0027\\n\u0027 after the other subtitles. I would remove the one, that is part of \u0027\\nCyanogenMod\\\u0027s\u0027.",
+      "revId": "932147d1fade3b24780734312653f27f42e6d5e6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
