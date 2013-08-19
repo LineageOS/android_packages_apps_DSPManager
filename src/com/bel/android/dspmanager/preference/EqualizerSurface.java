@@ -66,13 +66,13 @@ public class EqualizerSurface extends SurfaceView {
 		mFrequencyResponseHighlight = new Paint();
 		mFrequencyResponseHighlight.setStyle(Style.STROKE);
 		mFrequencyResponseHighlight.setStrokeWidth(6);
-		mFrequencyResponseHighlight.setColor(0x20ffffff);
+		mFrequencyResponseHighlight.setColor(0x2000ddff);
 		mFrequencyResponseHighlight.setAntiAlias(true);
 
 		mFrequencyResponseHighlight2 = new Paint();
 		mFrequencyResponseHighlight2.setStyle(Style.STROKE);
 		mFrequencyResponseHighlight2.setStrokeWidth(3);
-		mFrequencyResponseHighlight2.setColor(0x40ffffff);
+		mFrequencyResponseHighlight2.setColor(0x4033b5e5);
 		mFrequencyResponseHighlight2.setAntiAlias(true);
 	}
 
@@ -115,37 +115,26 @@ public class EqualizerSurface extends SurfaceView {
 		return (int) Math.min(255, Math.max(0, Math.round(255 * Math.pow(intensity, 1/2.2) / alpha)));
 	}
 
-	/**
-	 * Compose ARGB color from linear-light intensity and alpha assuming
-	 * black background.
-	 *
-	 * @param r
-	 * @param g
-	 * @param b
-	 * @param a
-	 * @return ARGB int32
-	 */
-	private static int color(float r, float g, float b, float a) {
-		int color = Math.round(a * 255) << 24;
-		color |= gamma(r, a) << 16;
-		color |= gamma(g, a) << 8;
-		color |= gamma(b, a);
-		return color;
-	}
-
 	@Override
 	protected void onLayout(boolean changed, int left, int top, int right, int bottom) {
 		super.onLayout(changed, left, top, right, bottom);
 
 		mWidth = right - left;
 		mHeight = bottom - top;
-		float barWidth = (mWidth/(mLevels.length+1)) / 6f;
+		float barWidth = (mWidth/(mLevels.length+1)) / 12f;
 		mControlBar.setStrokeWidth(barWidth);
-		mControlBarKnob.setShadowLayer(barWidth * 0.5f, 0, 0, 0xffffffff);
+		mControlBarKnob.setShadowLayer(barWidth * 0.5f, 0, 0, 0xffdedede);
 		mFrequencyResponseBg.setShader(new LinearGradient(0, 0, 0, mHeight,
-				new int[] { color(0.20f, 0, 0, 0.5f), color(0.05f, 0.05f, 0, 0.5f),
-							color(0, 0.02f, 0, 0.5f), color(0, 0.01f, 0, 0.5f) },
-				new float[] { 0.00f, 0.25f, 0.50f, 1.00f },
+				/**
+				 * red > +7
+				 * yellow > +3
+				 * holo_blue_bright > 0
+				 * holo_blue < 0
+				 * holo_blue_dark < 3
+				 */
+				new int[] { 0x80ff0000, 0x80f0ff00, 0x8000ddff,
+							 0x8033b5e5, 0x800099cc },
+				new float[] { 0, 0.2f, 0.45f, 0.6f, 1f },
 				Shader.TileMode.CLAMP));
 		mControlBar.setShader(new LinearGradient(0, 0, 0, mHeight,
 				new int[] { 0xffccffff, 0x44ccffff },
