@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baee8101_2aa7f350",
+        "filename": "res/values/colors.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-08-21T01:22:51Z",
+      "side": 1,
+      "message": "Can you kill the trailing whitespace here and below?",
+      "revId": "f34cb0e11ab5ca45b9569ca077a8bc4c66a23cba",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baee8101_ea67ab23",
+        "filename": "res/values/dimens.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-08-21T01:22:51Z",
+      "side": 1,
+      "message": "More trailing whitespace.",
+      "revId": "f34cb0e11ab5ca45b9569ca077a8bc4c66a23cba",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baee8101_ca6ce70a",
+        "filename": "src/com/bel/android/dspmanager/preference/EqualizerSurface.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 143,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-08-21T01:22:51Z",
+      "side": 1,
+      "message": "It would probably become more readable to do a \u0027final Resources res \u003d getResources();\u0027 above and using that here.",
+      "revId": "f34cb0e11ab5ca45b9569ca077a8bc4c66a23cba",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
