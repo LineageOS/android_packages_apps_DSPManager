@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baee8101_a15e6143",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 143,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2013-08-23T00:06:11Z",
+      "side": 1,
+      "message": "Der Filter veraendert Mono-Signale nicht. Fuer Stereo-Signale wird das Differenzsignal durch einen Tiefpassfilter beeinflusst.\n\n[...]Laufzeitdifferenz, um[...]",
+      "revId": "5a4a794e88c480628e0f11a2e79f6d24d9b5953d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
