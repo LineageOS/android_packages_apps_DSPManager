@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baee8101_0283eccd",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 143,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2013-08-23T17:27:52Z",
+      "side": 1,
+      "message": "jetzt passt der Nebensatz gar nicht mehr -\u003e laesst unveraendert und beeinflusst????\n\nSiehe Kommentar zu PS2, dass die Beeinflussung sich auf das Stereo-Signal bezieht. Eventuell kann der Satz voellig anders aufgebaut werden, z.B.\n\nDieser (Tiefepass)filter beeinflusst ausschliesslich das Stereo-Signal...",
+      "revId": "6d881343306599b42f71dafc623a485b9c19e982",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
