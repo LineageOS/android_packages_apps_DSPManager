@@ -16,6 +16,24 @@
       "revId": "6d881343306599b42f71dafc623a485b9c19e982",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baee8101_6baa9372",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 143,
+      "author": {
+        "id": 1053
+      },
+      "writtenOn": "2013-08-25T02:50:17Z",
+      "side": 1,
+      "message": "Ich habe das um ehrlich zu sein so verstanden, dass es immer um Stereosignale geht. Die Monoanteile werden nicht veraendert, sondern nur die Stereoanteile werden durch den Filter veraendert.",
+      "parentUuid": "baee8101_0283eccd",
+      "revId": "6d881343306599b42f71dafc623a485b9c19e982",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
