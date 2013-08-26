@@ -34,6 +34,24 @@
       "revId": "6d881343306599b42f71dafc623a485b9c19e982",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baee8101_a9be40fd",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 143,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2013-08-26T19:34:18Z",
+      "side": 1,
+      "message": "Wir sollten Danny \u0026 Co befragen. :-)",
+      "parentUuid": "baee8101_6baa9372",
+      "revId": "6d881343306599b42f71dafc623a485b9c19e982",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
