@@ -52,6 +52,24 @@
       "revId": "6d881343306599b42f71dafc623a485b9c19e982",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baee8101_693738b1",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 143,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-08-26T19:39:56Z",
+      "side": 1,
+      "message": "Wie waehre es mit:\n\nEr laesst Monosignale unveraendert passieren; lediglich das Differenzsignal wird durch einen [Anm.: oder mittels eines] Tiefpass beeinflusst. Dieser Tiefpass...",
+      "parentUuid": "baee8101_a9be40fd",
+      "revId": "6d881343306599b42f71dafc623a485b9c19e982",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
