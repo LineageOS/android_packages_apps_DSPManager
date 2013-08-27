@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9af37de9_0f1a056f",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 143,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-08-27T18:25:12Z",
+      "side": 1,
+      "message": "...mittels eines Tiefpass... oder ...mittels eines Tiefpasses...? Ich tendiere zu letzterem.",
+      "revId": "98f79fc1a8bacf5e9bfa705d75c114c0024a41d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
