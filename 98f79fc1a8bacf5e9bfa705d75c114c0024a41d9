@@ -16,6 +16,24 @@
       "revId": "98f79fc1a8bacf5e9bfa705d75c114c0024a41d9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9af37de9_6f6d1132",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 143,
+      "author": {
+        "id": 4977
+      },
+      "writtenOn": "2013-08-27T21:03:25Z",
+      "side": 1,
+      "message": "Tiefpassfilters. Tiefpass(es) klingt nach Fussball. :-D",
+      "parentUuid": "9af37de9_0f1a056f",
+      "revId": "98f79fc1a8bacf5e9bfa705d75c114c0024a41d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
