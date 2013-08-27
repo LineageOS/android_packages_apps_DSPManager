@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "9af37de9_cff2bd6f",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 129,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-08-27T22:30:20Z",
+      "side": 1,
+      "message": "Ja, definitiv. Entweder \u0027...erzeugt. Dabei...\u0027 oder \u0027...erzeugt; dabei...\u0027 oder \u0027...erzeugt, wobei versucht wird, ...\u0027",
+      "parentUuid": "9af37de9_0fe205a0",
+      "revId": "98f79fc1a8bacf5e9bfa705d75c114c0024a41d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9af37de9_0f1a056f",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 4
