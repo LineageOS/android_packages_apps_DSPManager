@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "9af37de9_0fe205a0",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 129,
+      "author": {
+        "id": 7215
+      },
+      "writtenOn": "2013-08-27T22:27:59Z",
+      "side": 1,
+      "message": "Muesste beim ersten Satz am Ende nicht ein Punkt anstatt eines Kommas sein?",
+      "revId": "98f79fc1a8bacf5e9bfa705d75c114c0024a41d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9af37de9_0f1a056f",
         "filename": "res/values-de/strings.xml",
         "patchSetId": 4
