@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9af37de9_f23686b3",
+        "filename": "res/values-sk/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-08-28T02:05:01Z",
+      "side": 1,
+      "message": "Many trailing spaces here...",
+      "revId": "9b62ed642650652df24eb96e886686a4b975dd4f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
