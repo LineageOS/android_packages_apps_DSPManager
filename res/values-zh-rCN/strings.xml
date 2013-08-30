@@ -5,11 +5,13 @@
     <string name="headset_title">耳机</string>
     <string name="speaker_title">扬声器</string>
     <string name="bluetooth_title">蓝牙</string>
+    <string name="usb_title">USB/底座</string>
     <string name="audio_effects">音效</string>
     <string name="pref_unavailable">此功能在您的设备上不可用</string>
     <string name="dsp_settings_headset">DSP 设置 - 耳机</string>
     <string name="dsp_settings_speaker">DSP 设置 - 电话扬声器</string>
     <string name="dsp_settings_bluetooth">DSP 设置 - 蓝牙设备</string>
+    <string name="dsp_settings_usb">DSP 设置 - USB 设备</string>
     <string name="dsp_settings_wm8994">DSP设置 - WM8994</string>
     <string name="pref_dsp_title">动态范围压缩</string>
     <string name="pref_dsp_summary_on">启用压缩</string>
@@ -102,7 +104,7 @@
 \n<b>目标</b>
 \n
 \nCyanogenMod 的音频处理支持三种输出类别:
-有线耳机, 扬声器, 与蓝牙耳机.  每一个输出类别拥有自己特定的面板.  DSP 管理器的目标是为了纠正每个输出类别拥有的缺陷, 以便带来最好的音效体验.
+有线耳机, USB 音频, 扬声器, 与蓝牙耳机.  每一个输出类别拥有自己特定的面板.  DSP 管理器的目标是为了纠正每个输出类别拥有的缺陷, 以便带来最好的音效体验.
 \n
 \n与 AOSP 音效不同的一点就是这里没有给每个程序单独设置的功能. 这是一个刻意的设计: 我们仅关心音频的输出, 不关心与 DSP 管理器协作的程序.
 
