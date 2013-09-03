@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1adf8d57_abaf697c",
+        "filename": "res/values-zh-rCN/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 89,
+      "author": {
+        "id": 3589
+      },
+      "writtenOn": "2013-09-03T04:23:22Z",
+      "side": 1,
+      "message": "It\u0027s \"jiao gao\", not \"jiao di\" here. Could you fix this for me please?",
+      "revId": "8f05f4a14e6254cdce21250207e39d283f117a8a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
