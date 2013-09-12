@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a0c5dc1_b09ebe05",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-09-12T06:46:02Z",
+      "side": 1,
+      "message": "? ???? ???????? ??? ??????? ???? ??.",
+      "revId": "42cc8f12436570e52b98bb5cd083bb84c21d1283",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a0c5dc1_d0993221",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-09-12T06:46:02Z",
+      "side": 1,
+      "message": "«\u0026#8220;» ? «\u0026#8221;» — ??? ???? ???? ??????? (?????????? :D) ???????, ??? ?????-?? ????",
+      "revId": "42cc8f12436570e52b98bb5cd083bb84c21d1283",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a0c5dc1_f09436e9",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 123,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-09-12T06:46:02Z",
+      "side": 1,
+      "message": "«??? 6-???????? ??????????» (?????? ???-?? ???????????)",
+      "revId": "42cc8f12436570e52b98bb5cd083bb84c21d1283",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a0c5dc1_10f90a4e",
+        "filename": "res/values-ru/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 129,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-09-12T06:46:02Z",
+      "side": 1,
+      "message": "????? ????? ??? ???????? ???????????????? ??????? («??????», «?????? ??? ?????????», «??? ???????», …)\n\n??, ???, ???????.",
+      "revId": "42cc8f12436570e52b98bb5cd083bb84c21d1283",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
