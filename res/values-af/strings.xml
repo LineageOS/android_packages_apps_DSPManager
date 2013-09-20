@@ -6,12 +6,14 @@
     <string name="headset_title">Oorfone</string>
     <string name="speaker_title">Luidspreker</string>
     <string name="bluetooth_title">Bluetooth</string>
+    <string name="usb_title">USB/Dok</string>
     <string name="audio_effects">Klank effekte</string>
     <string name="pref_unavailable">Nie beskikbaar op toestel nie</string>
 
     <string name="dsp_settings_headset">DSV instellings - Oorfone</string>
     <string name="dsp_settings_speaker">DSV instellings - Luidspreker</string>
     <string name="dsp_settings_bluetooth">DSV instellings - Bluetooth</string>
+    <string name="dsp_settings_usb">DSV instellings - USB toestel</string>
     <string name="dsp_settings_wm8994">DSV instellings - WM8994</string>
     <string name="pref_dsp_title">Dinamiese bereik kompressie</string>
     <string name="pref_dsp_summary_on">Kompressie geaktiveer</string>
