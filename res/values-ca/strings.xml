@@ -104,7 +104,6 @@
     <string name="pref_wm8994_adc_osr128_summary">Convertidor Analògic-a-digital 128x de sobremostreig &#8212; millora la qualitat de les gravacions</string>
     <string name="pref_wm8994_fll_tuning_title">Ajusta el rellotge sonor</string>
     <string name="pref_wm8994_fll_tuning_summary">Utilitza un rellotge sonor WM8994 &#8212; millora la qualitat del so</string>
-
     <string name="help_title">Ajuda</string>
     <string name="help_text"><b>Què és el gestor DSP?</b>
 \n\n
@@ -142,5 +141,5 @@ La compensació s\'afegeix als ajustaments escollits per l\'usuari. Si només es
 \n\n
 El filtre d\'auriculars és un disseny inspirat en el famós circuit analògic bs2b. Aquest efecte passa el so mono inalterat, i ajusta la diferència de senyal a través d\'un filtre de pas baix que aproxima l\'ombra del cap i el retard interaural a la vegada, donant les pistes psico-acústiques adequades a les orelles de l\'usuari. La intenció és prevenir a la fatiga de l\'oient derivada de la separació implausible de l\'estèreo inherent de tots els auriculars. Aquest efecte hauria d\'estar activat sempre que s\'utilitzin auriculars estèreo.
 \n\n
-Com que la mescla redueix la separació estèreo fins a cert punt, hi ha un efecte reverberació Haas, que pot ser utilitzat per incrementar l\'amplada de la imatge estèreo percebuda. Això es regula pel control \'Tipus d\'habitació\'. </string>
+Com que la mescla redueix la separació estèreo fins a cert punt, hi ha un efecte reverberació Haas, que pot ser utilitzat per incrementar l\'amplada de la imatge estèreo percebuda. Això es regula pel control \'Tipus d\'habitació\'.</string>
 </resources>
