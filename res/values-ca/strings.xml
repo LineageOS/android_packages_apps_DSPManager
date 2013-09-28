@@ -26,7 +26,7 @@
     <string name="dsp_settings_headset">Configuració DSP - Auriculars</string>
     <string name="dsp_settings_speaker">Configuració DSP - Altaveu del telèfon</string>
     <string name="dsp_settings_bluetooth">Configuració DSP - Dispositiu Bluetooth</string>
-    <string name="dsp_settings_usb">Configuració DSP - dispositiu USB</string>
+    <string name="dsp_settings_usb">Configuració DSP - Dispositiu USB</string>
     <string name="dsp_settings_wm8994">Configuració DSP - WM8994</string>
     <string name="pref_dsp_title">Compressió del rang dinàmic</string>
     <string name="pref_dsp_summary_on">La compressió està habilitada</string>
@@ -99,7 +99,7 @@
     <string name="pref_wm8994_dac_direct_title">Directe D/AC</string>
     <string name="pref_wm8994_dac_direct_summary">Accedeix al convertidor digital/analògic directament, saltant el mesclador de canals. Produeix un so més net (relació senyal-soroll més alta)</string>
     <string name="pref_wm8994_dac_osr128_title">Reproducció Hi-fi</string>
-    <string name="pref_wm8994_dac_osr128_summary">Convertidor Digital-a-analògic 128x de sobremostreig &#8212; cleaner sound when playing music</string>
+    <string name="pref_wm8994_dac_osr128_summary">Convertidor Digital-a-analògic 128x de sobremostreig &#8212; so més net quan es reprodueix música</string>
     <string name="pref_wm8994_adc_osr128_title">Gravació Hi-fi</string>
     <string name="pref_wm8994_adc_osr128_summary">Convertidor Analògic-a-digital 128x de sobremostreig &#8212; millora la qualitat de les gravacions</string>
     <string name="pref_wm8994_fll_tuning_title">Ajusta el rellotge sonor</string>
@@ -112,8 +112,7 @@ El gestor DSP és una app d\'ajustament de so per cada sortida. <i>DSP</i> es re
 \n\n\n
 <b>Filosofia</b>
 \n\n
-EL processament de so de CyanogenMod suporta quatre categories de sortida diferents:
-auriculars amb cable, so USB, altaveu del telèfon i auriculars bluetooth. Hi ha un panell de configuració separada per a cada tipus de sortida. La filosofia del gestor DSP és corregir les deficiencies concretes de cada tipus de sortida per aconseguir la millor experiencia d\'audició amb cada una.
+EL processament de so de CyanogenMod suporta quatre categories de sortida diferents: auriculars amb cable, so USB, altaveu del telèfon i auriculars bluetooth. Hi ha un panell de configuració separada per a cada tipus de sortida. La filosofia del gestor DSP és corregir les deficiencies concretes de cada tipus de sortida per aconseguir la millor experiencia d\'audició amb cada una.
 \n\n
 A diferència dels efectes de so AOSP, no hi ha ajustos específics per a cada app. Això ha estat una decisió intencionada del disseny: és la sortida el que ens preocupa, no quina app genera el so amb el qual el gestor DSP treballarà.
 \n\n\n
@@ -131,10 +130,9 @@ L\'amplificació de greus és un simple filtre de pas que pot ser utilitzat per 
 \n\n\n
 3. <b>Equalitzador</b>
 \n\n
-Aquest és un equalitzador de 6-bandes amb bandes a 16, 64, 250, 1000, 4000 i 16000 Hz.
-Es proveeixen algunes presintonies habituals, i la freqüència de resposta també pot ser personalitzada picant sobre la gràfica de l\'equalitzador. L\'efecte hauria de ser utilitzat per optimitzar la freqüència de resposta al gust personal de l\'usuari, o per a les característiques particulars dels altaveus o auriculars disponibles.
+Aquest és un equalitzador de 6-bandes amb bandes a 16, 64, 250, 1000, 4000 i 16000 Hz. Es proveeixen algunes presintonies habituals, i la freqüència de resposta també pot ser personalitzada picant sobre la gràfica de l\'equalitzador. L\'efecte hauria de ser utilitzat per optimitzar la freqüència de resposta al gust personal de l\'usuari, o per a les característiques particulars dels altaveus o auriculars disponibles.
 \n\n
-L\'equalitzador també conté un filtre de compensació de greus, que equalitza els canvis en la reposta de la freqüència auditiva basat en el nivell de pressió sonora que arriba a l\'orella de l\'usuari. És necessari l\'us d'uns auriculars amb cable, i el paràmetre de del valor de potència s\'ha d\'haver ajustat correctament abans que l\'efecte funcioni com està dissenyat.
+L\'equalitzador també conté un filtre de compensació de greus, que equalitza els canvis en la reposta de la freqüència auditiva basat en el nivell de pressió sonora que arriba a l\'orella de l\'usuari. És necessari l\'us d\'uns auriculars amb cable, i el paràmetre de del valor de potència s\'ha d\'haver ajustat correctament abans que l\'efecte funcioni com està dissenyat.
 \n\n
 Per a seleccionar el valor adequat per a la compensació de potència, utilitza el volum de música més silenciós, i escull un espectre ampli de música sorollosa com ara rock o metal. Intenta trobar l\'ajust on els greus s\'amplifiquen audiblement i semblen equilibrats amb la resta del material. Després que la compensació s\'hagi configurat correctament, els greus haurien de mantenir-se al mateix nivell relatiu a altres instruments independentment del volum d\'audició. D\'altra banda, si la música comença a fer notar els greus en els volums més alts, la compensació estarà establerta massa forta, i s\'haurà de reduir.
 \n\n
@@ -142,7 +140,7 @@ La compensació s\'afegeix als ajustaments escollits per l\'usuari. Si només es
 \n\n\n
 4. <b>Filtre d\'auriculars</b>
 \n\n
-El filtre d\'auriculars és un disseny inspirat en el famós circuit analògic bs2b. Aquest efecte passa el so mono inalterat, i ajusta la diferència de senyal a través d\'un filtre de pas baix que aproxima l\'ombra del cap i el retard interaural a la vegada, donant les pistes psychoacústiques adequades a les orelles de l\'usuari. La intenció és prevenir a la fatiga de l\'oient derivada de la separació implausible de l\'estèreo inherent de tots els auriculars. Aquest efecte hauria d\'estar activat sempre que s\'utilitzin auriculars estèreo.
+El filtre d\'auriculars és un disseny inspirat en el famós circuit analògic bs2b. Aquest efecte passa el so mono inalterat, i ajusta la diferència de senyal a través d\'un filtre de pas baix que aproxima l\'ombra del cap i el retard interaural a la vegada, donant les pistes psico-acústiques adequades a les orelles de l\'usuari. La intenció és prevenir a la fatiga de l\'oient derivada de la separació implausible de l\'estèreo inherent de tots els auriculars. Aquest efecte hauria d\'estar activat sempre que s\'utilitzin auriculars estèreo.
 \n\n
 Com que la mescla redueix la separació estèreo fins a cert punt, hi ha un efecte reverberació Haas, que pot ser utilitzat per incrementar l\'amplada de la imatge estèreo percebuda. Això es regula pel control \'Tipus d\'habitació\'. </string>
 </resources>
