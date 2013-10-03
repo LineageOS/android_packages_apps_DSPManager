@@ -173,6 +173,7 @@ public class HeadsetService extends Service {
     public void onCreate() {
         super.onCreate();
         Log.i(TAG, "Starting service.");
+        startForeground(0, null);
 
         IntentFilter audioFilter = new IntentFilter();
         audioFilter.addAction(AudioEffect.ACTION_OPEN_AUDIO_EFFECT_CONTROL_SESSION);
@@ -193,6 +194,7 @@ public class HeadsetService extends Service {
     public void onDestroy() {
         super.onDestroy();
         Log.i(TAG, "Stopping service.");
+	stopForeground(true);
 
         unregisterReceiver(mAudioSessionReceiver);
         unregisterReceiver(mRoutingReceiver);
