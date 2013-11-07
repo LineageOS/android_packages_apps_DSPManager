@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="microphone_recording_presets">
+    <item>Originalas</item>
+    <item>Balansas</item>
+    <item>Didelis jautrumas</item>
+    <item>Garsi aplinka</item>
+  </string-array>
+  <string-array name="headphone_modes">
+    <item>Studija</item>
+    <item>Kambarys</item>
+    <item>Didelis kambarys</item>
+    <item>Scena</item>
+  </string-array>
+  <string-array name="equalizer_loudness_modes">
+    <item>Išjungta</item>
+    <item>Silpniausias</item>
+    <item>Silpnesnis</item>
+    <item>Silpnas</item>
+    <item>Stiprus</item>
+    <item>Stipresnis</item>
+    <item>Stipriausias</item>
+  </string-array>
+  <string-array name="compression_modes">
+    <item>Nežymus</item>
+    <item>Vidutinis</item>
+    <item>Stiprus</item>
+  </string-array>
+  <string-array name="bassboost_modes">
+    <item>Nežymus</item>
+    <item>Vidutinis</item>
+    <item>Stiprus</item>
+  </string-array>
+  <string-array name="wm8994_bassboost_modes">
+    <item>Standartas</item>
+    <item>Maži garsiakalbiai</item>
+  </string-array>
+</resources>
