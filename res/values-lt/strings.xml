@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">DSP Vadybininkas</string>
+    <string name="select_configuration_title">Pasirinkite redaguoti konfigūraciją</string>
+    <string name="headset_title">Laisvų rankų įranga</string>
+    <string name="speaker_title">Garsiakalbis</string>
+    <string name="bluetooth_title">Bluetooth</string>
+    <string name="usb_title">USB/Dokas</string>
+    <string name="audio_effects">Garso efektai</string>
+    <string name="pref_unavailable">Funkcionalumas nėra prieinamas jūsų prietaise</string>
+    <string name="dsp_settings_headset">DSP nustatymai - Laisvų rankų įranga</string>
+    <string name="dsp_settings_speaker">DSP nustatymai - Telefono garsiakalbis</string>
+    <string name="dsp_settings_bluetooth">DSP nustatymai - Bluetooth prietaisas</string>
+    <string name="dsp_settings_usb">DSP nustatymai - USB prietaisas</string>
+    <string name="dsp_settings_wm8994">DSP nustatymai - WM8994</string>
+    <string name="pref_dsp_title">Dinaminis diapazono suspaudimas</string>
+    <string name="pref_dsp_summary_on">Suspaudimas yra įjungtas</string>
+    <string name="pref_dsp_summary_off">Suspaudimas yra išjungtas</string>
+    <string name="pref_dsp_enable">Įjungti</string>
+    <string name="pref_effect_title">Pasirinkite poveikio stiprumą</string>
+    <string name="dialog_effect">Poveikio stiprumas</string>
+    <string name="pref_equalizer_title">Ekvalaizeris</string>
+    <string name="pref_equalizer_summary_on">Ekvalaizeris yra įjungtas</string>
+    <string name="pref_equalizer_summary_off">Ekvalaizeris yra išjungtas</string>
+    <string name="pref_equalizer_enable">Įjungti</string>
+    <string name="pref_equalizer_preset_title">Pasirinkite iš anksto nustatytus</string>
+    <string name="pref_equalizer_loudness_title">Garsumo kompensacija</string>
+    <string name="pref_bassboost_title">Žemų dažnių stiprintuvas</string>
+    <string name="pref_bassboost_summary_on">Žemų dažnių stiprintuvas yra įjungtas</string>
+    <string name="pref_bassboost_summary_off">Žemų dažnių stiprintuvas yra išjungtas</string>
+    <string name="pref_bassboost_enable">Įjungti</string>
+    <string name="pref_headset_virtual_title">Laisvų rankų įrangos virtualaus kambario efektas</string>
+    <string name="pref_headset_virtual_summary_on">Laisvų rankų įrangos virtualus kamabarys yra įjungtas</string>
+    <string name="pref_headset_virtual_summary_off">Laisvų rankų įrangos virtualus kamabarys yra išjungtas</string>
+    <string name="pref_headset_virtual_enable">Įjungti</string>
+    <string name="pref_room_title">Pasirinkite kambario tipą</string>
+    <string name="dialog_room">Kambario tipas</string>
+    <string name="menu_reset">Atstatyti</string>
+    <string name="eq_preset_acoustic">Akustinis</string>
+    <string name="eq_preset_bass_booster">Žemų dažnių stiprintuvas</string>
+    <string name="eq_preset_bass_reducer">Žemų dažnių mažintuvas</string>
+    <string name="eq_preset_classical">Klasikinis</string>
+    <string name="eq_preset_deep">Gilus</string>
+    <string name="eq_preset_flat">Lygus</string>
+    <string name="eq_preset_r_and_b">R&amp;B</string>
+    <string name="eq_preset_rock">Rokas</string>
+    <string name="eq_preset_small_speakers">Maži garsiakalbiai</string>
+    <string name="eq_preset_treble_booster">Aukštų dažnių stiprintuvas</string>
+    <string name="eq_preset_treble_reducer">Aukštų dažnių mažintuvas</string>
+    <string name="eq_preset_vocal_booster">Vokalo stiprintuvas</string>
+    <string name="eq_preset_custom">Individualus</string>
+    <string name="category_wm8994_internal_speaker">Garsiakalbis</string>
+    <string name="category_wm8994_signal_processing">Signalo apdorojimas</string>
+    <string name="category_wm8994_headphone_amp">Laisvų rankų įranga</string>
+    <string name="category_wm8994_codec_optimization">Kodeko optimizavimas</string>
+    <string name="category_wm8994_dac_config">Skaitmeninio/analoginio keitiklio nustatymai</string>
+    <string name="category_wm8994_analog_path">Analoginio kelio konfigūracija</string>
+    <string name="category_wm8994_mic_settings">Mikrofono nustatymai</string>
+    <string name="category_wm8994_microphone_recording">Mikrfonas</string>
+    <string name="wm8994_settings_title_head">Garso nustatymai</string>
+    <string name="wm8994_settings_title_subhead">Garso nustatymai</string>
+    <string name="wm8994_settings_summary_head">Išplėstinė WM8994 garso procesoriaus kontrolė</string>
+    <string name="pref_wm8994_microphone_recording_title">Įrašymo nustatytieji</string>
+    <string name="pref_wm8994_headphone_amp_title">Stiprintuvo lygis</string>
+    <string name="pref_wm8994_headphone_amp_summary">Tinkinti analoginį pelną</string>
+    <string name="pref_wm8994_headphone_amp_dlg_title">Laisvų rankų įrangos stiprintuvo lygis</string>
+    <string name="pref_wm8994_headphone_amp_dlg_desc">Analoginis pelnas</string>
+    <string name="pref_wm8994_bass_boost_enable_title">Žemų dažnių stiprintuvas</string>
+    <string name="pref_wm8994_bass_boost_enable_summary">Išplėstinė žemų dažnių stiprintuvo kontrolė</string>
+    <string name="pref_wm8994_bass_boost_title">Žemų dažnių diapazonas</string>
+    <string name="pref_wm8994_bass_boost_summary">Išplėstinis dinaminio diapazono valdymas</string>
+    <string name="pref_wm8994_bass_boost_preset_title">Žemų dažnių nustatytieji</string>
+    <string name="pref_wm8994_bass_boost_dlg_title">Žemi dažniai</string>
+    <string name="pref_wm8994_bass_boost_gain_dlg_desc">Pelnas</string>
+    <string name="pref_wm8994_bass_boost_range_dlg_desc">Žemų dažnių diapazonas</string>
+    <string name="pref_wm8994_control_enable_title">Įjungti WM8994 Valdymą</string>
+    <string name="pref_wm8994_control_enable_summary">Išplėstinė WM8994 garso procesoriaus kontrolė</string>
+    <string name="pref_wm8994_speaker_tuning_title">Muzikos derinimas</string>
+    <string name="pref_wm8994_speaker_tuning_summary">Perkonfiguruoja aparatūros Ekvalaizerį dėl daugiau boso ir subalansuoto garso</string>
+    <string name="pref_wm8994_mono_downmix_title">Mono konvertavimas</string>
+    <string name="pref_wm8994_mono_downmix_summary">Konvertuoti stereo garsą į mono (dėl stereo išėjimų, pavyzdžiui, ausines)</string>
+    <string name="pref_wm8994_stereo_expansion_title">Stereo plėtra</string>
+    <string name="pref_wm8994_stereo_expansion_summary">Išplėsti stereo garsą per skaitmeninių signalų apdorojimą</string>
+    <string name="pref_wm8994_dac_direct_title">Tiesioginis D/AC</string>
+    <string name="pref_wm8994_dac_direct_summary">Gaukite skaitmeninį/analoginį keitiklį tiesiogiai, aplenkiant kanalų mikserį. Gamina švaresnį garsą (didesnis signalo ir trukšmo santykis)</string>
+    <string name="pref_wm8994_dac_osr128_title">Hi-fi atkūrimas</string>
+    <string name="pref_wm8994_dac_osr128_summary">Skaitmeninis-analoginis keitiklis 128x perviršinė atskaita - švaresnis garsas, kai groja muzika</string>
+    <string name="pref_wm8994_adc_osr128_title">Hi-fi įrašymas</string>
+    <string name="pref_wm8994_adc_osr128_summary">Analoginis-skaitmeninis keitiklis 128x perviršinė atskaita - didina įrašų kokybę</string>
+    <string name="pref_wm8994_fll_tuning_title">Sureguliuoti garso laikrodį</string>
+    <string name="pref_wm8994_fll_tuning_summary">Naudokite seruguliuotą WM8994 garso laikrodžio šaltinį - gerina garso kokybę</string>
+    <string name="help_title">Vartotojo vadovas</string>
+    <string name="help_text"><b>Kas yra DSP Vadybininkas?</b>
+\n\n
+DSP Vadovas yra garso išvesties koregavimo programa. DSP reiškia skaitmenininių signalų apdorojimą.
+\n\n
+<b>Filosofija</b>
+\n\n
+CyanogenMod garso apdorojimas palaiko keturias skirtingas išvesties kategorijas: laidines ausines, USB garsą, telefono garsiakalbį ir Bluetooth ausines. Yra atskiras konfigūracijų skydelis kiekvieno išėjimo kategorijoje. DSP Vadybininko filosofija yra ištaisyti kiekvieną garso išvestį, konkrečių trūkumų. norint pasiekti labiausiai optimalią klausymosi patirtį su kiekvienu.
+\n\n
+<b>Savybės</b>
+\n\n
+1. <b>Dinaminis diapazono suspaudimas (DRC)</b>
+\n\n
+Šis poveikis apskaičiuoja garso garsumą kaip suvokia vidutinis klausytojas ir programa įgyja kontrolę remiantis šia sąmata. Pagrindinio naudojimo atveju triukšmingose aplinkose tokiose kaip automobilių ar gatvių, kur ramioje muzikos dalyje yra pavojus jog muzika bus paskendusi dėl foninio triukšmo.
+\n\n
+Vienintelis derinimas nustato kaip sunkiai DSP Valdytojas stengiasi išlaikyti garso garsumą ne tikslinio lygio.
+\n\n
+2. <b>Žemi dažniai</b>
+\n\n
+Žemi dažniai yra paprastas žemų dažnių filtras kuris gali būti naudojamas pridėti daugiau negu 55 Hz ir žemesnius dažnius, padidinti maždaug 6 dB ir keisti naudojant stiprumo parametru kuris prideda filtro rezonansą ties 55 Hz juostoje, suteikiant kad dažnis gaus papildomą dėmesį. Poveikis yra skirtas kovoti su boso nuostoliais.
+\n\n
+3. <b>Ekvalaizeris</b>
+\n\n
+Tai 6 juostų ekvalaizeris su juostomis 16, 64, 250, 1000, 4000, ir 16000 Hz. Poveikis turėtų būti naudojamas suderinti dažnio atsakus dėl vartotojo asmeninio skonio arba pagal turimas ausines ar garsiakalbius.
+\n\n
+Tinkamai sukonfigūruotas bosas turėtų išlikti tame pačiame lygyje, palyginus su kitais instrumentais, nepriklausomai nuo klausymosi lygio. Kita vertus jei muzika pradeda skambėti su pernelyg daug žemų dažnių klausantis aukštesniu klausymosi lygiu, kompensacija tikriausiai yra nustatyta per stripri ir turėtų būti sumažinta.
+\n\n
+Kompensacija pridedama prie vartotojo pasirinktų koregavimų. Jei tik kompensacija norima, ekvalaizeris turėtų būti paliktas "Lygus" nustatymuose.
+\n\n
+4. <b>Laisvų rankų įrangos filtras</b>
+\n\n
+Siekiama užkirsti kelią klausytojo nuovargiui atsirandančiam nuo neįtikętinos aparatūros atsyskirimo, būdinga visoms ausinėms. Poveikis turėtų būti įjungtas kai naudojamos stereo ausinės.</string>
+</resources>
