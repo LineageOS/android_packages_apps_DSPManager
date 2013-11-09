@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa1b9901_8477e7d3",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 7638
+      },
+      "writtenOn": "2013-11-09T00:57:34Z",
+      "side": 1,
+      "message": "Empty strings and comments should be removed.",
+      "revId": "9db16446509c1f2197c7c596469b61df40fb8c38",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa1b9901_c46cff0a",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 7638
+      },
+      "writtenOn": "2013-11-09T00:57:34Z",
+      "side": 1,
+      "message": "CM vertim? filosofija vertimuose prašo nepalikti tuš?i? eilu?i?, nors šaltinyje ir yra. Tai ištrinti reikt?.",
+      "revId": "9db16446509c1f2197c7c596469b61df40fb8c38",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa1b9901_e47103e2",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 7638
+      },
+      "writtenOn": "2013-11-09T00:57:34Z",
+      "side": 1,
+      "message": "Komentarai irgi trintini.",
+      "revId": "9db16446509c1f2197c7c596469b61df40fb8c38",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
