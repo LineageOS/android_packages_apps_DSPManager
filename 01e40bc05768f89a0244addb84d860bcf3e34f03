@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da20952f_9cfd0971",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 7905
+      },
+      "writtenOn": "2013-11-15T09:55:32Z",
+      "side": 1,
+      "message": "prie kur eit nereikia? ?ia ne Maxima, kur prieinamos prek?s, ?ia ?renginys. Funkcija veikia arba neveikia, j? kartais galima ?jungti ar išjungti.",
+      "revId": "01e40bc05768f89a0244addb84d860bcf3e34f03",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da20952f_bc024d6e",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 7905
+      },
+      "writtenOn": "2013-11-15T09:55:32Z",
+      "side": 1,
+      "message": "aklas google translate?",
+      "revId": "01e40bc05768f89a0244addb84d860bcf3e34f03",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da20952f_5cf8d17c",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 7905
+      },
+      "writtenOn": "2013-11-15T09:55:32Z",
+      "side": 1,
+      "message": "aklas google translate?",
+      "revId": "01e40bc05768f89a0244addb84d860bcf3e34f03",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
