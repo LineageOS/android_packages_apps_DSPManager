@@ -1,0 +1,208 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da20952f_022bd083",
+        "filename": "res/values-lt/arrays.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 7905
+      },
+      "writtenOn": "2013-11-16T10:10:39Z",
+      "side": 1,
+      "message": "Silpnas",
+      "revId": "80827b81b2c87e639d6caea8251f08d7ab414756",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da20952f_a21f845a",
+        "filename": "res/values-lt/arrays.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 7905
+      },
+      "writtenOn": "2013-11-16T10:10:39Z",
+      "side": 1,
+      "message": "Standartinis",
+      "revId": "80827b81b2c87e639d6caea8251f08d7ab414756",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da20952f_226294d9",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 7905
+      },
+      "writtenOn": "2013-11-16T10:10:39Z",
+      "side": 1,
+      "message": "garso laikrodžio šaltin?? kas tas?",
+      "revId": "80827b81b2c87e639d6caea8251f08d7ab414756",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da20952f_62688cbb",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 7905
+      },
+      "writtenOn": "2013-11-16T10:10:39Z",
+      "side": 1,
+      "message": "nu kam tas \"yra\"? tai barbarizmas. lietuvi? kalboje vartotinas \"tai\". Paži?r?k kaip pakeitus gerai sakinys skamba.\nnegerai, bet nu tiek to...",
+      "revId": "80827b81b2c87e639d6caea8251f08d7ab414756",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da20952f_c272b8ad",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 7905
+      },
+      "writtenOn": "2013-11-16T10:10:39Z",
+      "side": 1,
+      "message": "išvesties kategorijas?\nKiekvienas garso iš?jimo \"kanalas\"? (tikrai ne kategorija) turi atskir? konfig?ravimo skydel??\no toliau jau verti kaip \"garso išvest?\".\n\"optimaliausia klausymosi patirtis\"? Pats sugalvojai? \"kad garso atk?rimo kokyb? b?t? optimaliausia\"",
+      "revId": "80827b81b2c87e639d6caea8251f08d7ab414756",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da20952f_c25b982d",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 106,
+      "author": {
+        "id": 7905
+      },
+      "writtenOn": "2013-11-16T10:10:39Z",
+      "side": 1,
+      "message": "garso garsum?? Suvoki kaip verti? Remiantis s?mata? Apie k? tu? Kur skyryba? new age rap? \nPagrindinio naudojimo atveju triukšmingose aplinkose tokiose kaip automobili\n? ar gatvi?, kur ramioje muzikos dalyje yra pavojus jog muzika bus paskendusi d?l foninio triukšmo.\nkas ?ia per žodži? marmalyn??\nGeriausia naudoti triukšmingoje aplinkoje, kur yra pavojus jog muzika pask?s d?l foninio triukšmo. Taip rodos aiškiau, nei ta marmalyn?.",
+      "revId": "80827b81b2c87e639d6caea8251f08d7ab414756",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da20952f_e24c9c78",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 7905
+      },
+      "writtenOn": "2013-11-16T10:10:39Z",
+      "side": 1,
+      "message": "geriasniame lygyja. ?ia kokia kalba?\ngeresniame lygyje.",
+      "revId": "80827b81b2c87e639d6caea8251f08d7ab414756",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da20952f_8237e0e2",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 7905
+      },
+      "writtenOn": "2013-11-16T10:10:39Z",
+      "side": 1,
+      "message": "Hz nematuojamos juostos\nSkyryba!\nŽemi dažniai\",\" tai paprastas žem? dažni? filtras\",\" kuris...",
+      "revId": "80827b81b2c87e639d6caea8251f08d7ab414756",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da20952f_623acccf",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 7905
+      },
+      "writtenOn": "2013-11-16T10:10:39Z",
+      "side": 1,
+      "message": "juostos matuojamos Hz? Pagal tavo vertim? taip reikt? suprast.\nKur pametei žod? Dažnis?\nPoveikis tur?t? b?ti na\nudojamas suderinti dažnio atsakus d?l vartotojo asmeninio skonio arba pagal turimas ausines ar garsi\nakalbius.\nv?l žodži? marmalyn?, kur reikia kelis kartus perskaityt ir tik tada arba suprasi kas ?ia, arba ne.\nŠije vietoje neesu stiprus (tamsta matau nei vienoje vietoje neesate stiprus, bet vis tiek nagus kišate). D?l to si?ly?iau pasitart su paž?stamu muzikantu, kaip tai teisingai tur?t? atrodyti.",
+      "revId": "80827b81b2c87e639d6caea8251f08d7ab414756",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da20952f_224b745b",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 118,
+      "author": {
+        "id": 7905
+      },
+      "writtenOn": "2013-11-16T10:10:39Z",
+      "side": 1,
+      "message": "perskaityk. viskas ok? o gal vis gi reikia padirb?t ties vertimo stygavimu, o ne tik aklai google translate naudotis? žodžiai sud?lioti nes?moningai, visiškai neina suprast apie k? kalba eina. Jokio ryšio tarp žodži?. Apie skyryb? patyl?siu...",
+      "revId": "80827b81b2c87e639d6caea8251f08d7ab414756",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da20952f_e2733cb3",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 120,
+      "author": {
+        "id": 7905
+      },
+      "writtenOn": "2013-11-16T10:10:39Z",
+      "side": 1,
+      "message": "negi kiekvien? vertimo eilut? reiks perži?r?t? kad ir tokia trumpa, o absoliu?iai nieko suprast neina.",
+      "revId": "80827b81b2c87e639d6caea8251f08d7ab414756",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da20952f_02799093",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 124,
+      "author": {
+        "id": 7905
+      },
+      "writtenOn": "2013-11-16T10:10:39Z",
+      "side": 1,
+      "message": "tu tikrai ne muzikantas jei tokie vettimai tau OK ir bandai prakišt už ger? pinig?. Ar ?ia atseit, geriau belekaip bet \"atseit\" lietuviškai, nei aiškiai bet angliškai?",
+      "revId": "80827b81b2c87e639d6caea8251f08d7ab414756",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
