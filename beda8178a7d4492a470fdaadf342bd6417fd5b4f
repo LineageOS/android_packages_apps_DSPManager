@@ -1,0 +1,191 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a26ad4f_93341c4b",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 7905
+      },
+      "writtenOn": "2013-11-24T09:49:56Z",
+      "side": 1,
+      "message": "Verti pavadinim?? ir net belekaip? Stipru... kod?l tada neverti trumpinio DSP? \"Tvarkykl?\" teisingiau verst?si ? \"Valdymas\".\nDSP manau trumpinys nuo: Digital Sound Processing? dabar sujungiame \"Digital Sound Processing Tvarkykl?\". Vertimas gavosi absurdiškas.",
+      "revId": "beda8178a7d4492a470fdaadf342bd6417fd5b4f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a26ad4f_733ce02f",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 7905
+      },
+      "writtenOn": "2013-11-24T09:49:56Z",
+      "side": 1,
+      "message": "\"n?ra galima\" -\u003e \"negalima\"",
+      "revId": "beda8178a7d4492a470fdaadf342bd6417fd5b4f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a26ad4f_b3391844",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 7905
+      },
+      "writtenOn": "2013-11-24T09:49:56Z",
+      "side": 1,
+      "message": "\"Kompresija ?jungta\"\ntuš?iažodžiavimas",
+      "revId": "beda8178a7d4492a470fdaadf342bd6417fd5b4f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a26ad4f_533f6425",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 7905
+      },
+      "writtenOn": "2013-11-24T09:49:56Z",
+      "side": 1,
+      "message": "\"Kompresija išjungta\"\ntuš?iažodžiavimas",
+      "revId": "beda8178a7d4492a470fdaadf342bd6417fd5b4f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a26ad4f_f37d50e8",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 7905
+      },
+      "writtenOn": "2013-11-24T09:49:56Z",
+      "side": 1,
+      "message": "nu dar gražiau :))) pasiaiškink k? reiškia \"reduce\".",
+      "revId": "beda8178a7d4492a470fdaadf342bd6417fd5b4f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a26ad4f_d37854fb",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 7905
+      },
+      "writtenOn": "2013-11-24T09:49:56Z",
+      "side": 1,
+      "message": "nu dar gražiau :))) pasiaiškink k? reiškia \"reduce\".",
+      "revId": "beda8178a7d4492a470fdaadf342bd6417fd5b4f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a26ad4f_13200cf7",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 7905
+      },
+      "writtenOn": "2013-11-24T09:49:56Z",
+      "side": 1,
+      "message": "\"kelio\" netinkamas vertimo pasirinkimas esamoje situacijoje. \"Alk?n?s\" taip pat netinka.",
+      "revId": "beda8178a7d4492a470fdaadf342bd6417fd5b4f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a26ad4f_73238006",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 7905
+      },
+      "writtenOn": "2013-11-24T09:49:56Z",
+      "side": 1,
+      "message": "\"nustatytieji\"? asmenin? k?ryba?",
+      "revId": "beda8178a7d4492a470fdaadf342bd6417fd5b4f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a26ad4f_53268417",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 7905
+      },
+      "writtenOn": "2013-11-24T09:49:56Z",
+      "side": 1,
+      "message": "\"nustatytieji\"? asmenin? k?ryba?",
+      "revId": "beda8178a7d4492a470fdaadf342bd6417fd5b4f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a26ad4f_9382dcc7",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 7905
+      },
+      "writtenOn": "2013-11-24T09:49:56Z",
+      "side": 1,
+      "message": "neteisingas pažodinis vertimas. Lietuvi? kalboje taip nerašoma.",
+      "revId": "beda8178a7d4492a470fdaadf342bd6417fd5b4f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a26ad4f_f316b0a6",
+        "filename": "res/values-lt/strings.xml",
+        "patchSetId": 6
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 7905
+      },
+      "writtenOn": "2013-11-24T09:49:56Z",
+      "side": 1,
+      "message": "\"d?l stereo iš?jim?\" -\u003e neteisingas pažodinis vertimas. Lietuvi? kalboje taip nerašoma.",
+      "revId": "beda8178a7d4492a470fdaadf342bd6417fd5b4f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
