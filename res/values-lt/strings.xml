@@ -25,7 +25,7 @@
     <string name="pref_unavailable">Funkcija negalima jūsų prietaise</string>
     <string name="dsp_settings_headset">DSP nustatymai - Laisvų rankų įranga</string>
     <string name="dsp_settings_speaker">DSP nustatymai - Telefono garsiakalbis</string>
-    <string name="dsp_settings_bluetooth">DSP nustatymai - Bluetooth prietaisas</string>
+    <string name="dsp_settings_bluetooth">"DSP nustatymai - „Bluetooth“ prietaisas"</string>
     <string name="dsp_settings_usb">DSP nustatymai - USB prietaisas</string>
     <string name="dsp_settings_wm8994">DSP nustatymai - WM8994</string>
     <string name="pref_dsp_title">Dinaminė diapazono kompresija</string>
@@ -68,7 +68,7 @@
     <string name="category_wm8994_signal_processing">Signalo apdorojimas</string>
     <string name="category_wm8994_headphone_amp">Laisvų rankų įranga</string>
     <string name="category_wm8994_codec_optimization">Kodeko optimizavimas</string>
-    <string name="category_wm8994_dac_config">Skaitmeninio/analoginio keitiklio nustatymai</string>
+    <string name="category_wm8994_dac_config">Skaitmeninio / analoginio keitiklio nustatymai</string>
     <string name="category_wm8994_analog_path">Analoginio kanalo konfigūracija</string>
     <string name="category_wm8994_mic_settings">Mikrofono nustatymai</string>
     <string name="category_wm8994_microphone_recording">Mikrofonas</string>
@@ -96,11 +96,11 @@
     <string name="pref_wm8994_mono_downmix_summary">Konvertuoti stereo garsą į mono (stereo išėjimams, pavyzdžiui, ausinėms)</string>
     <string name="pref_wm8994_stereo_expansion_title">Stereo plėtra</string>
     <string name="pref_wm8994_stereo_expansion_summary">Išplėsti stereo garsą naudojant skaitmeninio signalo apdorojimą</string>
-    <string name="pref_wm8994_dac_direct_title">Tiesioginis D/AC</string>
-    <string name="pref_wm8994_dac_direct_summary">Prieiga prie skaitmeninio/analoginio konverterio tiesiogiai, apeinant kanalų mikserį. Gamina aiškesnį garsą (didesnis signalo/triukšmo santykis)</string>
-    <string name="pref_wm8994_dac_osr128_title">Hi-fi atkūrimas</string>
+    <string name="pref_wm8994_dac_direct_title">Tiesioginis D / AC</string>
+    <string name="pref_wm8994_dac_direct_summary">Prieiga prie skaitmeninio / analoginio konverterio tiesiogiai, apeinant kanalų mikserį. Gamina aiškesnį garsą (didesnis signalo / triukšmo santykis)</string>
+    <string name="pref_wm8994_dac_osr128_title">"„Hi-fi“ atkūrimas"</string>
     <string name="pref_wm8994_dac_osr128_summary">Skaitmeninis-analoginis keitiklis, 128x perviršinė atskaita - aiškesnis garsas, kai groja muzika</string>
-    <string name="pref_wm8994_adc_osr128_title">Hi-fi įrašymas</string>
+    <string name="pref_wm8994_adc_osr128_title">"„Hi-fi“ įrašymas"</string>
     <string name="pref_wm8994_adc_osr128_summary">Analoginis-skaitmeninis keitiklis, 128x perviršinė atskaita - pagerina įrašų kokybę</string>
     <string name="pref_wm8994_fll_tuning_title">Suderintas garso dažnis</string>
     <string name="pref_wm8994_fll_tuning_summary">Naudokite suderintą WM8994 garso dažnį - pagerina garso kokybę</string>
