@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
-    Copyright (C) 2012-2013 The CyanogenMod Project
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright (C) 2012-2013 The CyanogenMod Project
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -14,7 +13,43 @@
     See the License for the specific language governing permissions and
     limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="microphone_recording_presets">
+    <item>ดั้งเดิม</item>
+    <item>สมดุล</item>
+    <item>อ่อนไหว</item>
+    <item>สภาพแวดล้อมดัง</item>
+  </string-array>
+  <string-array name="headphone_modes">
+    <item>สตูดิโอ</item>
+    <item>ห้อง</item>
+    <item>ห้องใหญ่</item>
+    <item>เวที</item>
+  </string-array>
+  <string-array name="equalizer_loudness_modes">
+    <item>ปิด</item>
+    <item>อ่อนที่สุด</item>
+    <item>อ่อนมาก</item>
+    <item>อ่อน</item>
+    <item>แรง</item>
+    <item>แรงมาก</item>
+    <item>แรงที่สุด</item>
+  </string-array>
+  <string-array name="compression_modes">
+    <item>เงียบ</item>
+    <item>ปานกลาง</item>
+    <item>สุดขีด</item>
+  </string-array>
+  <string-array name="bassboost_modes">
+    <item>เงียบ</item>
+    <item>ปานกลาง</item>
+    <item>สุดขีด</item>
+  </string-array>
+  <string-array name="wm8994_bassboost_modes">
+    <item>มาตราฐาย</item>
+    <item>ลำโพงเล็ก</item>
+  </string-array>
+  <string name="app_name">DSP Manager</string>
   <string name="select_configuration_title">เลือกการตั้งค่าเพื่อจะแก้ไข</string>
   <string name="headset_title">หูฟัง</string>
   <string name="speaker_title">ลำโพง</string>
@@ -26,12 +61,14 @@
   <string name="dsp_settings_speaker">DSP settings - ลำโพง</string>
   <string name="dsp_settings_bluetooth">DSP settings - อุปกรณ์บลูทูธ</string>
   <string name="dsp_settings_usb">DSP settings - อุปกรณ์ USB</string>
+  <string name="dsp_settings_wm8994">DSP settings - WM8994</string>
   <string name="pref_dsp_title">การบีบอัดแบบ Dynamic range</string>
   <string name="pref_dsp_summary_on">เปิดการบีบอัด</string>
   <string name="pref_dsp_summary_off">ปิดการบีบอัด</string>
   <string name="pref_dsp_enable">เปิด</string>
   <string name="pref_effect_title">เลือกความแรงของเอฟเฟค</string>
   <string name="dialog_effect">ความแรงเอฟเฟค</string>
+  <string name="pref_equalizer_title">Equalizer</string>
   <string name="pref_equalizer_summary_on">เปิด Equalizer แล้ว</string>
   <string name="pref_equalizer_summary_off">Equalizer ปิดอยู่</string>
   <string name="pref_equalizer_enable">เปิด</string>
@@ -54,10 +91,13 @@
   <string name="eq_preset_classical">คลาสสิก</string>
   <string name="eq_preset_deep">นุ่มลึก</string>
   <string name="eq_preset_flat">ราบเรียบ</string>
+  <string name="eq_preset_r_and_b">R&amp;B</string>
   <string name="eq_preset_rock">ร็อค</string>
   <string name="eq_preset_small_speakers">ลำโพงเล็ก</string>
+  <string name="eq_preset_treble_booster">Treble booster</string>
+  <string name="eq_preset_treble_reducer">Treble reducer</string>
   <string name="eq_preset_vocal_booster">เพิ่มเสียงร้อง</string>
-  <string name="eq_preset_custom">ตั้งค่าเอง</string>
+  <string name="eq_preset_custom">กำหนดเอง</string>
   <string name="category_wm8994_internal_speaker">ลำโพง</string>
   <string name="category_wm8994_signal_processing">ประมวลผลสัญญาณ</string>
   <string name="category_wm8994_headphone_amp">หูฟัง</string>
@@ -73,9 +113,10 @@
   <string name="pref_wm8994_headphone_amp_title">ระดับขยายเสียง</string>
   <string name="pref_wm8994_headphone_amp_summary">ปรับแต่ง analog gain</string>
   <string name="pref_wm8994_headphone_amp_dlg_title">ระดับขยายเสียงหูฟัง</string>
+  <string name="pref_wm8994_headphone_amp_dlg_desc">Analog gain</string>
   <string name="pref_wm8994_bass_boost_enable_title">เพิ่มเสียงเบส</string>
   <string name="pref_wm8994_bass_boost_enable_summary">ตั้งค่าเพิ่มเสียงเบสขั้นสูง</string>
-  <string name="pref_wm8994_bass_boost_title">ขอบเขตการเพิ่มเสียงเบส</string>
+  <string name="pref_wm8994_bass_boost_title">ขอบเขตเพิ่มเสียงเบส</string>
   <string name="pref_wm8994_bass_boost_summary">จัดการ dynamic range ขั้นสูง</string>
   <string name="pref_wm8994_bass_boost_preset_title">เพิ่มเสียงเบส preset</string>
   <string name="pref_wm8994_bass_boost_dlg_title">เพิ่มเสียงเบส</string>
@@ -89,6 +130,7 @@
   <string name="pref_wm8994_mono_downmix_summary">ดาวน์มิกซ์ เสียงสเตอริโอเป็นโมโน (สำหรับออกเป็นสเตอริโอ เช่น หูฟัง)</string>
   <string name="pref_wm8994_stereo_expansion_title">การขยายตัวสเตอริโอ</string>
   <string name="pref_wm8994_stereo_expansion_summary">\'ขยาย\' เสียงสเตอริโอจากการเข้ารหัสสัญญาณดิจิตอล</string>
+  <string name="pref_wm8994_dac_direct_title">D/AC direct</string>
   <string name="pref_wm8994_dac_direct_summary">เข้าถึงตัวแปลง ดิจิตอล/อนาล็อกโดยตรง,เพื่อหลบ channel mixer, ช่วยให้มีเสียงที่บริสุทธิขึ้น (อัตราส่วน สัญญาณ-ต่อ-การรบกวน ที่มากกว่า)</string>
   <string name="pref_wm8994_dac_osr128_title">การเล่น Hi-fi </string>
   <string name="pref_wm8994_dac_osr128_summary">ตัวแปลงดิจิตอล-ไป-อนาล็อก 128x oversampling — เสียงที่บริสุทธิกว่าเมื่อเล่นเพลง</string>
@@ -97,4 +139,5 @@
   <string name="pref_wm8994_fll_tuning_title">ปรับนาฬิกาเสียง</string>
   <string name="pref_wm8994_fll_tuning_summary">ใช้การปรับนาฬิกาเสียง WM8994  — เพิ่มคุณภาพเสียง</string>
   <string name="help_title">ช่วยเหลือ</string>
+  <string name="help_text"><b>DSP Manager คืออะไร?</b>\n\n\n\nDSP Manager คือแอปปรับเสีบงก่อนจะส่งออก โดย<i>DSP</i> หมายถึง\nDigital signal processing, และมีสวน <i>Manager</i> สำหรับจัดการ\nDSP นั้นไม่ได้ทำงานอยู่ภายในแอปของตัวเอง; มันเป็นแค่เพียงตัว manager เท่านั้น\nมันมีไว้สำหรับเปิดการปรับแต่งเสียงในระบบแอนดรอยโดยตรงทำให้มีผลโดยตรง\nกับแอปเล่นเพลงส่วนใหญ่\n\n\n\n\n<b>Philosophy</b>\n\n\n\nการประมวลผลเสียงของ CyanogenMod รองรับการส่งออกเสียงสีแบบ\nหูฟัง,USB เสียง, ลำโพงโทรศัพท์และหูฟังบลูทูธ โดยมันจะแบ่งแผงควบคุมเป็นส่วนๆ\nโดยหนึ่งแผงควบคุมต่อการส่งออกหนึ่งแบบ  DSP Manager\'s philosophy ใช้สำหรับ\nแก้ไขข้อบกพร่องแต่ละสัญญาณเสียงของโดยเฉพาะอย่างยิ่งในการที่จะไปให้ถึงจุดดีที่สุด\nและเพิ่มประสบการณ์ในการฟังที่ดียิ่งขึ้น\n\n\n\nไม่เหมือนเอฟเฟคเสียงของ AOSP ,มันไม่มรการตั้งค่าแอปต่อแอป\nไม่มีการตั้งค่าการออกของเสียงแต่ละช่องทางและยังไม่รวมเสียงที่แอปได้สร้างขึ้นเอง\nแต่ว่า DSP Manager ทำงานกีบเสียงเหล่านี้ได้\n\n\n\n\n<b>ความสามารถ</b>\n\n\n\n1. <b>Dynamic range compression (DRC)</b>\n\n\n\nเอฟเฟคนี้จะประมาณความดังของเสียงตามการรับรู้โดยเฉลี่ย\nของผู้ฟังและอุปกรณ์ซึ่งการควบคุมขึ้นอยู่กับการประเมินนี้The primary use case\nปกติแล้วการใช้งานฟังก์ชันนี้มักใช้ในที่ที่มีเสียงรบกวน เช่น บนถนน,\nโดยส่วนเงียบของเพลงมันจะถูกกลบด้วยเสียงรบกวนจากพื้นหลัง\n\n\n\nการปรับแต่ง DSP Manager สามารถช่วยประปรุงความดังเสียง\nโดยนี่ไม่ใช่ของความสามารถของ  AOSP แต่มันคือเอฟเฟคของ DSP.\n\n\n\n\n2. <b>เพิ่มประสิทธิภาพเบส</b>\n\n\n\nThe bass boost is a simple lowpass filter which can be used to add an emphasis\nat 55 Hz and lower frequencies. The boost is around 6 dB, and modified by the\n\'strength\' parameter, which adds filter resonance at the 55 Hz band, giving\nthat frequency extra emphasis. The effect is designed to combat loss of bass\nfrequency common with small speakers and supra-aural headsets which do not\ncouple tightly with user\'s ear canal.\n\n\n\n\n3. <b>Equalizer</b>\n\n\n\nThis is a 6-band equalizer with bands at 16, 64, 250, 1000, 4000 and 16000 Hz.\nSome common presets are provided, and the frequency response can also be\ncustomized by tapping on the equalizer graph. The effect should be used to tune\nthe frequency response to user\'s personal taste, or to the particular\ncapabilities of the available headset or speakers.\n\n\n\nEqualizer also contains a loudness compensation filter, which equalizes the\nchanges in ear frequency response based on the sound pressure level which\nreaches the user\'s ear. Use of a wired headset is required, and the strength\nparameter value must be tuned correctly before the effect will work as\ndesigned.\n\n\n\nTo select the right value for the compensation strength, use the quietest music\nvolume, and choose some wide-spectrum noisy music such as rock or metal. Try\nto find a setting where the bass is boosted back into audibility and seems\nbalanced with the rest of the material. After the compensation has been\ncorrectly configured, bass should remain at the same level relative to the\nother instruments regardless of the listening level. On the other hand, if\nmusic starts to sound bass heavy at higher listening levels, the compensation\nis probably set too strong, and should be reduced.\n\n\n\nThe compensation is added to the user\'s chosen adjustments. If only compensation\nis desired, the equalizer should be left in the \'Flat\' setting.\n\n\n\n\n4. <b>Headset Filter</b>\n\n\n\nThe headset filter is a crossfeed design inspired by the famous bs2b analog\ncircuit. The effect passes mono sound unchanged, and adjusts the difference\nsignal through a lowpass filter which approximates both head shadow and\ninteraural delay at once, giving right kind of psychoacoustic clues for user\'s\nears. The intention is to prevent listener fatigue arising from the\nimplausible stereo separation inherent with all headsets. The effect should be\nenabled whenever using stereo headsets.\n\n\n\nBecause the mixing reduces the stereo separation somewhat, there is a\nHaas effect reverb, which can be used to increase the perceived stereo image\nwidth. This is controlled by the \'Room type\' control.</string>
 </resources>
