@@ -59,7 +59,7 @@
     <string name="eq_preset_classical">Classical</string>
     <string name="eq_preset_deep">Deep</string>
     <string name="eq_preset_flat">Flat</string>
-    <string name="eq_preset_r_and_b">R&amp;B</string>
+    <string name="eq_preset_r_and_b">R\u0026B</string>
     <string name="eq_preset_rock">Rock</string>
     <string name="eq_preset_small_speakers">Small speakers</string>
     <string name="eq_preset_treble_booster">Treble booster</string>
@@ -106,11 +106,11 @@
     <string name="pref_wm8994_dac_direct_title">D/AC direct</string>
     <string name="pref_wm8994_dac_direct_summary">Access digital/analog converter directly, bypassing the channel mixer. Produces cleaner audio (higher signal-to-noise ratio)</string>
     <string name="pref_wm8994_dac_osr128_title">Hi-fi playback</string>
-    <string name="pref_wm8994_dac_osr128_summary">Digital-to-analog converter 128x oversampling &#8212; cleaner sound when playing music</string>
+    <string name="pref_wm8994_dac_osr128_summary">Digital-to-analog converter 128x oversampling \u2014 cleaner sound when playing music</string>
     <string name="pref_wm8994_adc_osr128_title">Hi-fi recording</string>
-    <string name="pref_wm8994_adc_osr128_summary">Analog-to-digital converter 128x oversampling &#8212; increases quality of recordings</string>
+    <string name="pref_wm8994_adc_osr128_summary">Analog-to-digital converter 128x oversampling \u2014 increases quality of recordings</string>
     <string name="pref_wm8994_fll_tuning_title">Tuned audio clock</string>
-    <string name="pref_wm8994_fll_tuning_summary">Use tuned WM8994 audio clock source &#8212; improves quality of sound</string>
+    <string name="pref_wm8994_fll_tuning_summary">Use tuned WM8994 audio clock source \u2014 improves quality of sound</string>
 
     <string name="help_title">Help</string>
     <string name="help_text"><b>What is DSP Manager?</b>
