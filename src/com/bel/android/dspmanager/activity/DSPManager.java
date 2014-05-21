@@ -133,17 +133,25 @@ class MyAdapter extends FragmentPagerAdapter {
     public MyAdapter(FragmentManager fm, Context context) {
         super(fm);
         Resources res = context.getResources();
+
+        boolean mEnableUsbInterface =
+            res.getBoolean(R.bool.enableUsbInterface);
+
         tmpEntries = new ArrayList<String>();
         tmpEntries.add("headset");
         tmpEntries.add("speaker");
         tmpEntries.add("bluetooth");
-        tmpEntries.add("usb");
 
         tmpTitles = new ArrayList<String>();
         tmpTitles.add(res.getString(R.string.headset_title).toUpperCase());
         tmpTitles.add(res.getString(R.string.speaker_title).toUpperCase());
         tmpTitles.add(res.getString(R.string.bluetooth_title).toUpperCase());
-        tmpTitles.add(res.getString(R.string.usb_title).toUpperCase());
+
+        // USB interface (enabled by default) can be disabled by overlay
+        if (mEnableUsbInterface) {
+            tmpEntries.add("usb");
+            tmpTitles.add(res.getString(R.string.usb_title).toUpperCase());
+        }
 
         // Determine if WM8994 is supported
         if (WM8994.isSupported(context)) {

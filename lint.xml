@@ -10,4 +10,8 @@
 
     <issue id="LintError" severity="ignore" />
 
+    <!-- -->
+    <issue id="MissingTranslation">
+        <ignore path="res/values/config.xml" />
+    </issue>
 </lint>
