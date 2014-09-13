@@ -111,7 +111,11 @@ public class HeadsetService extends Service {
             if (action.equals(AudioEffect.ACTION_OPEN_AUDIO_EFFECT_CONTROL_SESSION)) {
                 Log.i(TAG, String.format("New audio session: %d", sessionId));
                 if (!mAudioSessions.containsKey(sessionId)) {
-                    mAudioSessions.put(sessionId, new EffectSet(sessionId));
+                    try {
+                        mAudioSessions.put(sessionId, new EffectSet(sessionId));
+                    }catch (IllegalArgumentException e) {
+                        Log.e(TAG, "Error applying effects!", e);
+                    }
                 }
             }
             if (action.equals(AudioEffect.ACTION_CLOSE_AUDIO_EFFECT_CONTROL_SESSION)) {
