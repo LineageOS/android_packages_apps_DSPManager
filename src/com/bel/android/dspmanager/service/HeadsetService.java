@@ -291,6 +291,9 @@ public class HeadsetService extends Service {
         try {
             session.mEqualizer.setEnabled(prefs.getBoolean("dsp.tone.enable", false));
             float[] equalizerLevels;
+            int bands;
+            int actualBands;
+
             if (mOverriddenEqualizerLevels != null) {
                 equalizerLevels = mOverriddenEqualizerLevels;
             } else {
@@ -302,7 +305,16 @@ public class HeadsetService extends Service {
                 }
             }
 
-            for (short i = 0; i < equalizerLevels.length; i ++) {
+            bands = equalizerLevels.length;
+            actualBands = session.mEqualizer.getNumberOfBands();
+
+            if (bands > actualBands) {
+                // Handle smaller number of bands gracefully
+                Log.i(TAG, "Using " + actualBands + " equalizer bands of " + bands + " displayed");
+                bands = actualBands;
+            }
+
+            for (short i = 0; i < bands; i ++) {
                 session.mEqualizer.setBandLevel(i, (short) Math.round(equalizerLevels[i] * 100));
             }
             session.mEqualizer.setParameter(session.mEqualizer.intToByteArray(1000),
